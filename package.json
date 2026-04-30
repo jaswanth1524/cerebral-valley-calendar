@@ -1,0 +1,14 @@
+{
+  "name": "cerebral-valley-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generate an Apple Calendar compatible ICS feed for SF and Bay Area Cerebral Valley events.",
+  "type": "module",
+  "scripts": {
+    "build": "node src/build-calendar.mjs",
+    "check": "node --check src/build-calendar.mjs && node --check src/fetch-events.mjs && node --check src/ics.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
