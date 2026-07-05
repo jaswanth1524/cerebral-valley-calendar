@@ -2,15 +2,9 @@ name: Update Calendar
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/update-calendar.yml"
-      - "package.json"
-      - "src/**"
   schedule:
-    - cron: "23 */6 * * *"
+    - cron: "0 4 * * *"
+      timezone: "America/Los_Angeles"
 
 permissions:
   contents: read

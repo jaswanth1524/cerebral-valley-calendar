@@ -48,4 +48,4 @@ Apple Calendar subscribed feeds are read-only. To decide whether to attend, open
 4. Set `Source` to `GitHub Actions`.
 5. Run the `Update Calendar` workflow once manually.
 
-The workflow refreshes the feed every 6 hours.
+The workflow refreshes the feed daily at 4:00 AM Pacific time.
