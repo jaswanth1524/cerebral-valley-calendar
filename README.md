@@ -47,7 +47,9 @@ Luma feeds depend on public Luma discovery responses. If Luma changes those resp
 - All event types
 - No reminders or alarms
 - Original event page in the calendar event URL field
-- Removed source events disappear from the next generated feed
+- New source events are appended to the saved feed state
+- Existing source events replace the saved copy when they are fetched again
+- Ended events stay in the feed for 30 days, then are removed
 
 ## Local Usage
 
@@ -63,6 +65,8 @@ This writes:
 - `public/dallas.ics` and `public/events-dallas.json`
 - `public/austin.ics` and `public/events-austin.json`
 - Matching `public/luma-*.ics`, `public/all-*.ics`, and debug JSON files
+
+The build reads previous debug JSON from the deployed GitHub Pages site before writing new files, with local `public/` JSON as a fallback. Set `CALENDAR_STATE_BASE_URL=""` to skip remote state and use only local files during development.
 
 ## Apple Calendar
 

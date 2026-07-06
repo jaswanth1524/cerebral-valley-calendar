@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-07-06T01:21:29.980Z",
+  "generatedAt": "2026-07-06T02:08:44.620Z",
   "source": "cerebral-valley",
   "sourceUrl": "https://cerebralvalley.ai/events",
   "error": null,
+  "stateSource": "remote",
+  "stateUrl": "https://jaswanth1524.github.io/cerebral-valley-calendar/events-seattle.json",
+  "stateWarning": null,
+  "retentionDays": 30,
   "count": 62,
   "events": [
     {
@@ -720,23 +724,6 @@
       "isCerebralValleyEvent": false
     },
     {
-      "id": "63d8fede-e6bc-49a8-afe5-495c3dff6f10",
-      "uid": "63d8fede-e6bc-49a8-afe5-495c3dff6f10@cerebralvalley.ai",
-      "source": "cerebral-valley",
-      "sourceName": "Cerebral Valley",
-      "sourceId": "63d8fede-e6bc-49a8-afe5-495c3dff6f10",
-      "title": "Stripe Developer Meetup Seattle July 2026",
-      "description": "Stripe's inaugural Seattle developer meetup will bring together builders working with Stripe for an evening of product insights, best practices, and talks from Stripe engineers and industry experts like those from Auth0, covering topics from AI wallet agents to secure integrations.",
-      "start": "2026-07-29T01:00:00.000Z",
-      "end": "2026-07-29T03:00:00.000Z",
-      "location": "Seattle, WA",
-      "venue": "Stripe Seattle",
-      "url": "https://luma.com/nkhh1kh3",
-      "canonicalUrl": "https://luma.com/nkhh1kh3",
-      "type": "",
-      "isCerebralValleyEvent": false
-    },
-    {
       "id": "f0347551-c15b-45df-b76c-64d4932a7f1d",
       "uid": "f0347551-c15b-45df-b76c-64d4932a7f1d@cerebralvalley.ai",
       "source": "cerebral-valley",
@@ -750,6 +737,23 @@
       "venue": "",
       "url": "https://www.eventbrite.com/e/tickets-1991010748746",
       "canonicalUrl": "https://www.eventbrite.com/e/tickets-1991010748746",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
+      "id": "63d8fede-e6bc-49a8-afe5-495c3dff6f10",
+      "uid": "63d8fede-e6bc-49a8-afe5-495c3dff6f10@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "63d8fede-e6bc-49a8-afe5-495c3dff6f10",
+      "title": "Stripe Developer Meetup Seattle July 2026",
+      "description": "Stripe's inaugural Seattle developer meetup will bring together builders working with Stripe for an evening of product insights, best practices, and talks from Stripe engineers and industry experts like those from Auth0, covering topics from AI wallet agents to secure integrations.",
+      "start": "2026-07-29T01:00:00.000Z",
+      "end": "2026-07-29T03:00:00.000Z",
+      "location": "Seattle, WA",
+      "venue": "Stripe Seattle",
+      "url": "https://luma.com/nkhh1kh3",
+      "canonicalUrl": "https://luma.com/nkhh1kh3",
       "type": "",
       "isCerebralValleyEvent": false
     },

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:evt-fBbXZwkr4mPGkGB@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260706T193000Z
 DTEND:20260706T213000Z
 SUMMARY:Claudette Club | AI Build Day
@@ -39,7 +39,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-xDSE3I9POqLAZya@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260707T230000Z
 DTEND:20260708T010000Z
 SUMMARY:[NOW AT BREWTORIUM] ペラペラNight with AJC 🌸 日本語・英
@@ -142,7 +142,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-2uHuW3r2PdLBcdU@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260707T233000Z
 DTEND:20260708T013000Z
 SUMMARY:The Health Hustlers: An Exclusive Networking Event for Health/Welln
@@ -185,7 +185,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-dFcjGd9zofRNrfF@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260708T130000Z
 DTEND:20260708T150000Z
 SUMMARY:Beans & Builders Founder Meetup
@@ -211,7 +211,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-AEGGzHXwybnuNLT@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260708T230000Z
 DTEND:20260709T020000Z
 SUMMARY:The Long Game: Artist Development\, Community\, & Career Sustainabi
@@ -280,7 +280,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-2Ogn4d1bPIOHSdf@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T130000Z
 DTEND:20260710T153000Z
 SUMMARY:Trail Talks #5
@@ -307,7 +307,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-Vx5pDyfF0z8RLxJ@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260712T130000Z
 DTEND:20260712T150000Z
 SUMMARY:Writers Walk
@@ -336,7 +336,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-ClmG95bhjJoq1Go@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260712T220000Z
 DTEND:20260713T010000Z
 SUMMARY:Chapter 2: Let’s Get Spicy | AnniversaryPoolside Reader Social
@@ -383,7 +383,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-EicKxgBt4CiBDOL@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260713T230000Z
 DTEND:20260714T010000Z
 SUMMARY:Austin | Claude Code Meetup
@@ -419,7 +419,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-aek9smC9YJyxjuw@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260714T223000Z
 DTEND:20260715T003000Z
 SUMMARY:AI that works: Apify + TwelveLabs
@@ -484,10 +484,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-Xf2Nw7RnFfYJceu@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260715T220000Z
 DTEND:20260716T010000Z
-SUMMARY:Antler's Summer Bash and Hot Ones Challenge
+SUMMARY:Antler's Summer Bash and Hot Ones Challenge with Rho!
 LOCATION:Austin\, TX
 DESCRIPTION:Source: Luma\n\n🔥 Beat the heat (or don't) at Antler's Summe
  r Bash!\n\nJoin us for good food\, drinks\, and great conversation. The ma
@@ -503,16 +503,28 @@ DESCRIPTION:Source: Luma\n\n🔥 Beat the heat (or don't) at Antler's Summe
  ator\, or just getting your startup off the ground\, come connect with the
   people building alongside you.\n\nSchedule\n\n5:00-8:00 PM - Networking\n
  \n6:00-7:00 PM - Hot Ones Challenge\n\nBring your toughest questions and y
- our highest spice tolerance. See you there! 🔥\n\nCalendar: Antler US\n\
- nHosts: Melissa Lichota\, Jake O'Shea\, Akhil Aneel\, Prerna Sharma\n\nEve
- nt page: https://luma.com/antlerus-jm6b
+ our highest spice tolerance. See you there! 🔥\n\nMeet your Hosts: \n\nA
+ ntler: \n\nAntler is an early-stage venture capital firm with a focus on i
+ nception stage founders and a community of resident tech entrepreneurs and
+  operators. Founders are immersed in a community with everything they need
+  to build and scale at lightning speed. If you're building\, we want to he
+ ar about it!\n\nRho\n\nFrom two-person startups to public companies\, ​
+ ​​Rho is the banking platform with everything businesses need to manag
+ e cash\, control spend\, and automate finance busywork. Rho offers corpora
+ te cards\, banking\, treasury\, expense management\, AP\, accounting autom
+ ation\, and more in one integrated platform backed by award-winning suppor
+ t.\n\nRho is a fintech company\, not a bank. Checking and card services pr
+ ovided by Webster Bank\, N.A.\, member FDIC\; savings account services pro
+ vided by American Deposit Management\, LLC\, and its partner banks.\n\nCal
+ endar: Antler US\n\nHosts: Melissa Lichota\, Jake O'Shea\, Akhil Aneel\, P
+ rerna Sharma\n\nEvent page: https://luma.com/antlerus-jm6b
 URL:https://luma.com/antlerus-jm6b
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-VJg2T9U372ZUABp@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260716T220000Z
 DTEND:20260717T000000Z
 SUMMARY:LAUNCH PAD
@@ -542,7 +554,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-XrbmSCabjHhcfoj@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260717T133000Z
 DTEND:20260717T153000Z
 SUMMARY:Austin Female Founders & Friends
@@ -567,7 +579,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-RBvNuSqxHFgA7Ff@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260717T220000Z
 DTEND:20260719T220000Z
 SUMMARY:AITX Community x NVIDIA Claw Agent Hackathon
@@ -620,7 +632,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-br4cC4o7CyvpoID@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T180000Z
 DTEND:20260718T190000Z
 SUMMARY:Flippin' Fundamentals
@@ -639,7 +651,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-8reErLLg0uieoFT@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260719T140000Z
 DTEND:20260719T163000Z
 SUMMARY:Reverse Brain Rot
@@ -666,7 +678,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-J1pppuSlKjZXArU@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260720T230000Z
 DTEND:20260721T003000Z
 SUMMARY:Austin Reading Club
@@ -691,7 +703,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-JBHm8MG5j8atI9a@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260721T230000Z
 DTEND:20260722T010000Z
 SUMMARY:AI Workflow Night | AustinJS Meetup
@@ -717,7 +729,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-5KLEzej1Vq7Lo2J@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260722T000000Z
 DTEND:20260722T020000Z
 SUMMARY:Out in Tech Austin: July Mixer
@@ -738,7 +750,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-nTmTkLtu9CWFkh9@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260722T000000Z
 DTEND:20260722T020000Z
 SUMMARY:🎨 Watercolor Workshop - Spirited Away [Stargazer]
@@ -775,7 +787,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-CcsEH8wRow00E1X@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 SUMMARY:OFFTRACK hosted by TRACKRAT
@@ -804,7 +816,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-QKfvwF9eRB7PIFd@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260723T133000Z
 DTEND:20260723T153000Z
 SUMMARY:The Consumer VC Wake Up! CPG Austin
