@@ -1,10 +1,10 @@
 # Cerebral Valley Calendar
 
-Generates subscribed Apple Calendar feeds for Cerebral Valley events in selected US metro areas.
+Generates subscribed calendar feeds for Cerebral Valley events in selected US metro areas.
 
 The feed is built from Cerebral Valley's public event API and published as a static ICS file through GitHub Pages.
 
-## Calendar URL
+## Calendar URLs
 
 After this repo is pushed to GitHub as `jaswanth1524/cerebral-valley-calendar` and GitHub Pages is enabled, subscribe to any of these feeds:
 
@@ -31,7 +31,7 @@ Austin metro:
 - New York, Seattle, Dallas, and Austin metro locations
 - All event types
 - No reminders or alarms
-- Original event page in the Apple Calendar event URL field
+- Original event page in the calendar event URL field
 - Removed source events disappear from the next generated feed
 
 ## Local Usage
@@ -56,6 +56,16 @@ This writes:
 4. Set auto-refresh to your preference.
 
 Apple Calendar subscribed feeds are read-only. To decide whether to attend, open the event and click the event URL, which takes you to the original event page.
+
+## Google Calendar
+
+1. Open Google Calendar in a browser.
+2. In the left sidebar, next to `Other calendars`, click `+`.
+3. Choose `From URL`.
+4. Paste one of the calendar URLs above.
+5. Click `Add calendar`.
+
+Google Calendar subscribed feeds are read-only. Google controls the refresh schedule, so updates may not appear immediately after this repo publishes a new feed.
 
 ## GitHub Setup
 
