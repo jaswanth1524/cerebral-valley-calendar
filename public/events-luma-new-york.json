@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-06T02:08:44.620Z",
+  "generatedAt": "2026-07-06T02:36:41.736Z",
   "source": "luma",
   "sourceUrl": "https://luma.com/nyc",
   "error": null,
-  "stateSource": "local",
-  "stateUrl": "/Users/jaswanth/Documents/Cerebral_App/cerebral-valley-calendar/public/events-luma-new-york.json",
-  "stateWarning": "remote: remote state returned 404",
+  "stateSource": "remote",
+  "stateUrl": "https://jaswanth1524.github.io/cerebral-valley-calendar/events-luma-new-york.json",
+  "stateWarning": null,
   "retentionDays": 30,
   "count": 70,
   "events": [

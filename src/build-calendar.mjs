@@ -6,6 +6,7 @@ import { fetchLumaDiscoveryEvents } from "./fetch-luma-events.mjs";
 import { dedupeEvents, mergeEventState, sortEvents } from "./event-utils.mjs";
 import { DEFAULT_STATE_BASE_URL, loadPreviousEventState } from "./feed-state.mjs";
 import { generateIcs } from "./ics.mjs";
+import { buildStatusPayload, writeStatusFiles } from "./status.mjs";
 
 const publicDir = resolve("public");
 const RETENTION_DAYS = 30;
@@ -67,6 +68,20 @@ async function writeFeed({ outputFile, debugFile, events, calendarName, timezone
   const stateStatus = state?.stateSource ? ` using ${state.stateSource} state` : "";
   const status = error ? ` with ${source} error: ${error}` : "";
   console.log(`Generated ${outputFile} with ${events.length} ${calendarName} events${stateStatus}${status}.`);
+
+  return {
+    calendarName,
+    source,
+    sourceUrl,
+    outputFile,
+    debugFile,
+    count: events.length,
+    error: error || null,
+    stateSource: state?.stateSource || null,
+    stateUrl: state?.stateUrl || null,
+    stateWarning: state?.stateWarning || null,
+    retentionDays: RETENTION_DAYS
+  };
 }
 
 async function fetchCerebralValleyEventState(generatedAt) {
@@ -113,6 +128,7 @@ async function mergeFeedState({ debugFile, source, latestEvents, sourceError, ge
 async function main() {
   const generatedAt = new Date();
   const cerebralValleyResult = await fetchCerebralValleyEventState(generatedAt);
+  const feedStatuses = [];
 
   await mkdir(publicDir, { recursive: true });
 
@@ -145,7 +161,7 @@ async function main() {
       stateWarning: "derived from merged Cerebral Valley and Luma source feeds"
     };
 
-    await writeFeed({
+    feedStatuses.push(await writeFeed({
       outputFile: feed.outputFile,
       debugFile: feed.debugFile,
       events: cerebralValleyFeedEvents,
@@ -156,9 +172,9 @@ async function main() {
       sourceUrl: "https://cerebralvalley.ai/events",
       error: cerebralValleyResult.error,
       state: cerebralValleyFeedState.state
-    });
+    }));
 
-    await writeFeed({
+    feedStatuses.push(await writeFeed({
       outputFile: prefixedOutputFile("luma", feed),
       debugFile: prefixedDebugFile("luma", feed),
       events: lumaFeedEvents,
@@ -169,9 +185,9 @@ async function main() {
       sourceUrl: feed.luma.url,
       error: lumaResult.error,
       state: lumaFeedState.state
-    });
+    }));
 
-    await writeFeed({
+    feedStatuses.push(await writeFeed({
       outputFile: prefixedOutputFile("all", feed),
       debugFile: prefixedDebugFile("all", feed),
       events: combinedFeedEvents,
@@ -182,8 +198,12 @@ async function main() {
       sourceUrl: `${feed.luma.url} + https://cerebralvalley.ai/events`,
       error: [cerebralValleyResult.error, lumaResult.error].filter(Boolean).join("; ") || null,
       state: combinedState
-    });
+    }));
   }
+
+  const status = buildStatusPayload({ generatedAt, feeds: feedStatuses });
+  await writeStatusFiles({ publicDir, status });
+  console.log(`Generated status.json and index.html for ${status.feedCount} feeds.`);
 }
 
 main().catch((error) => {

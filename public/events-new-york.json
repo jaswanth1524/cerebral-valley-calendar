@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T02:08:44.620Z",
+  "generatedAt": "2026-07-06T02:36:41.736Z",
   "source": "cerebral-valley",
   "sourceUrl": "https://cerebralvalley.ai/events",
   "error": null,
@@ -7,7 +7,7 @@
   "stateUrl": "https://jaswanth1524.github.io/cerebral-valley-calendar/events-new-york.json",
   "stateWarning": null,
   "retentionDays": 30,
-  "count": 103,
+  "count": 106,
   "events": [
     {
       "id": "e4c4f1d6-a15b-4f8d-815c-37b6315087be",
@@ -724,6 +724,40 @@
       "isCerebralValleyEvent": false
     },
     {
+      "id": "140c6c79-b974-417a-9dbe-8ec6b312cf4a",
+      "uid": "140c6c79-b974-417a-9dbe-8ec6b312cf4a@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "140c6c79-b974-417a-9dbe-8ec6b312cf4a",
+      "title": "AI Startup & Investor Networking",
+      "description": "AI and tech founders, investors, and industry professionals will gather to connect and exchange ideas in a focused setting designed for serious business conversations.",
+      "start": "2026-07-16T22:00:00.000Z",
+      "end": "2026-07-17T01:00:00.000Z",
+      "location": "New York City, NY",
+      "venue": "Whiskey Cellar NYC",
+      "url": "https://www.eventbrite.com/e/tickets-1993258630220",
+      "canonicalUrl": "https://www.eventbrite.com/e/tickets-1993258630220",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
+      "id": "fde33c62-0f9a-41cd-aa88-a620d11643c5",
+      "uid": "fde33c62-0f9a-41cd-aa88-a620d11643c5@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "fde33c62-0f9a-41cd-aa88-a620d11643c5",
+      "title": "Tech Founders, Investors & Pitch Night",
+      "description": "AI and tech founders, investors, and industry professionals will gather in a dedicated space to connect and explore opportunities together.",
+      "start": "2026-07-16T22:00:00.000Z",
+      "end": "2026-07-17T01:00:00.000Z",
+      "location": "New York City, NY",
+      "venue": "Whiskey Cellar NYC",
+      "url": "https://www.eventbrite.com/e/tickets-1993258621193",
+      "canonicalUrl": "https://www.eventbrite.com/e/tickets-1993258621193",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
       "id": "f22407eb-cce6-4b7b-9c96-48e323cfee3d",
       "uid": "f22407eb-cce6-4b7b-9c96-48e323cfee3d@cerebralvalley.ai",
       "source": "cerebral-valley",
@@ -958,6 +992,23 @@
       "venue": "BrainStation",
       "url": "https://luma.com/oprm50vy",
       "canonicalUrl": "https://luma.com/oprm50vy",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
+      "id": "c44c1582-48e1-42f1-b326-59ddfc927810",
+      "uid": "c44c1582-48e1-42f1-b326-59ddfc927810@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "c44c1582-48e1-42f1-b326-59ddfc927810",
+      "title": "AI Tech Startup & Investor Networking",
+      "description": "AI and tech founders, investors, and industry pros will gather to network and exchange ideas in a focused, curated setting.",
+      "start": "2026-07-22T22:00:00.000Z",
+      "end": "2026-07-23T01:00:00.000Z",
+      "location": "New York City, NY",
+      "venue": "Whiskey Cellar NYC",
+      "url": "https://www.eventbrite.com/e/tickets-1993258685385",
+      "canonicalUrl": "https://www.eventbrite.com/e/tickets-1993258685385",
       "type": "",
       "isCerebralValleyEvent": false
     },

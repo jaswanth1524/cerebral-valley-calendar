@@ -1,10 +1,28 @@
 export function isCurrentOrFutureEvent(event, now = new Date()) {
-  if (!event.start || !event.end) return false;
+  if (!hasValidEventWindow(event)) return false;
   return new Date(event.end).getTime() >= now.getTime();
 }
 
+function dateTime(value) {
+  const time = new Date(value).getTime();
+  return Number.isNaN(time) ? null : time;
+}
+
+function dateIso(value) {
+  const time = dateTime(value);
+  return time === null ? "" : new Date(time).toISOString();
+}
+
+export function hasValidEventWindow(event) {
+  return Boolean(event?.start && event?.end && dateTime(event.start) !== null && dateTime(event.end) !== null);
+}
+
 export function sortEvents(events) {
-  return [...events].sort((left, right) => new Date(left.start) - new Date(right.start));
+  return [...events].sort((left, right) => {
+    const leftStart = dateTime(left.start) ?? Number.POSITIVE_INFINITY;
+    const rightStart = dateTime(right.start) ?? Number.POSITIVE_INFINITY;
+    return leftStart - rightStart;
+  });
 }
 
 export function canonicalEventUrl(value) {
@@ -35,7 +53,7 @@ function normalizeMetadata(value) {
 function metadataKey(event) {
   return [
     normalizeMetadata(event.title),
-    event.start ? new Date(event.start).toISOString() : "",
+    dateIso(event.start),
     normalizeMetadata(event.venue || event.location)
   ].join("|");
 }
@@ -49,7 +67,7 @@ export function eventIdentityKeys(event) {
   if (url) keys.push(`url:${url}`);
 
   const metadata = metadataKey(event);
-  if (!metadata.startsWith("||")) keys.push(`metadata:${metadata}`);
+  if (metadata.replace(/\|/g, "")) keys.push(`metadata:${metadata}`);
 
   return keys;
 }
@@ -97,13 +115,13 @@ export function mergeEventState(previousEvents, latestEvents, { now = new Date()
   const merged = [];
 
   for (const event of previousEvents) {
-    if (isWithinRetentionWindow(event, now, retentionDays)) {
+    if (hasValidEventWindow(event) && isWithinRetentionWindow(event, now, retentionDays)) {
       merged.push(event);
     }
   }
 
   for (const event of latestEvents) {
-    if (!isWithinRetentionWindow(event, now, retentionDays)) continue;
+    if (!hasValidEventWindow(event) || !isWithinRetentionWindow(event, now, retentionDays)) continue;
 
     const keys = eventIdentityKeys(event);
     const index = merged.findIndex((existing) => {
