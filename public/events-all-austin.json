@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-07-06T01:21:29.980Z",
+  "generatedAt": "2026-07-06T02:08:44.620Z",
   "source": "combined",
   "sourceUrl": "https://luma.com/austin + https://cerebralvalley.ai/events",
   "error": null,
+  "stateSource": "derived",
+  "stateUrl": null,
+  "stateWarning": "derived from merged Cerebral Valley and Luma source feeds",
+  "retentionDays": 30,
   "count": 22,
   "events": [
     {
@@ -222,8 +226,8 @@
       "source": "luma",
       "sourceName": "Luma",
       "sourceId": "evt-Xf2Nw7RnFfYJceu",
-      "title": "Antler's Summer Bash and Hot Ones Challenge",
-      "description": "🔥 Beat the heat (or don't) at Antler's Summer Bash!\n\nJoin us for good food, drinks, and great conversation. The main event? A spicy twist on networking, our Hot Ones Challenge. Founders earn the chance to grill our very own, Jake O'Shea, one fiery wing at a time.\n\n🌶️ The Hot Ones Challenge:\n\nHere's the deal, founders get to put Jake in the hot seat, no question off-limits, but there's a catch. To earn your question, you've got to eat a wing at the same heat level. We'll climb the Scoville scale, starting mild and ending with a finale that hits 8 MILLION SHU. (For reference, that's well past pure chili extract territory and into \"are you sure about this?\" range.) The hotter the wing, the bolder the question.\n\nWhether you're a founder, builder, operator, or just getting your startup off the ground, come connect with the people building alongside you.\n\nSchedule\n\n5:00-8:00 PM - Networking\n\n6:00-7:00 PM - Hot Ones Challenge\n\nBring your toughest questions and your highest spice tolerance. See you there! 🔥",
+      "title": "Antler's Summer Bash and Hot Ones Challenge with Rho!",
+      "description": "🔥 Beat the heat (or don't) at Antler's Summer Bash!\n\nJoin us for good food, drinks, and great conversation. The main event? A spicy twist on networking, our Hot Ones Challenge. Founders earn the chance to grill our very own, Jake O'Shea, one fiery wing at a time.\n\n🌶️ The Hot Ones Challenge:\n\nHere's the deal, founders get to put Jake in the hot seat, no question off-limits, but there's a catch. To earn your question, you've got to eat a wing at the same heat level. We'll climb the Scoville scale, starting mild and ending with a finale that hits 8 MILLION SHU. (For reference, that's well past pure chili extract territory and into \"are you sure about this?\" range.) The hotter the wing, the bolder the question.\n\nWhether you're a founder, builder, operator, or just getting your startup off the ground, come connect with the people building alongside you.\n\nSchedule\n\n5:00-8:00 PM - Networking\n\n6:00-7:00 PM - Hot Ones Challenge\n\nBring your toughest questions and your highest spice tolerance. See you there! 🔥\n\nMeet your Hosts: \n\nAntler: \n\nAntler is an early-stage venture capital firm with a focus on inception stage founders and a community of resident tech entrepreneurs and operators. Founders are immersed in a community with everything they need to build and scale at lightning speed. If you're building, we want to hear about it!\n\nRho\n\nFrom two-person startups to public companies, ​​​Rho is the banking platform with everything businesses need to manage cash, control spend, and automate finance busywork. Rho offers corporate cards, banking, treasury, expense management, AP, accounting automation, and more in one integrated platform backed by award-winning support.\n\nRho is a fintech company, not a bank. Checking and card services provided by Webster Bank, N.A., member FDIC; savings account services provided by American Deposit Management, LLC, and its partner banks.",
       "start": "2026-07-15T22:00:00.000Z",
       "end": "2026-07-16T01:00:00.000Z",
       "location": "Austin, TX",

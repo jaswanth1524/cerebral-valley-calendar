@@ -3,10 +3,13 @@ import { resolve } from "node:path";
 import { FEEDS } from "./feeds.mjs";
 import { fetchCerebralValleyEvents, filterEventsByLocations } from "./fetch-events.mjs";
 import { fetchLumaDiscoveryEvents } from "./fetch-luma-events.mjs";
-import { dedupeEvents, sortEvents } from "./event-utils.mjs";
+import { dedupeEvents, mergeEventState, sortEvents } from "./event-utils.mjs";
+import { DEFAULT_STATE_BASE_URL, loadPreviousEventState } from "./feed-state.mjs";
 import { generateIcs } from "./ics.mjs";
 
 const publicDir = resolve("public");
+const RETENTION_DAYS = 30;
+const stateBaseUrl = process.env.CALENDAR_STATE_BASE_URL === "" ? null : process.env.CALENDAR_STATE_BASE_URL || DEFAULT_STATE_BASE_URL;
 
 function prefixedOutputFile(prefix, feed) {
   return `${prefix}-${feed.outputFile}`;
@@ -28,13 +31,17 @@ function combinedCalendarName(feed) {
   return `Cerebral Valley + Luma ${metroName(feed)}`;
 }
 
-function debugPayload({ generatedAt, source, sourceUrl, error, events }) {
+function debugPayload({ generatedAt, source, sourceUrl, error, events, state, retentionDays = RETENTION_DAYS }) {
   return `${JSON.stringify(
     {
       generatedAt: generatedAt.toISOString(),
       source,
       sourceUrl,
       error: error || null,
+      stateSource: state?.stateSource || null,
+      stateUrl: state?.stateUrl || null,
+      stateWarning: state?.stateWarning || null,
+      retentionDays,
       count: events.length,
       events
     },
@@ -43,7 +50,7 @@ function debugPayload({ generatedAt, source, sourceUrl, error, events }) {
   )}\n`;
 }
 
-async function writeFeed({ outputFile, debugFile, events, calendarName, timezone, generatedAt, source, sourceUrl, error }) {
+async function writeFeed({ outputFile, debugFile, events, calendarName, timezone, generatedAt, source, sourceUrl, error, state }) {
   const calendar = generateIcs(events, {
     generatedAt,
     calendarName,
@@ -53,12 +60,22 @@ async function writeFeed({ outputFile, debugFile, events, calendarName, timezone
   await writeFile(resolve(publicDir, outputFile), calendar, "utf8");
   await writeFile(
     resolve(publicDir, debugFile),
-    debugPayload({ generatedAt, source, sourceUrl, error, events }),
+    debugPayload({ generatedAt, source, sourceUrl, error, events, state }),
     "utf8"
   );
 
+  const stateStatus = state?.stateSource ? ` using ${state.stateSource} state` : "";
   const status = error ? ` with ${source} error: ${error}` : "";
-  console.log(`Generated ${outputFile} with ${events.length} ${calendarName} events${status}.`);
+  console.log(`Generated ${outputFile} with ${events.length} ${calendarName} events${stateStatus}${status}.`);
+}
+
+async function fetchCerebralValleyEventState(generatedAt) {
+  try {
+    const events = await fetchCerebralValleyEvents({ now: generatedAt });
+    return { events, error: null };
+  } catch (error) {
+    return { events: [], error: error.message };
+  }
 }
 
 async function fetchLumaEventsForFeed(feed, generatedAt) {
@@ -73,17 +90,60 @@ async function fetchLumaEventsForFeed(feed, generatedAt) {
   }
 }
 
+async function mergeFeedState({ debugFile, source, latestEvents, sourceError, generatedAt }) {
+  const state = await loadPreviousEventState({
+    debugFile,
+    publicDir,
+    baseUrl: stateBaseUrl
+  });
+
+  if (sourceError && state.stateSource === "empty") {
+    throw new Error(`Cannot generate ${debugFile}: ${source} failed and no previous state is available (${state.stateWarning || "no state warning"}).`);
+  }
+
+  return {
+    events: mergeEventState(state.events, sourceError ? [] : latestEvents, {
+      now: generatedAt,
+      retentionDays: RETENTION_DAYS
+    }),
+    state
+  };
+}
+
 async function main() {
   const generatedAt = new Date();
-  const cerebralValleyEvents = await fetchCerebralValleyEvents({ now: generatedAt });
+  const cerebralValleyResult = await fetchCerebralValleyEventState(generatedAt);
 
   await mkdir(publicDir, { recursive: true });
 
   for (const feed of FEEDS) {
-    const cerebralValleyFeedEvents = sortEvents(filterEventsByLocations(cerebralValleyEvents, feed.locations));
+    const latestCerebralValleyFeedEvents = cerebralValleyResult.error
+      ? []
+      : sortEvents(filterEventsByLocations(cerebralValleyResult.events, feed.locations));
     const lumaResult = await fetchLumaEventsForFeed(feed, generatedAt);
-    const lumaFeedEvents = sortEvents(lumaResult.events);
+    const latestLumaFeedEvents = sortEvents(lumaResult.events);
+    const cerebralValleyFeedState = await mergeFeedState({
+      debugFile: feed.debugFile,
+      source: "cerebral-valley",
+      latestEvents: latestCerebralValleyFeedEvents,
+      sourceError: cerebralValleyResult.error,
+      generatedAt
+    });
+    const lumaFeedState = await mergeFeedState({
+      debugFile: prefixedDebugFile("luma", feed),
+      source: "luma",
+      latestEvents: latestLumaFeedEvents,
+      sourceError: lumaResult.error,
+      generatedAt
+    });
+    const cerebralValleyFeedEvents = cerebralValleyFeedState.events;
+    const lumaFeedEvents = lumaFeedState.events;
     const combinedFeedEvents = dedupeEvents([...cerebralValleyFeedEvents, ...lumaFeedEvents]);
+    const combinedState = {
+      stateSource: "derived",
+      stateUrl: null,
+      stateWarning: "derived from merged Cerebral Valley and Luma source feeds"
+    };
 
     await writeFeed({
       outputFile: feed.outputFile,
@@ -93,7 +153,9 @@ async function main() {
       timezone: feed.timezone,
       generatedAt,
       source: "cerebral-valley",
-      sourceUrl: "https://cerebralvalley.ai/events"
+      sourceUrl: "https://cerebralvalley.ai/events",
+      error: cerebralValleyResult.error,
+      state: cerebralValleyFeedState.state
     });
 
     await writeFeed({
@@ -105,7 +167,8 @@ async function main() {
       generatedAt,
       source: "luma",
       sourceUrl: feed.luma.url,
-      error: lumaResult.error
+      error: lumaResult.error,
+      state: lumaFeedState.state
     });
 
     await writeFeed({
@@ -117,7 +180,8 @@ async function main() {
       generatedAt,
       source: "combined",
       sourceUrl: `${feed.luma.url} + https://cerebralvalley.ai/events`,
-      error: lumaResult.error
+      error: [cerebralValleyResult.error, lumaResult.error].filter(Boolean).join("; ") || null,
+      state: combinedState
     });
   }
 }

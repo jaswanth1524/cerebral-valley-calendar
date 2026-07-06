@@ -40,8 +40,11 @@ function metadataKey(event) {
   ].join("|");
 }
 
-function dedupeKeys(event) {
+export function eventIdentityKeys(event) {
   const keys = [];
+  if (event.uid) keys.push(`uid:${event.uid}`);
+  if (event.source && event.sourceId) keys.push(`source:${event.source}:${event.sourceId}`);
+
   const url = canonicalEventUrl(event.canonicalUrl || event.url);
   if (url) keys.push(`url:${url}`);
 
@@ -61,9 +64,9 @@ export function dedupeEvents(events) {
   const deduped = [];
 
   for (const event of events) {
-    const keys = dedupeKeys(event);
+    const keys = eventIdentityKeys(event);
     const index = deduped.findIndex((existing) => {
-      const existingKeys = new Set(dedupeKeys(existing));
+      const existingKeys = new Set(eventIdentityKeys(existing));
       return keys.some((key) => existingKeys.has(key));
     });
 
@@ -75,4 +78,45 @@ export function dedupeEvents(events) {
   }
 
   return sortEvents(deduped);
+}
+
+function retentionCutoff(now, retentionDays) {
+  const cutoff = new Date(now);
+  cutoff.setUTCDate(cutoff.getUTCDate() - retentionDays);
+  return cutoff;
+}
+
+export function isWithinRetentionWindow(event, now = new Date(), retentionDays = 30) {
+  if (!event.end) return false;
+  const end = new Date(event.end);
+  if (Number.isNaN(end.getTime())) return false;
+  return end.getTime() >= retentionCutoff(now, retentionDays).getTime();
+}
+
+export function mergeEventState(previousEvents, latestEvents, { now = new Date(), retentionDays = 30 } = {}) {
+  const merged = [];
+
+  for (const event of previousEvents) {
+    if (isWithinRetentionWindow(event, now, retentionDays)) {
+      merged.push(event);
+    }
+  }
+
+  for (const event of latestEvents) {
+    if (!isWithinRetentionWindow(event, now, retentionDays)) continue;
+
+    const keys = eventIdentityKeys(event);
+    const index = merged.findIndex((existing) => {
+      const existingKeys = new Set(eventIdentityKeys(existing));
+      return keys.some((key) => existingKeys.has(key));
+    });
+
+    if (index === -1) {
+      merged.push(event);
+    } else {
+      merged[index] = event;
+    }
+  }
+
+  return sortEvents(merged);
 }

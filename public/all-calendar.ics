@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:c850925a-cda2-4144-b79a-e01c8c6f16c0@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260706T000000Z
 DTEND:20260711T090000Z
 SUMMARY:ICML (International Conference on Machine Learning) 2026
@@ -25,7 +25,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-sEkAuqxmFfyWCpV@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260706T020000Z
 DTEND:20260706T033000Z
 SUMMARY:Brainrot Lecture: The Psychology of Attention in a Digital World w/
@@ -79,7 +79,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8ae1f3e5-b418-4eae-bb8d-77c32bd664b9@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260706T213000Z
 DTEND:20260707T000000Z
 SUMMARY:AI Tinkerers - Columbus July Meetup [AI Tinkerers - Columbus]
@@ -95,7 +95,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5d9931ba-4a3d-470c-89b8-05c5b226a37d@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260707T013000Z
 DTEND:20260707T040000Z
 SUMMARY:Builders Night
@@ -113,7 +113,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-baAO0z3Y9J1OVLw@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260707T163000Z
 DTEND:20260708T013000Z
 SUMMARY:HackwithBay 3.0
@@ -156,8 +156,25 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:cf8fb1f9-c89c-4d8d-90de-e09f0fa7f16d@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260708T000000Z
+DTEND:20260708T030000Z
+SUMMARY:Chaat Maxxing: Launch Night by PromptQL
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nPromptQL will celebrate the eve of t
+ heir GA launch with an insider preview featuring live demos of their AI pl
+ atform\, a screening of their launch film\, and plenty of chaat and chai
+ —all bringing together founders\, investors\, and builders curious about
+  the future of AI-powered teamwork.\n\nEvent page: https://luma.com/chaatm
+ axxing
+URL:https://luma.com/chaatmaxxing
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:9858b7f4-4d62-43b7-96e7-cc301b6f63a2@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260708T000000Z
 DTEND:20260708T040000Z
 SUMMARY:OpenAI Codex Event at Bright Data
@@ -174,43 +191,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cf8fb1f9-c89c-4d8d-90de-e09f0fa7f16d@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260708T000000Z
-DTEND:20260708T030000Z
-SUMMARY:Chaat Maxxing: Launch Night by PromptQL
-LOCATION:San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nPromptQL will celebrate the eve of t
- heir GA launch with an insider preview featuring live demos of their AI pl
- atform\, a screening of their launch film\, and plenty of chaat and chai
- —all bringing together founders\, investors\, and builders curious about
-  the future of AI-powered teamwork.\n\nEvent page: https://luma.com/chaatm
- axxing
-URL:https://luma.com/chaatmaxxing
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:dfea9a81-cacc-44de-97c0-956352844ae7@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260708T000000Z
-DTEND:20260708T030000Z
-SUMMARY:LP & GP Dinner with aiRaiz & Founders Bay
-LOCATION:San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nAn evening bringing together veteran
-  funders\, capital allocators\, and founders to dig into fundraising dynam
- ics\, market trends\, and where money's actually flowing across private ma
- rkets—featuring seasoned partners from Suncoast Ventures\, Decibel Partn
- ers\, BDev Ventures\, and other established firms diving into today's inve
- stment landscape with candid perspectives from both LPs and GPs.\n\nEvent 
- page: https://luma.com/q71h9z6p
-URL:https://luma.com/q71h9z6p
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:f483b6ed-386f-42e9-ad77-5b10c7ecda52@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260708T000000Z
 DTEND:20260708T040000Z
 SUMMARY:Agent Experience Demo Night @ Auth0 (#5th Edition)
@@ -228,8 +210,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:dfea9a81-cacc-44de-97c0-956352844ae7@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260708T000000Z
+DTEND:20260708T030000Z
+SUMMARY:LP & GP Dinner with aiRaiz & Founders Bay
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nAn evening bringing together veteran
+  funders\, capital allocators\, and founders to dig into fundraising dynam
+ ics\, market trends\, and where money's actually flowing across private ma
+ rkets—featuring seasoned partners from Suncoast Ventures\, Decibel Partn
+ ers\, BDev Ventures\, and other established firms diving into today's inve
+ stment landscape with candid perspectives from both LPs and GPs.\n\nEvent 
+ page: https://luma.com/q71h9z6p
+URL:https://luma.com/q71h9z6p
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:evt-wHGgJpPvrSCyCgH@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260708T003000Z
 DTEND:20260708T040000Z
 SUMMARY:Punk Software Hack Night: Build Tools That Work for You
@@ -268,24 +268,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:6909ce38-c16b-43a3-a888-98389b2de4d3@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260708T013000Z
-DTEND:20260708T033000Z
-SUMMARY:Founder Dinner
-LOCATION:San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nSeries A+ founders building in AI wi
- ll gather for an evening of real talk on fundraising\, GTM\, and scaling s
- trategies with peers who've been in the trenches\, complete with a 3-cours
- e dinner and insights from builders behind some of the country's fastest-g
- rowing companies.\n\nEvent page: https://luma.com/j2p2yo58
-URL:https://luma.com/j2p2yo58
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:evt-xcNSq1YCtNMS0xM@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260708T013000Z
 DTEND:20260708T050000Z
 SUMMARY:Andera x Reducto: GeoGuessr Olympics
@@ -304,8 +288,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:6909ce38-c16b-43a3-a888-98389b2de4d3@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260708T013000Z
+DTEND:20260708T033000Z
+SUMMARY:Founder Dinner
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nSeries A+ founders building in AI wi
+ ll gather for an evening of real talk on fundraising\, GTM\, and scaling s
+ trategies with peers who've been in the trenches\, complete with a 3-cours
+ e dinner and insights from builders behind some of the country's fastest-g
+ rowing companies.\n\nEvent page: https://luma.com/j2p2yo58
+URL:https://luma.com/j2p2yo58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:d1543334-f492-473c-a1ac-371982bff35d@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260708T014500Z
 DTEND:20260708T034500Z
 SUMMARY:Claude Code Demos: Building the State of the Art
@@ -321,7 +321,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a38db14c-44fe-490c-ad50-883feafd8be1@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260708T020000Z
 DTEND:20260708T050000Z
 SUMMARY:Women in Tech\, Fintech\, AI\, Startups\, Networking Event & Elevat
@@ -341,7 +341,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d3ea6ffb-58d8-4de9-a3f8-c43519328400@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260708T170000Z
 DTEND:20260708T180000Z
 SUMMARY:Coffee Club | Deep Tech: From Research to Company
@@ -357,7 +357,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6224dcd9-cb11-40ce-b9ee-7c1e7d43d5da@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260708T220000Z
 DTEND:20260709T000000Z
 SUMMARY:AI Engineers: July
@@ -374,7 +374,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bd317f0b-46df-415d-b032-e033e5563798@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260708T230000Z
 DTEND:20260709T020000Z
 SUMMARY:Build with Campfire and Ramp MCP
@@ -389,43 +389,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:880781c1-240b-4f32-af65-43e4f1da729b@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260709T000000Z
-DTEND:20260709T030000Z
-SUMMARY:B2B AI Founder/VC Dinner
-LOCATION:San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nFounders and VCs at the forefront of
-  AI innovation will converge for candid conversations on what actually mov
- es the needle in funding\, plus dinner and unfiltered networking with prin
- cipals from NextSummit Capital Partners\, BDev Ventures\, and other heavyw
- eight investors actively backing the next generation of AI companies.\n\nE
- vent page: https://luma.com/46hm0m3e
-URL:https://luma.com/46hm0m3e
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:98be3b0d-b801-47c4-8e61-cde4635e1681@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260709T000000Z
-DTEND:20260709T020000Z
-SUMMARY:Private: Founders & Funders — Candle Atelier Night ft. Founder & 
- CEO\, BestSign
-LOCATION:To be shared on approval\, San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nWomen founders\, funders\, and allie
- s will gather for an evening of candle-making and fireside conversation wi
- th Joy Wan\, CEO of BestSign\, diving into the realities of building globa
- l SaaS companies and strategies for meaningfully supporting women entrepre
- neurs.\n\nVenue: To be shared on approval\n\nEvent page: https://www.super
- momos.com/events/private-women-founders-funders
-URL:https://www.supermomos.com/events/private-women-founders-funders
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:8522e6bb-f9cb-46c5-bf71-7cf16b531007@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T000000Z
 DTEND:20260709T020000Z
 SUMMARY:AI After Hours
@@ -442,8 +407,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:98be3b0d-b801-47c4-8e61-cde4635e1681@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260709T000000Z
+DTEND:20260709T020000Z
+SUMMARY:Private: Founders & Funders — Candle Atelier Night ft. Founder & 
+ CEO\, BestSign
+LOCATION:To be shared on approval\, San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nWomen founders\, funders\, and allie
+ s will gather for an evening of candle-making and fireside conversation wi
+ th Joy Wan\, CEO of BestSign\, diving into the realities of building globa
+ l SaaS companies and strategies for meaningfully supporting women entrepre
+ neurs.\n\nVenue: To be shared on approval\n\nEvent page: https://www.super
+ momos.com/events/private-women-founders-funders
+URL:https://www.supermomos.com/events/private-women-founders-funders
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:1b596aab-e369-4359-9eee-1ec2bf8b2806@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T000000Z
 DTEND:20260709T030000Z
 SUMMARY:The AI Stack in Practice: Live Demos from Teams Building AI in Prod
@@ -462,8 +445,25 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:880781c1-240b-4f32-af65-43e4f1da729b@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260709T000000Z
+DTEND:20260709T030000Z
+SUMMARY:B2B AI Founder/VC Dinner
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nFounders and VCs at the forefront of
+  AI innovation will converge for candid conversations on what actually mov
+ es the needle in funding\, plus dinner and unfiltered networking with prin
+ cipals from NextSummit Capital Partners\, BDev Ventures\, and other heavyw
+ eight investors actively backing the next generation of AI companies.\n\nE
+ vent page: https://luma.com/46hm0m3e
+URL:https://luma.com/46hm0m3e
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:0cd8e99a-8b8d-46f6-b954-40133c0a3c5c@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T003000Z
 DTEND:20260709T033000Z
 SUMMARY:Bay Area Frontier Research Club #13 | AGI House SF (dinner + paper 
@@ -483,7 +483,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:489b5168-3875-4d6e-bb87-ac9e6ace562c@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T003000Z
 DTEND:20260709T033000Z
 SUMMARY:“AI Infra and Robotics” VC Insights• Founder Pitches
@@ -499,8 +499,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:3d3d983e-f99e-43ea-9f46-46c6219612c9@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260709T010000Z
+DTEND:20260709T040000Z
+SUMMARY:CypherPunk: Privacy and AI Builders' Night
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nAn evening exploring how cypherpunk 
+ principles translate into real products through demos and hands-on buildin
+ g\, with conversations spanning AI agents\, privacy tech\, payments\, and 
+ open finance—plus an optional Cyberdecks 101 workshop for those wanting 
+ to dive deeper into hardware.\n\nEvent page: https://luma.com/6pb4kakb
+URL:https://luma.com/6pb4kakb
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:5a8af5b8-b0cc-4b04-acdf-c224427bd1be@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T010000Z
 DTEND:20260709T040000Z
 SUMMARY:EdgeM8: B2B Partnership Mixer
@@ -515,8 +531,43 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:ef5304d5-d7d4-4ab6-b5a4-39f232d13079@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260709T010000Z
+DTEND:20260709T040000Z
+SUMMARY:AI Tinkerers: July GTM Engineering Track w/ Attio
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nAI Tinkerers is bringing together bu
+ ilders\, platform engineers\, and technical founders to dig into GTM engin
+ eering—where growth mechanics meet application architecture—with live 
+ code demos showcasing real implementations of validation pipelines\, progr
+ ammatic distribution\, and automated testing. Expect raw\, working systems
+  that solve the bottlenecks between shipping fast and deploying safely\, w
+ ith no slides allowed.\n\nEvent page: https://sf.aitinkerers.org/p/ai-tink
+ erers-san-francisco-july-gtm-engineering-track-w-attio
+URL:https://sf.aitinkerers.org/p/ai-tinkerers-san-francisco-july-gtm-engine
+ ering-track-w-attio
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:50155f3d-2370-49f2-96b5-004db5575a25@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260709T010000Z
+DTEND:20260709T033000Z
+SUMMARY:Wiki3: Own Your Own AI Workshop
+LOCATION:Hacker Dojo\, San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nWiki3 AI Owners Group's inaugural me
+ etup will bring together AI enthusiasts and builders for a hands-on worksh
+ op experience available both in-person and online.\n\nVenue: Hacker Dojo\n
+ \nEvent page: https://www.meetup.com/hackerdojo/events/315093792
+URL:https://www.meetup.com/hackerdojo/events/315093792
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:evt-xrsEmhd5cxQbIZF@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T010000Z
 DTEND:20260709T033000Z
 SUMMARY:O1 Strategy and Fireside
@@ -544,28 +595,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ef5304d5-d7d4-4ab6-b5a4-39f232d13079@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260709T010000Z
-DTEND:20260709T040000Z
-SUMMARY:AI Tinkerers: July GTM Engineering Track w/ Attio
-LOCATION:San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nAI Tinkerers is bringing together bu
- ilders\, platform engineers\, and technical founders to dig into GTM engin
- eering—where growth mechanics meet application architecture—with live 
- code demos showcasing real implementations of validation pipelines\, progr
- ammatic distribution\, and automated testing. Expect raw\, working systems
-  that solve the bottlenecks between shipping fast and deploying safely\, w
- ith no slides allowed.\n\nEvent page: https://sf.aitinkerers.org/p/ai-tink
- erers-san-francisco-july-gtm-engineering-track-w-attio
-URL:https://sf.aitinkerers.org/p/ai-tinkerers-san-francisco-july-gtm-engine
- ering-track-w-attio
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:evt-jl5dBGSArxCXXVs@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T010000Z
 DTEND:20260709T043000Z
 SUMMARY:The Epic of… Will O'Brien (Ulysses)
@@ -605,39 +636,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:3d3d983e-f99e-43ea-9f46-46c6219612c9@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260709T010000Z
-DTEND:20260709T040000Z
-SUMMARY:CypherPunk: Privacy and AI Builders' Night
-LOCATION:San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nAn evening exploring how cypherpunk 
- principles translate into real products through demos and hands-on buildin
- g\, with conversations spanning AI agents\, privacy tech\, payments\, and 
- open finance—plus an optional Cyberdecks 101 workshop for those wanting 
- to dive deeper into hardware.\n\nEvent page: https://luma.com/6pb4kakb
-URL:https://luma.com/6pb4kakb
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:50155f3d-2370-49f2-96b5-004db5575a25@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260709T010000Z
-DTEND:20260709T033000Z
-SUMMARY:Wiki3: Own Your Own AI Workshop
-LOCATION:Hacker Dojo\, San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nWiki3 AI Owners Group's inaugural me
- etup will bring together AI enthusiasts and builders for a hands-on worksh
- op experience available both in-person and online.\n\nVenue: Hacker Dojo\n
- \nEvent page: https://www.meetup.com/hackerdojo/events/315093792
-URL:https://www.meetup.com/hackerdojo/events/315093792
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:evt-5IO9Hr2ZtqqBIaU@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T010000Z
 DTEND:20260709T040000Z
 SUMMARY:Open Tab № 02
@@ -663,8 +663,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:5a4b4e5b-51d3-4cfe-adf1-1c63b1f23f44@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260709T020000Z
+DTEND:20260709T050000Z
+SUMMARY:Startup Pitch & Themed Networking San Francisco | Unlock Your Idea
+LOCATION:ZOË\, San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nReal founders and operators will bre
+ ak bread at themed tables while five live pitches take center stage\, maki
+ ng this the kind of three-hour session where you'll actually test your ide
+ as against people who've built something.\n\nVenue: ZOË\n\nEvent page: ht
+ tps://www.eventbrite.com/e/tickets-1991470753633
+URL:https://www.eventbrite.com/e/tickets-1991470753633
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:a7844773-6e97-490e-bbe9-be7b922dd0ad@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T020000Z
 DTEND:20260709T050000Z
 SUMMARY:AI & Tech Networking Event by Ascent Valley
@@ -682,24 +698,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5a4b4e5b-51d3-4cfe-adf1-1c63b1f23f44@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260709T020000Z
-DTEND:20260709T050000Z
-SUMMARY:Startup Pitch & Themed Networking San Francisco | Unlock Your Idea
-LOCATION:ZOË\, San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nReal founders and operators will bre
- ak bread at themed tables while five live pitches take center stage\, maki
- ng this the kind of three-hour session where you'll actually test your ide
- as against people who've built something.\n\nVenue: ZOË\n\nEvent page: ht
- tps://www.eventbrite.com/e/tickets-1991470753633
-URL:https://www.eventbrite.com/e/tickets-1991470753633
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:evt-rUj5kcJsBtdmyGP@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T020000Z
 DTEND:20260709T033000Z
 SUMMARY:cherry presents: "for the eldest daughters only" walk
@@ -728,7 +728,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-cHDFJ0dBvcQBye1@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T020000Z
 DTEND:20260709T040000Z
 SUMMARY:San Francisco\, Uncovered: Things Born in SF
@@ -816,7 +816,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f3334d80-9d8c-43df-895d-69ca04a21740@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T140000Z
 DTEND:20260709T150000Z
 SUMMARY:Alameda SaaS AI Group
@@ -833,7 +833,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6de96e89-44a1-43f6-b2e9-ec750b86fe37@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T150000Z
 DTEND:20260709T163000Z
 SUMMARY:Agent Builders Breakfast - Founders & Builders
@@ -850,7 +850,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:551fc939-61d0-450a-86bf-417a2c897216@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260709T230000Z
 DTEND:20260710T020000Z
 SUMMARY:Scrappy AI Founders Play Pickleball (seed to series A)
@@ -866,7 +866,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4249c7f5-0c43-47e4-967e-a4fdfa5ef1b1@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T000000Z
 DTEND:20260710T023000Z
 SUMMARY:The Engineering Roles That Will Matter In The AI Era
@@ -883,7 +883,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3a2e1de6-236e-4a35-a891-1ede68002f85@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T000000Z
 DTEND:20260710T020000Z
 SUMMARY:AI Founders & Global Scale: Why AI Companies Get Stuck When Expandi
@@ -903,7 +903,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-OV1Wf7djWnhNCKT@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T000000Z
 DTEND:20260710T020000Z
 SUMMARY:Equinox Optimized Volume Four: Strength with Fort
@@ -936,46 +936,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:4bbaa374-bd05-46e5-99c7-cde9052497e6@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260710T003000Z
-DTEND:20260710T040000Z
-SUMMARY:CISO Roundtable Dinner
-LOCATION:Los Altos Hills\, Palo Alto\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nSenior security leaders will gather 
- for an intimate dinner where Caroline Wong—author of the Cybersecurity C
- anon Hall of Fame-inducted "Security Metrics" and former CISO at eBay\, Sy
- mantec\, and Cobalt—kicks off a candid roundtable conversation about AI 
- risk\, agent governance\, and the evolving pressures of modern security le
- adership. It's a small-room peer discussion with no vendor pitches\, just 
- CISOs and their counterparts wrestling with what's actually keeping them u
- p at night.\n\nVenue: Los Altos Hills\n\nEvent page: https://luma.com/kqlw
- e611
-URL:https://luma.com/kqlwe611
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:f36437f9-7669-47f3-b959-fa89722ebe94@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260710T003000Z
-DTEND:20260710T033000Z
-SUMMARY:Can Agents Actually Self-Improve?
-LOCATION:San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nYou'll build a real self-improving a
- gent loop from scratch—simulating edge cases\, scoring against evals\, a
- nd gating releases so each version ships only if it actually performs bett
- er—led by Nikhil from Future AGI\, who spends his days solving exactly t
- his problem in production. Walk out with a working system built on open-so
- urce tools that runs on your laptop.\n\nEvent page: https://luma.com/futur
- e-agi
-URL:https://luma.com/future-agi
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:551a375b-f0c8-4651-82a4-bc11c901ba9f@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T003000Z
 DTEND:20260710T010000Z
 SUMMARY:Enterprise Agentic AI at the Edge
@@ -991,7 +953,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-03FqwYUU7KVwpB3@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T003000Z
 DTEND:20260710T033000Z
 SUMMARY:On-Device Night | Founders Building Local Agents by AGI\, Inc.
@@ -1020,8 +982,46 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:f36437f9-7669-47f3-b959-fa89722ebe94@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260710T003000Z
+DTEND:20260710T033000Z
+SUMMARY:Can Agents Actually Self-Improve?
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nYou'll build a real self-improving a
+ gent loop from scratch—simulating edge cases\, scoring against evals\, a
+ nd gating releases so each version ships only if it actually performs bett
+ er—led by Nikhil from Future AGI\, who spends his days solving exactly t
+ his problem in production. Walk out with a working system built on open-so
+ urce tools that runs on your laptop.\n\nEvent page: https://luma.com/futur
+ e-agi
+URL:https://luma.com/future-agi
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4bbaa374-bd05-46e5-99c7-cde9052497e6@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260710T003000Z
+DTEND:20260710T040000Z
+SUMMARY:CISO Roundtable Dinner
+LOCATION:Los Altos Hills\, Palo Alto\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nSenior security leaders will gather 
+ for an intimate dinner where Caroline Wong—author of the Cybersecurity C
+ anon Hall of Fame-inducted "Security Metrics" and former CISO at eBay\, Sy
+ mantec\, and Cobalt—kicks off a candid roundtable conversation about AI 
+ risk\, agent governance\, and the evolving pressures of modern security le
+ adership. It's a small-room peer discussion with no vendor pitches\, just 
+ CISOs and their counterparts wrestling with what's actually keeping them u
+ p at night.\n\nVenue: Los Altos Hills\n\nEvent page: https://luma.com/kqlw
+ e611
+URL:https://luma.com/kqlwe611
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:34e77798-1e42-4074-bd2a-a6aa03641265@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T010000Z
 DTEND:20260710T030000Z
 SUMMARY:Private AI Founders Dinner feat. Partner at Left Lane Capital ($3.5
@@ -1038,7 +1038,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-JX5NcMLJF6qdHxG@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T010000Z
 DTEND:20260710T040000Z
 SUMMARY:Figma Field Days: SF Intern Mixer
@@ -1084,7 +1084,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-2qUrqbQggc0XXCr@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T010000Z
 DTEND:20260710T030000Z
 SUMMARY:Film Screening: The Last Taboo
@@ -1118,7 +1118,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-MpuBRmAAQF1LPzT@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T013000Z
 DTEND:20260710T043000Z
 SUMMARY:135th SF Hardware Meetup @ Antler VC | Demo Night
@@ -1159,7 +1159,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-fuZ6ZewkE5pKwQk@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T020000Z
 DTEND:20260710T033000Z
 SUMMARY:Sloptimist Etymologies with Adam Aleksic & Daniel Keller
@@ -1199,7 +1199,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-KfxQUDFsrBO5Rs1@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260710T230000Z
 DTEND:20260711T040000Z
 SUMMARY:Future of Us: Dogpatch Block Party!
@@ -1276,7 +1276,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e0165372-4351-45fe-8aee-972c7b4aeb42@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260711T010000Z
 DTEND:20260712T020000Z
 SUMMARY:AI for Social Good: Hack with MLH & DigitalOcean
@@ -1294,7 +1294,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-mH7J7j5O07XgpAU@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260711T010000Z
 DTEND:20260711T033000Z
 SUMMARY:From Seaweed to Shirt: The Chalk Up Tee Launch + Innovation Lab Tou
@@ -1330,7 +1330,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5c0e5bc9-8811-405a-826d-9be35497c01d@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260711T160000Z
 DTEND:20260713T020000Z
 SUMMARY:Rewiring Biology Hackathon by Owkin
@@ -1348,7 +1348,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-nl999tfCMUORxX2@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260711T170000Z
 DTEND:20260712T010000Z
 SUMMARY:World's Largest Hermes Buildathon | SF 🇺🇸
@@ -1390,7 +1390,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:45270337-17fc-4ce9-bdb9-34fb78a8c6c9@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260711T170000Z
 DTEND:20260712T170000Z
 SUMMARY:The Fermi Qualifier (A) - 24hr Hack: $25K Cash + Nvidia Supercomput
@@ -1408,7 +1408,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-BDRMrrZpfHKBQm5@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260711T170000Z
 DTEND:20260711T190000Z
 SUMMARY:Bouldering & Healthy Bites 🧗‍♀️
@@ -1432,7 +1432,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-8WDRgJxOJb2F8lV@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260711T170000Z
 DTEND:20260711T180000Z
 SUMMARY:Women Who Lift
@@ -1460,7 +1460,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-uTHvseuhd2ZPP64@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260711T210000Z
 DTEND:20260712T010000Z
 SUMMARY:局部对齐 Local Alignment · AI×软硬件×桌游Mix聚会
@@ -1549,7 +1549,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-rHc0RtdsFGYpHp1@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260712T020000Z
 DTEND:20260712T050000Z
 SUMMARY:PXL ■ KIM ASENDORF
@@ -1564,7 +1564,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d0f0531b-ef16-4244-b34a-9d0dc38632c2@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260712T150000Z
 DTEND:20260713T010000Z
 SUMMARY:Humanity & AGI Summit 2026：Robotics for Future Civilization
@@ -1582,7 +1582,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-bu9hsEe2P5YpRNP@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260713T013000Z
 DTEND:20260713T040000Z
 SUMMARY:How to Break into SF as an Immigrant Founder
@@ -1637,7 +1637,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f4a449e5-a058-4ce6-a208-af67598f1fa9@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260713T163000Z
 DTEND:20260714T030000Z
 SUMMARY:Bay Builders Hackathon
@@ -1656,7 +1656,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bf5d5b88-8a1c-437b-bc32-f5dbe78655bb@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260713T170000Z
 DTEND:20260718T040000Z
 SUMMARY:Sports World Cup Hackathon
@@ -1674,7 +1674,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:168ec191-ca04-4c2c-bf75-9d5a1f2e647c@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260714T010000Z
 DTEND:20260714T040000Z
 SUMMARY:Holo AI Night w/ NVIDIA & Black Forest Labs
@@ -1691,7 +1691,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:596214f2-0f6b-4a36-b142-aac9972295a7@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260714T013000Z
 DTEND:20260714T040000Z
 SUMMARY:Builders Night
@@ -1709,7 +1709,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:316ae2ac-d1e4-4f5a-8613-1f0aab1e2952@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260714T020000Z
 DTEND:20260714T050000Z
 SUMMARY:BioTech and Pharma Startups\, Investors & Professionals Networking 
@@ -1731,7 +1731,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d82107db-7f33-4853-bba2-65a11faa724b@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260714T150000Z
 DTEND:20260716T000000Z
 SUMMARY:VB Transform 2026
@@ -1748,7 +1748,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2957a2dc-3289-4d87-ad47-52a6412b8730@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260714T160000Z
 DTEND:20260716T010000Z
 SUMMARY:VB Transform 2026: Orchestrating AI Autonomy
@@ -1764,7 +1764,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8db2d438-ab10-4b8b-8dd1-d38bfb0310b3@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260714T190000Z
 DTEND:20260714T213000Z
 SUMMARY:Trust Is the New Moat. The Hidden Buying and Investing Criteria for
@@ -1784,7 +1784,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a3f7ecf2-ad55-4a73-95cd-ac663125fa9a@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260715T000000Z
 DTEND:20260715T040000Z
 SUMMARY:Applied Frontier #1: Loop Engineering | Frontier Labs
@@ -1803,7 +1803,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:42812238-7ea2-4621-9bcf-a330d38941ea@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260715T003000Z
 DTEND:20260715T033000Z
 SUMMARY:AI Builders Night
@@ -1819,26 +1819,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a2f4a2bf-e688-4caf-8641-39e0dc5211ea@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260715T010000Z
-DTEND:20260715T040000Z
-SUMMARY:Nordic Founders Night
-LOCATION:San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nNordic founders will gather to swap 
- stories and make real connections while exploring the cutting edge of agen
- tic AI\, voice AI\, robotics\, and hardware—with a potential appearance 
- from Mårten Mickos\, the former MySQL and HackerOne CEO who's backed coun
- tless Nordic startups. Expect genuine conversations\, fellow builders\, an
- d some impressive tech demos thrown into the mix.\n\nEvent page: https://l
- uma.com/a88g831c
-URL:https://luma.com/a88g831c
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:evt-ntiEX2hGHWYfv63@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260715T010000Z
 DTEND:20260715T040000Z
 SUMMARY:Show & Tell: AI for GTM @Notion with Baseten\, Cognition and Samsar
@@ -1874,8 +1856,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:a2f4a2bf-e688-4caf-8641-39e0dc5211ea@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260715T010000Z
+DTEND:20260715T040000Z
+SUMMARY:Nordic Founders Night
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nNordic founders will gather to swap 
+ stories and make real connections while exploring the cutting edge of agen
+ tic AI\, voice AI\, robotics\, and hardware—with a potential appearance 
+ from Mårten Mickos\, the former MySQL and HackerOne CEO who's backed coun
+ tless Nordic startups. Expect genuine conversations\, fellow builders\, an
+ d some impressive tech demos thrown into the mix.\n\nEvent page: https://l
+ uma.com/a88g831c
+URL:https://luma.com/a88g831c
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:evt-r7Dp9DRFWivXG9d@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260715T010000Z
 DTEND:20260715T040000Z
 SUMMARY:Rippling x Corgi Founder Live Pitch Night ft Redpoint Ventures & Ba
@@ -1901,7 +1901,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-ZGTulzUQaMCdozu@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260715T013000Z
 DTEND:20260715T043000Z
 SUMMARY:AI Philosophy Nights: Indifferent Intelligence
@@ -1946,8 +1946,24 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:1bb5d19d-dc2e-4c5c-9839-1a0173fa5325@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260715T020000Z
+DTEND:20260715T040000Z
+SUMMARY:Can AI Agents Be Morally Responsible?
+LOCATION:Aquitaine Wine Bar & Bistro\, San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nA philosophy discussion will dig int
+ o whether AI systems can actually be morally responsible\, examining cutti
+ ng-edge arguments about blame and accountability in artificial agents.\n\n
+ Venue: Aquitaine Wine Bar & Bistro\n\nEvent page: https://www.meetup.com/t
+ wo-hands-philosophy/events/315408657
+URL:https://www.meetup.com/two-hands-philosophy/events/315408657
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:d5ce3857-1052-4414-959c-eaf7d74ae081@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260715T020000Z
 DTEND:20260715T040000Z
 SUMMARY:Off the Record: A GTM Leader Private Dinner
@@ -1963,24 +1979,26 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1bb5d19d-dc2e-4c5c-9839-1a0173fa5325@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260715T020000Z
-DTEND:20260715T040000Z
-SUMMARY:Can AI Agents Be Morally Responsible?
-LOCATION:Aquitaine Wine Bar & Bistro\, San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nA philosophy discussion will dig int
- o whether AI systems can actually be morally responsible\, examining cutti
- ng-edge arguments about blame and accountability in artificial agents.\n\n
- Venue: Aquitaine Wine Bar & Bistro\n\nEvent page: https://www.meetup.com/t
- wo-hands-philosophy/events/315408657
-URL:https://www.meetup.com/two-hands-philosophy/events/315408657
+UID:adc23c63-3638-45ef-aae3-aa5d67d47c00@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260715T170000Z
+DTEND:20260715T200000Z
+SUMMARY:Women in AI Breakfast and Panel
+LOCATION:Menlo Park\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nWomen leaders from You.com\, Cisco\,
+  Netflix\, and Stanford will gather over breakfast to dig into AI trends\,
+  entrepreneurship\, and navigating tech leadership while connecting with f
+ ounders\, investors\, and operators building the future. You'll get real c
+ onversations on growth and balance alongside time to network with people a
+ ctually doing the work in AI and startups.\n\nEvent page: http://luma.com/
+ d0fq1mo8
+URL:http://luma.com/d0fq1mo8
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9eeffb90-8f78-4ffc-aa05-58ec736d9c96@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260715T170000Z
 DTEND:20260716T010000Z
 SUMMARY:Women Working Together - AI CoWork Day Edition
@@ -1999,26 +2017,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:adc23c63-3638-45ef-aae3-aa5d67d47c00@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260715T170000Z
-DTEND:20260715T200000Z
-SUMMARY:Women in AI Breakfast and Panel
-LOCATION:Menlo Park\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nWomen leaders from You.com\, Cisco\,
-  Netflix\, and Stanford will gather over breakfast to dig into AI trends\,
-  entrepreneurship\, and navigating tech leadership while connecting with f
- ounders\, investors\, and operators building the future. You'll get real c
- onversations on growth and balance alongside time to network with people a
- ctually doing the work in AI and startups.\n\nEvent page: http://luma.com/
- d0fq1mo8
-URL:http://luma.com/d0fq1mo8
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:21b8c5a9-e393-4db1-ace2-3ba0611b7287@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260715T230000Z
 DTEND:20260716T013000Z
 SUMMARY:Reading Group: Senior SWE-Bench
@@ -2038,7 +2038,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9ed3eb87-c8d6-4e72-b352-e89d18fc7f3a@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260715T233000Z
 DTEND:20260716T003000Z
 SUMMARY:AWS Agentic AI Summit with MongoDB Mastra
@@ -2053,7 +2053,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1e810d82-8c08-45d2-9fc0-1416449d291c@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260716T000000Z
 DTEND:20260716T003000Z
 SUMMARY:AI Lakehouse Meetup
@@ -2069,7 +2069,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3adfe8a8-a3d4-4ab4-a48d-dde84173c334@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260716T000000Z
 DTEND:20260717T200000Z
 SUMMARY:AI Supply Chain Hackathon 2026: Food Banks + AI
@@ -2086,7 +2086,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:009dfb08-1e2d-4380-9777-ff7ab185734c@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260716T003000Z
 DTEND:20260716T023000Z
 SUMMARY:Scrappy AI Founders Go Karting (seed to series A)
@@ -2102,7 +2102,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-RbGMMhZrHgVe1b7@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260716T003000Z
 DTEND:20260716T033000Z
 SUMMARY:Bay Area Frontier Research Club #14 | Stanford University (dinner +
@@ -2157,8 +2157,51 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:evt-CPD6OsDVtGDySQJ@luma.com
+DTSTAMP:20260706T020844Z
+DTSTART:20260716T010000Z
+DTEND:20260716T040000Z
+SUMMARY:Battle of the Paddles: AI Builders Edition
+LOCATION:SPIN San Francisco\, San Francisco\, CA
+DESCRIPTION:Source: Luma\n\nJoin MongoDB for a paddle-packed evening at SP
+ IN San Francisco on Wednesday\, July 15th!\n\nWe’re bringing together AI
+  developers\, architects\, researchers\, and AI leaders for a casual nig
+ ht of ping pong\, food\, drinks\, and great company - No presentations. No
+  agenda. Just pong. 😎🏓\n\nWith plenty of tables in play all evening
+ \, you can choose between two ways to play:\n\n🏆 Play to win: Arrive b
+ y 6:30 PM to join the AI Builder Tournament for a chance to win a Ninja Cr
+ eami (1st place)\, Apple AirPods Pro (2nd place)\, or a $100 Amazon gift c
+ ard (3rd place).\n\n🏓 Free play: Prefer to keep it casual? We’ll have
+  open tables all evening\, plus plenty of food and drinks!\n\nNo elite pin
+ g pong skills are required! Just come ready for some friendly competition 
+ and a great night with your fellow builders.\n\nCalendar: MongoDB\n\nHosts
+ : MongoDB\n\nVenue: SPIN San Francisco\n\nEvent page: https://luma.com/j7v
+ 7qeem
+URL:https://luma.com/j7v7qeem
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1948c9f7-27da-4082-87df-e4d86be30086@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260716T010000Z
+DTEND:20260716T050000Z
+SUMMARY:PaperBench: Evaluating AI’s Ability to Replicate AI Research
+LOCATION:AGI House SF: 170 St. Germain Ave. San Francisco CA 94114\, San Fr
+ ancisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nResearchers and AI enthusiasts will 
+ dig into how well artificial intelligence can reconstruct academic papers 
+ from PDFs alone\, with PaperBench putting AI's abilities to the ultimate t
+ est across code\, experiments\, and results.\n\nVenue: AGI House SF: 170 S
+ t. Germain Ave. San Francisco CA 94114\n\nEvent page: https://luma.com/Pap
+ erBenchEvaluatingAIsAbility
+URL:https://luma.com/PaperBenchEvaluatingAIsAbility
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:evt-YiDENCpolcMFwP4@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260716T010000Z
 DTEND:20260716T030000Z
 SUMMARY:Fonzi's July Tech Talks
@@ -2207,51 +2250,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1948c9f7-27da-4082-87df-e4d86be30086@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260716T010000Z
-DTEND:20260716T050000Z
-SUMMARY:PaperBench: Evaluating AI’s Ability to Replicate AI Research
-LOCATION:AGI House SF: 170 St. Germain Ave. San Francisco CA 94114\, San Fr
- ancisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nResearchers and AI enthusiasts will 
- dig into how well artificial intelligence can reconstruct academic papers 
- from PDFs alone\, with PaperBench putting AI's abilities to the ultimate t
- est across code\, experiments\, and results.\n\nVenue: AGI House SF: 170 S
- t. Germain Ave. San Francisco CA 94114\n\nEvent page: https://luma.com/Pap
- erBenchEvaluatingAIsAbility
-URL:https://luma.com/PaperBenchEvaluatingAIsAbility
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:evt-CPD6OsDVtGDySQJ@luma.com
-DTSTAMP:20260706T012129Z
-DTSTART:20260716T010000Z
-DTEND:20260716T040000Z
-SUMMARY:Battle of the Paddles: AI Builders Edition
-LOCATION:SPIN San Francisco\, San Francisco\, CA
-DESCRIPTION:Source: Luma\n\nJoin MongoDB for a paddle-packed evening at SP
- IN San Francisco on Wednesday\, July 15th!\n\nWe’re bringing together AI
-  developers\, architects\, researchers\, and AI leaders for a casual nig
- ht of ping pong\, food\, drinks\, and great company - No presentations. No
-  agenda. Just pong. 😎🏓\n\nWith plenty of tables in play all evening
- \, you can choose between two ways to play:\n\n🏆 Play to win: Arrive b
- y 6:30 PM to join the AI Builder Tournament for a chance to win a Ninja Cr
- eami (1st place)\, Apple AirPods Pro (2nd place)\, or a $100 Amazon gift c
- ard (3rd place).\n\n🏓 Free play: Prefer to keep it casual? We’ll have
-  open tables all evening\, plus plenty of food and drinks!\n\nNo elite pin
- g pong skills are required! Just come ready for some friendly competition 
- and a great night with your fellow builders.\n\nCalendar: MongoDB\n\nHosts
- : MongoDB\n\nVenue: SPIN San Francisco\n\nEvent page: https://luma.com/j7v
- 7qeem
-URL:https://luma.com/j7v7qeem
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:b67c9a2c-927c-45b1-b603-ddace8e86e8a@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260716T010000Z
 DTEND:20260716T030000Z
 SUMMARY:Lightning AI Demo Night
@@ -2267,7 +2267,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-w1IhkToEb0Arp3t@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260716T010000Z
 DTEND:20260716T030000Z
 SUMMARY:ITCH - Businesses share what needs to be built
@@ -2298,7 +2298,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d69e09ed-5726-4a7e-96cd-7c912a4ee622@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260716T020000Z
 DTEND:20260716T050000Z
 SUMMARY:Startup Pitch & Themed Networking Palo Alto | Unlock Your Idea
@@ -2314,7 +2314,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:58e29ffa-9ed8-4082-9199-e8327f8d5500@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260716T150000Z
 DTEND:20260717T020000Z
 SUMMARY:AUTONOMOUS 2026 - The Future of Robotics & Physical AI
@@ -2330,7 +2330,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5b501623-aefc-4d1d-b97b-47739b6c36ad@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260716T150000Z
 DTEND:20260716T163000Z
 SUMMARY:Agent Builders Breakfast - Founders & Builders
@@ -2346,7 +2346,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3efc5f34-94b3-4a40-9f69-187f67a7c1f9@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260717T000000Z
 DTEND:20260717T033000Z
 SUMMARY:The Odyssey — Early Screening (Decagon x Baseten)
@@ -2363,41 +2363,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:evt-MEYxMR5Xmo5Qti1@luma.com
-DTSTAMP:20260706T012129Z
-DTSTART:20260717T003000Z
-DTEND:20260717T043000Z
-SUMMARY:ElevenLabs x Sauna Hack Night
-LOCATION:1185 Mason St\, San Francisco\, CA
-DESCRIPTION:Source: Luma\n\nElevenLabs x Sauna Startup Hack Night \n\nWhat 
- happens when AI gets a memory and a voice?\n\nOn July 16\, we’re bringin
- g ElevenLabs and Sauna together at the Wordware office in San Francisco fo
- r a startup-focused Hack Night built around voice\, agents\, automation\, 
- and AI-native workflows.\n\nSauna is building an AI that learns how your t
- eam works\, remembers what matters\, and keeps work moving forward.\n\nEle
- venLabs is building agents that can listen\, speak\, type\, and take actio
- n with natural voices and real-time conversation.\n\nOne gives AI memory a
- nd context. The other gives it a voice.\n\nThis night is about what happen
- s when you put those together.\n\nWe’ll start with demos from both teams
- \, then open the room for a focused 90-minute build sprint. Bring an idea\
- , find collaborators\, and build something real. The strongest projects wi
- ll demo live at the end of the night.\n\nWhen: Thursday\, July 16\, 2026 |
-  5:30 PM - 9:20 PM PT\nWhere: Wordware office\, 1185B Old Mason Street\, S
- an Francisco\, CA 94129\n\nFormat\n\n5:30 PM — Doors\, food\, and networ
- king\n\n6:00 PM — ElevenLabs and Sauna demos\n\n6:45 PM — 90-minute bu
- ild sprint\n\n8:35 PM — Final demos\n\n9:00 PM — Awards and closing\n\
- nWhat To Bring\n\nYour laptop\n\nAn idea\, or just the willingness to find
-  one in the room\n\nThe energy to build something quickly\n\nFood will be 
- provided.\n\nSpace is limited.\n\nCalendar: [SF] Builders Collective\n\nHo
- sts: Sauna\, ElevenLabs\, Adam Chan\, Jonathan Chang\, Tarun Odedra\n\nVen
- ue: 1185 Mason St\n\nEvent page: https://luma.com/elevenlabs-sauna-jul16
-URL:https://luma.com/elevenlabs-sauna-jul16
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:evt-je6T5n6VZCj2SoI@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260717T003000Z
 DTEND:20260717T030000Z
 SUMMARY:Design Meetup x Google Sunnyvale\, CA: At Scale
@@ -2430,8 +2397,41 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:evt-MEYxMR5Xmo5Qti1@luma.com
+DTSTAMP:20260706T020844Z
+DTSTART:20260717T003000Z
+DTEND:20260717T043000Z
+SUMMARY:ElevenLabs x Sauna Hack Night
+LOCATION:1185 Mason St\, San Francisco\, CA
+DESCRIPTION:Source: Luma\n\nElevenLabs x Sauna Startup Hack Night \n\nWhat 
+ happens when AI gets a memory and a voice?\n\nOn July 16\, we’re bringin
+ g ElevenLabs and Sauna together at the Wordware office in San Francisco fo
+ r a startup-focused Hack Night built around voice\, agents\, automation\, 
+ and AI-native workflows.\n\nSauna is building an AI that learns how your t
+ eam works\, remembers what matters\, and keeps work moving forward.\n\nEle
+ venLabs is building agents that can listen\, speak\, type\, and take actio
+ n with natural voices and real-time conversation.\n\nOne gives AI memory a
+ nd context. The other gives it a voice.\n\nThis night is about what happen
+ s when you put those together.\n\nWe’ll start with demos from both teams
+ \, then open the room for a focused 90-minute build sprint. Bring an idea\
+ , find collaborators\, and build something real. The strongest projects wi
+ ll demo live at the end of the night.\n\nWhen: Thursday\, July 16\, 2026 |
+  5:30 PM - 9:20 PM PT\nWhere: Wordware office\, 1185B Old Mason Street\, S
+ an Francisco\, CA 94129\n\nFormat\n\n5:30 PM — Doors\, food\, and networ
+ king\n\n6:00 PM — ElevenLabs and Sauna demos\n\n6:45 PM — 90-minute bu
+ ild sprint\n\n8:35 PM — Final demos\n\n9:00 PM — Awards and closing\n\
+ nWhat To Bring\n\nYour laptop\n\nAn idea\, or just the willingness to find
+  one in the room\n\nThe energy to build something quickly\n\nFood will be 
+ provided.\n\nSpace is limited.\n\nCalendar: [SF] Builders Collective\n\nHo
+ sts: Sauna\, ElevenLabs\, Adam Chan\, Jonathan Chang\, Tarun Odedra\n\nVen
+ ue: 1185 Mason St\n\nEvent page: https://luma.com/elevenlabs-sauna-jul16
+URL:https://luma.com/elevenlabs-sauna-jul16
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:01fd26f5-075d-4213-bd41-96dd7bd89521@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260717T010000Z
 DTEND:20260717T033000Z
 SUMMARY:PM Sandbox: AI Workflows for Competitive Analysis & Product Briefs
@@ -2448,7 +2448,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-IP73Y8NxYzo6xBF@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260717T160000Z
 DTEND:20260718T000000Z
 SUMMARY:GTLC Bay Area Chinese Tech Leaders Summit
@@ -2493,7 +2493,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-2GsImP2NBCs9Qn7@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260717T163000Z
 DTEND:20260718T023000Z
 SUMMARY:Loop Engineering Hackathon
@@ -2530,7 +2530,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:575c632f-8da7-47ea-8416-5861445b6216@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T003000Z
 DTEND:20260719T190000Z
 SUMMARY:Embodied Metal Hackathon
@@ -2549,7 +2549,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a84daca3-c334-488c-a656-2fae3ea98c96@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T150000Z
 DTEND:20260720T000000Z
 SUMMARY:AGI Summit 2026 | Where GenAI Converges · July 18–19 · Palace o
@@ -2570,7 +2570,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-GYIDBj3q1H2Pvxt@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T150000Z
 DTEND:20260719T013000Z
 SUMMARY:DeepLearning.AI Voice AI Hackathon: The Complete Trip\, powered by 
@@ -2623,7 +2623,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-DECjFUNkamRSmH4@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T160000Z
 DTEND:20260719T040000Z
 SUMMARY:AI Valley x Pet Zen Dog-a-thon
@@ -2674,7 +2674,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f4748084-e901-47fa-876d-77d68ba0bebe@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T160000Z
 DTEND:20260720T010000Z
 SUMMARY:GenAI Summit SF 2026 — The World's Largest Generative AI Conferen
@@ -2690,7 +2690,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:869e4a7c-cf22-4739-80ea-1f460510108a@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T163000Z
 DTEND:20260718T223000Z
 SUMMARY:Scrappy AI Founders Go Mountain Biking
@@ -2706,7 +2706,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:243f95b9-6354-4068-bf47-cd958597b81a@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T170000Z
 DTEND:20260720T030000Z
 SUMMARY:AGI Summit 2026 Hackathon
@@ -2724,7 +2724,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4e632e-47f5-467e-86f1-af0fc50cc5fb@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T170000Z
 DTEND:20260718T190000Z
 SUMMARY:Bay Area AI War Room - SF Edition - Saturday\, 10:00 AM
@@ -2741,7 +2741,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-WShtCBDgY8IbIEm@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T213000Z
 DTEND:20260718T233000Z
 SUMMARY:Escaping Flatland - SF Meetup
@@ -2763,7 +2763,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fc24437c-acd5-42da-b489-e5443ee1641d@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T223000Z
 DTEND:20260719T013000Z
 SUMMARY:Build Beautifully: Beginner Claude Code Workshop 1 for Women
@@ -2780,7 +2780,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7c044429-d91a-4c35-ae14-f739d7e36a9c@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260718T230000Z
 DTEND:20260719T120000Z
 SUMMARY:The Future of Agentic AI in Healthcare - Abridge x Anthropic x Ligh
@@ -2800,7 +2800,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8951006f-cbef-4aad-8351-5e31cc04f82d@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260721T013000Z
 DTEND:20260721T040000Z
 SUMMARY:Builders Night
@@ -2818,7 +2818,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:de30e588-50bd-4cd7-8f93-60d9ad7ffa9e@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260722T000000Z
 DTEND:20260722T030000Z
 SUMMARY:Foundry Live: Agentic AI Demo Night
@@ -2835,7 +2835,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa74489-d264-476b-8cab-f83babf95d48@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260722T014500Z
 DTEND:20260722T034500Z
 SUMMARY:Claude Code Demos: Building the State of the Art
@@ -2853,7 +2853,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:06f18a9e-f88f-4b58-b5a9-8aac3a53790d@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260722T150000Z
 DTEND:20260724T003000Z
 SUMMARY:AMD Advancing AI 2026
@@ -2870,7 +2870,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:94c63338-51bd-427a-b935-ece278be7f58@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260722T160000Z
 DTEND:20260724T010000Z
 SUMMARY:AMD Advancing AI 2026 | San Francisco\, July 22-23
@@ -2887,7 +2887,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a7cea756-be3f-41ab-97f8-9a687feb45d3@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260722T170000Z
 DTEND:20260722T200000Z
 SUMMARY:Investors Breakfast: GTM in the Age of AI
@@ -2906,7 +2906,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-5CCTlMmjhGzc9I8@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260723T000000Z
 DTEND:20260723T023000Z
 SUMMARY:Dwarkesh Unplugged\, presented by WorkOS
@@ -2932,7 +2932,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:53893c28-d3a3-4e02-a963-6f2677f77e7b@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260723T003000Z
 DTEND:20260723T030000Z
 SUMMARY:AI as a Force Multiplier: Scaling Lean Finance Teams Without Adding
@@ -2952,7 +2952,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2b6b33a3-dd00-4faa-afb6-60c5bf5bc842@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260723T020000Z
 DTEND:20260723T050000Z
 SUMMARY:Startup Tech & AI Networking
@@ -2967,7 +2967,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-4mKxKw3IETg3fdm@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260723T020000Z
 DTEND:20260723T040000Z
 SUMMARY:Finding “The One”: Compatibility & Relationship Science
@@ -3049,7 +3049,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cce54bb4-67d8-4db1-abc0-4c3283934244@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260723T230000Z
 DTEND:20260724T013000Z
 SUMMARY:Geospatial AI Happy Hour GeoMeetup
@@ -3066,7 +3066,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:90934970-9e06-436b-91eb-4c0dd2de2f7e@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260723T230000Z
 DTEND:20260724T020000Z
 SUMMARY:Scrappy AI Founders Play Pickleball (Seed to Series A)
@@ -3081,7 +3081,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa0a2a5b-16d0-4873-b284-8502e1ae364a@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260724T003000Z
 DTEND:20260724T033000Z
 SUMMARY:AI Engineering Leaders Dinner/Networking/Talks
@@ -3100,7 +3100,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-OXp3PfY6HU8tcp0@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260724T163000Z
 DTEND:20260725T023000Z
 SUMMARY:Agent Swarms Hackathon
@@ -3128,7 +3128,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:73177841-08fe-43ec-8222-e525d020e74a@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260724T170000Z
 DTEND:20260724T200000Z
 SUMMARY:You.com Agentic AI Hackathon
@@ -3147,7 +3147,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:43cea94f-86ef-4ee5-89b9-44064c344ee0@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260725T160000Z
 DTEND:20260726T043000Z
 SUMMARY:Build Fast. Launch Loud. Prompt Driven Hackathon
@@ -3164,7 +3164,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:161f59fa-29d1-4d09-94c1-77a0f2c787c7@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260725T230000Z
 DTEND:20260726T020000Z
 SUMMARY:Series #2 Founder OS: Automate with Claude\, Lead with Trust
@@ -3184,7 +3184,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-jIaShwCzBVBqW6A@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260726T030000Z
 DTEND:20260726T080000Z
 SUMMARY:ANIMERAVE.EXE — San Jose's Anime + EDM Rave Night
@@ -3210,7 +3210,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:700c99b7-6ac6-4337-b1c4-bf1307a79b36@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260728T013000Z
 DTEND:20260728T040000Z
 SUMMARY:Builders Night
@@ -3228,7 +3228,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb2ae187-c388-4a63-9fbf-239e078807c2@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260728T223000Z
 DTEND:20260729T033000Z
 SUMMARY:Enterprise AI at Scale: Talks + AI Agent Workshops
@@ -3245,7 +3245,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:488915fc-1f36-4bac-bec6-e91ec25c18da@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260731T003000Z
 DTEND:20260731T023000Z
 SUMMARY:Agents and APIs Developer Meetup
@@ -3262,7 +3262,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-P7Fb9e3MUBbNsmh@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260731T010000Z
 DTEND:20260731T030000Z
 SUMMARY:Scaling revenue at Stripe and Vercel with Jeanne DeWitt Grosser (CO
@@ -3289,7 +3289,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ebbd009d-4806-4dab-b34d-857e008aae47@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260801T160000Z
 DTEND:20260803T010000Z
 SUMMARY:Agentic AI Summit 2026
@@ -3306,7 +3306,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:24a8e0af-106f-41de-81e8-0d1fe8945581@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260801T170000Z
 DTEND:20260801T190000Z
 SUMMARY:Bay Area AI War Room - Edition - Saturday\, 10:00 AM
@@ -3322,7 +3322,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4d96fa4c-3c2d-4ff5-b614-f2bb1a731c84@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260804T013000Z
 DTEND:20260804T040000Z
 SUMMARY:Builders Night
@@ -3341,7 +3341,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8893f454-7ebc-4a98-8798-54e858642cdc@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260805T014500Z
 DTEND:20260805T034500Z
 SUMMARY:Claude Code Demos: Building the State of the Art
@@ -3359,7 +3359,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d4c3c89c-b22d-4b57-8cdc-0862dd50e0e8@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260805T170000Z
 DTEND:20260805T180000Z
 SUMMARY:Coffee Club | Experienced Founders
@@ -3377,7 +3377,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c3294d67-10ae-47ee-a094-c1b11b65ec7b@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260805T220000Z
 DTEND:20260806T000000Z
 SUMMARY:AI Engineers: Aug
@@ -3393,7 +3393,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ede86d69-8c1d-4aec-ac92-c906fc07f13f@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260807T003000Z
 DTEND:20260807T033000Z
 SUMMARY:DEMO NIGHT with The AI Collective
@@ -3410,7 +3410,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:be2225ce-dd60-4ebb-b02c-085af678d706@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260807T230000Z
 DTEND:20260809T180000Z
 SUMMARY:Scrappy (AI) Founders Go Camping (+hiking)
@@ -3426,7 +3426,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-4q2iWuHaKGNEj7h@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260808T023000Z
 DTEND:20260808T040000Z
 SUMMARY:Free Stage Play | The Light in Your Heart and the Way Back Home (by
@@ -3513,7 +3513,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:492b5f6a-af72-47e2-9b6a-70bb813d6f15@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260811T013000Z
 DTEND:20260811T040000Z
 SUMMARY:Builders Night
@@ -3532,7 +3532,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:51dcca83-b5f3-4883-9aa8-3ae6954a5f30@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260812T213000Z
 DTEND:20260812T233000Z
 SUMMARY:AI Tinkerers Raleigh Meetup — August 12\, 2026 [AI Tinkerers - Ra
@@ -3550,7 +3550,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4c8dc40f-66b2-4024-9b31-db30555d4910@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260815T180000Z
 DTEND:20260815T230000Z
 SUMMARY:YC Startup Internship Expo
@@ -3569,7 +3569,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eb5b8a28-ee11-4a0e-ba33-b2fff6d2f1e5@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260818T013000Z
 DTEND:20260818T040000Z
 SUMMARY:Builders Night
@@ -3586,7 +3586,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cd678747-2471-48bf-b4c5-982976e0aad8@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260818T143000Z
 DTEND:20260819T030000Z
 SUMMARY:ModCon 2026: Compute Unlocked
@@ -3603,7 +3603,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:033bcb71-1314-4b61-9afb-a4d9407a4f13@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260819T014500Z
 DTEND:20260819T034500Z
 SUMMARY:Claude Code Demos: Building the State of the Art
@@ -3620,7 +3620,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1c44c784-e881-4613-bddf-5c02ad4c0616@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260820T223000Z
 DTEND:20260821T033000Z
 SUMMARY:AI Infrastructure: Talks + AI Agent Workshops
@@ -3638,7 +3638,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:987b6828-7026-4d02-8be5-0aa2268ad8a3@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260825T013000Z
 DTEND:20260825T040000Z
 SUMMARY:Builders Night
@@ -3657,7 +3657,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2378f599-c985-44bf-92da-2d6c74622c6f@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260826T003000Z
 DTEND:20260826T033000Z
 SUMMARY:The Future of Work Pitch Night + Open Demos: Worktech\, Robotics & 
@@ -3676,7 +3676,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:evt-2faprC6CJM6W9LU@luma.com
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260827T020000Z
 DTEND:20260827T063000Z
 SUMMARY:Up After Dark - TailscaleUp's Official Afterparty
@@ -3708,7 +3708,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ed799a6d-4b71-4cb9-864f-7e8bb070884d@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260901T013000Z
 DTEND:20260901T040000Z
 SUMMARY:Builders Night
@@ -3726,7 +3726,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a65a5817-2161-43c1-bf1b-54e642f32702@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260902T014500Z
 DTEND:20260902T034500Z
 SUMMARY:Claude Code Demos: Building the State of the Art
@@ -3743,7 +3743,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6d41bb27-b6c7-434f-861d-e5154bf7c649@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260902T160000Z
 DTEND:20260903T020000Z
 SUMMARY:abstract by convex
@@ -3758,7 +3758,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ba154c71-aead-435f-a4fb-9a407ab0c0f5@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260908T013000Z
 DTEND:20260908T040000Z
 SUMMARY:Builders Night
@@ -3775,7 +3775,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:adc7ab32-a884-49cc-bf5a-20d4499dcda5@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260909T160000Z
 DTEND:20260911T010000Z
 SUMMARY:AI for Marketers Summit San Francisco | AI for Marketers Summit
@@ -3792,7 +3792,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:797f9a8c-1174-47a7-af9b-253c69c1b6e7@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260921T220000Z
 DTEND:20260923T220000Z
 SUMMARY:HumanX 2026 Amsterdam
@@ -3807,7 +3807,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8f9fddd2-636b-42d4-b518-609335bf8d22@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260923T160000Z
 DTEND:20260923T190000Z
 SUMMARY:WeAreDevelopers World Congress 2026 North America
@@ -3826,7 +3826,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ae2b7637-8178-44cf-8d0b-eab75e451976@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260923T180000Z
 DTEND:20260926T010000Z
 SUMMARY:WeAreDevelopers World Congress North America
@@ -3845,8 +3845,22 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:15193bb1-5e84-439d-a974-ab852389d54b@cerebralvalley.ai
+DTSTAMP:20260706T020844Z
+DTSTART:20260929T160000Z
+DTEND:20260930T010000Z
+SUMMARY:OpenAI DevDay 2026
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nOpenAI DevDay 2026 is set for Septem
+ ber 29th\, gathering AI developers and tech enthusiasts for cutting-edge d
+ iscussions and demos.\n\nEvent page: https://openai.com/index/devday-2026
+URL:https://openai.com/index/devday-2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:aa9b2ba6-eb42-4af6-acc8-fcfb16f18179@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260929T160000Z
 DTEND:20261002T010000Z
 SUMMARY:The AI Conference 2026 | San Francisco AI Conference
@@ -3861,22 +3875,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:15193bb1-5e84-439d-a974-ab852389d54b@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
-DTSTART:20260929T160000Z
-DTEND:20260930T010000Z
-SUMMARY:OpenAI DevDay 2026
-LOCATION:San Francisco\, CA
-DESCRIPTION:Source: Cerebral Valley\n\nOpenAI DevDay 2026 is set for Septem
- ber 29th\, gathering AI developers and tech enthusiasts for cutting-edge d
- iscussions and demos.\n\nEvent page: https://openai.com/index/devday-2026
-URL:https://openai.com/index/devday-2026
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:0e986338-cb1d-4d64-a3fd-57444b3f1fef@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20260929T223000Z
 DTEND:20260930T033000Z
 SUMMARY:Disruptors & Enterprise: Vibe Coding Meets Agentic AI: Talks + AI A
@@ -3894,7 +3894,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2c594a70-c4fa-49d0-af7f-6bf218fe8b18@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20261003T170000Z
 DTEND:20261004T050000Z
 SUMMARY:Showerhacks — winner gets to take a shower
@@ -3909,7 +3909,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fd674f7a-abab-4668-9e5d-c1f46772577d@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20261009T170000Z
 DTEND:20261011T000000Z
 SUMMARY:AI Native Summit - TechWeek 2026
@@ -3926,7 +3926,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b712ab71-64a3-46fd-a6a9-19657df03d6e@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20261013T003000Z
 DTEND:20261013T033000Z
 SUMMARY:The Future of Work Pitch Night + Open Demos: Worktech\, Robotics & 
@@ -3945,7 +3945,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:40333e4e-4437-4a7e-bad6-b8e622042da8@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20261020T160000Z
 DTEND:20261022T010000Z
 SUMMARY:No-Code Automation & AI Expo
@@ -3963,7 +3963,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc1895f-c14f-4e1a-a8e3-751191cdde76@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20261022T160000Z
 DTEND:20261024T010000Z
 SUMMARY:AGNTCon + MCPCon
@@ -3980,7 +3980,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a273af34-21b1-422d-962c-c69ef95dc2ba@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20261028T040000Z
 DTEND:20261028T040000Z
 SUMMARY:Crescendo Live | San Francisco 2026
@@ -3999,7 +3999,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c73fc765-4d7e-4ce8-bc56-b334142b0d8b@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20261103T170000Z
 DTEND:20261107T000000Z
 SUMMARY:TechEquity Ai Summit 2026: Talks + AI Agent Workshops
@@ -4017,7 +4017,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:42e76db2-f579-4138-8c23-70634c3ec818@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20261107T160000Z
 DTEND:20261109T040000Z
 SUMMARY:Festiverse 2026: The World’s Biggest Festival Hackathon
@@ -4035,7 +4035,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2cefb36c-b3eb-4602-a84b-4b380f9baaa4@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20261111T160000Z
 DTEND:20261112T010000Z
 SUMMARY:AI Loves Data - GenAI and Intelligent Agents in the Enterprise
@@ -4051,7 +4051,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:643a6dda-e1e0-4a01-8dd7-37bbc8c31df0@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20261116T170000Z
 DTEND:20261120T080000Z
 SUMMARY:QCon 2026: Senior Software Engineering Conference
@@ -4070,7 +4070,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:40060e67-df26-493c-b525-1bc1d8c28c8c@cerebralvalley.ai
-DTSTAMP:20260706T012129Z
+DTSTAMP:20260706T020844Z
 DTSTART:20261209T080000Z
 DTEND:20261213T170000Z
 SUMMARY:Conference on Neural Information Processing Systems

@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-07-06T01:21:29.980Z",
+  "generatedAt": "2026-07-06T02:08:44.620Z",
   "source": "combined",
   "sourceUrl": "https://luma.com/seattle + https://cerebralvalley.ai/events",
   "error": null,
+  "stateSource": "derived",
+  "stateUrl": null,
+  "stateWarning": "derived from merged Cerebral Valley and Luma source feeds",
+  "retentionDays": 30,
   "count": 88,
   "events": [
     {
@@ -1213,6 +1217,23 @@
       ]
     },
     {
+      "id": "f0347551-c15b-45df-b76c-64d4932a7f1d",
+      "uid": "f0347551-c15b-45df-b76c-64d4932a7f1d@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "f0347551-c15b-45df-b76c-64d4932a7f1d",
+      "title": "HackerX AI (Employer Registration)",
+      "description": "Over 100 AI professionals will converge for an evening of networking and peer exchange, bringing together expertise across machine learning, AI research, and industry applications.",
+      "start": "2026-07-29T01:00:00.000Z",
+      "end": "2026-07-29T04:00:00.000Z",
+      "location": "Seattle, WA",
+      "venue": "",
+      "url": "https://www.eventbrite.com/e/tickets-1991010748746",
+      "canonicalUrl": "https://www.eventbrite.com/e/tickets-1991010748746",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
       "id": "evt-x9UHJAQLsDochMX",
       "uid": "evt-x9UHJAQLsDochMX@luma.com",
       "source": "luma",
@@ -1232,23 +1253,6 @@
         "StripeDevelopers",
         "Ben Smith"
       ]
-    },
-    {
-      "id": "f0347551-c15b-45df-b76c-64d4932a7f1d",
-      "uid": "f0347551-c15b-45df-b76c-64d4932a7f1d@cerebralvalley.ai",
-      "source": "cerebral-valley",
-      "sourceName": "Cerebral Valley",
-      "sourceId": "f0347551-c15b-45df-b76c-64d4932a7f1d",
-      "title": "HackerX AI (Employer Registration)",
-      "description": "Over 100 AI professionals will converge for an evening of networking and peer exchange, bringing together expertise across machine learning, AI research, and industry applications.",
-      "start": "2026-07-29T01:00:00.000Z",
-      "end": "2026-07-29T04:00:00.000Z",
-      "location": "Seattle, WA",
-      "venue": "",
-      "url": "https://www.eventbrite.com/e/tickets-1991010748746",
-      "canonicalUrl": "https://www.eventbrite.com/e/tickets-1991010748746",
-      "type": "",
-      "isCerebralValleyEvent": false
     },
     {
       "id": "evt-DI5U0egx7HjVdKF",

@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-07-06T01:21:29.980Z",
+  "generatedAt": "2026-07-06T02:08:44.620Z",
   "source": "cerebral-valley",
   "sourceUrl": "https://cerebralvalley.ai/events",
   "error": null,
+  "stateSource": "remote",
+  "stateUrl": "https://jaswanth1524.github.io/cerebral-valley-calendar/events-dallas.json",
+  "stateWarning": null,
+  "retentionDays": 30,
   "count": 0,
   "events": []
 }

@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-07-06T01:21:29.980Z",
+  "generatedAt": "2026-07-06T02:08:44.620Z",
   "source": "combined",
   "sourceUrl": "https://luma.com/dallas + https://cerebralvalley.ai/events",
   "error": null,
+  "stateSource": "derived",
+  "stateUrl": null,
+  "stateWarning": "derived from merged Cerebral Valley and Luma source feeds",
+  "retentionDays": 30,
   "count": 12,
   "events": [
     {
