@@ -1,4 +1,5 @@
 const CALENDAR_NAME = "Cerebral Valley SF & Bay Area";
+const CALENDAR_TIMEZONE = "America/Los_Angeles";
 const PRODUCT_ID = "-//jaswanth1524//Cerebral Valley Calendar//EN";
 
 function escapeText(value = "") {
@@ -66,15 +67,22 @@ function eventToIcs(event, generatedAt) {
   ];
 }
 
-export function generateIcs(events, { generatedAt = new Date() } = {}) {
+export function generateIcs(
+  events,
+  {
+    generatedAt = new Date(),
+    calendarName = CALENDAR_NAME,
+    timezone = CALENDAR_TIMEZONE
+  } = {}
+) {
   const lines = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
     `PRODID:${PRODUCT_ID}`,
     "CALSCALE:GREGORIAN",
     "METHOD:PUBLISH",
-    `X-WR-CALNAME:${escapeText(CALENDAR_NAME)}`,
-    "X-WR-TIMEZONE:America/Los_Angeles",
+    `X-WR-CALNAME:${escapeText(calendarName)}`,
+    `X-WR-TIMEZONE:${timezone}`,
     "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
     "X-PUBLISHED-TTL:PT6H",
     ...events.flatMap((event) => eventToIcs(event, generatedAt)),

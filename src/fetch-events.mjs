@@ -1,24 +1,5 @@
 const API_URL = "https://api.cerebralvalley.ai/v1/public/event/pull";
 
-export const BAY_AREA_LOCATIONS = new Set([
-  "San Francisco, CA",
-  "San Jose, CA",
-  "Hillsborough, CA",
-  "Stanford, CA",
-  "Los Altos, CA",
-  "Oakland, CA",
-  "Palo Alto, CA",
-  "Pleasanton, CA",
-  "Mountain View, CA",
-  "Sunnyvale, CA",
-  "Berkeley, CA",
-  "San Mateo, CA",
-  "Menlo Park, CA",
-  "Cupertino, CA",
-  "Santa Clara, CA",
-  "Campbell, CA"
-]);
-
 const DEFAULT_LIMIT = 100;
 const MAX_PAGES = 30;
 
@@ -62,8 +43,9 @@ function normalizeEvent(event) {
   };
 }
 
-export function isBayAreaEvent(event) {
-  return BAY_AREA_LOCATIONS.has(event.location);
+export function filterEventsByLocations(events, locations) {
+  const locationSet = new Set(locations);
+  return events.filter((event) => locationSet.has(event.location));
 }
 
 export function isCurrentOrFutureEvent(event, now = new Date()) {
@@ -119,7 +101,6 @@ export async function fetchCerebralValleyEvents({
   return events
     .map(normalizeEvent)
     .filter((event) => isCurrentOrFutureEvent(event, now))
-    .filter(isBayAreaEvent)
     .filter((event) => {
       if (seen.has(event.id)) return false;
       seen.add(event.id);

@@ -1,25 +1,42 @@
 import { mkdir, writeFile } from "node:fs/promises";
-import { dirname, resolve } from "node:path";
-import { fetchCerebralValleyEvents } from "./fetch-events.mjs";
+import { resolve } from "node:path";
+import { FEEDS } from "./feeds.mjs";
+import { fetchCerebralValleyEvents, filterEventsByLocations } from "./fetch-events.mjs";
 import { generateIcs } from "./ics.mjs";
 
-const outputPath = resolve("public/calendar.ics");
-const debugPath = resolve("public/events.json");
+const publicDir = resolve("public");
+
+function feedOutputPath(feed) {
+  return resolve(publicDir, feed.outputFile);
+}
+
+function feedDebugPath(feed) {
+  return resolve(publicDir, feed.debugFile);
+}
 
 async function main() {
   const generatedAt = new Date();
   const events = await fetchCerebralValleyEvents({ now: generatedAt });
-  const calendar = generateIcs(events, { generatedAt });
 
-  await mkdir(dirname(outputPath), { recursive: true });
-  await writeFile(outputPath, calendar, "utf8");
-  await writeFile(
-    debugPath,
-    `${JSON.stringify({ generatedAt: generatedAt.toISOString(), count: events.length, events }, null, 2)}\n`,
-    "utf8"
-  );
+  await mkdir(publicDir, { recursive: true });
 
-  console.log(`Generated ${outputPath} with ${events.length} SF & Bay Area events.`);
+  for (const feed of FEEDS) {
+    const feedEvents = filterEventsByLocations(events, feed.locations);
+    const calendar = generateIcs(feedEvents, {
+      generatedAt,
+      calendarName: feed.calendarName,
+      timezone: feed.timezone
+    });
+
+    await writeFile(feedOutputPath(feed), calendar, "utf8");
+    await writeFile(
+      feedDebugPath(feed),
+      `${JSON.stringify({ generatedAt: generatedAt.toISOString(), count: feedEvents.length, events: feedEvents }, null, 2)}\n`,
+      "utf8"
+    );
+
+    console.log(`Generated ${feed.outputFile} with ${feedEvents.length} ${feed.calendarName} events.`);
+  }
 }
 
 main().catch((error) => {

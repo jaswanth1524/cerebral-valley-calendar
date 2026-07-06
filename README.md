@@ -1,23 +1,37 @@
 # Cerebral Valley Calendar
 
-Generates a subscribed Apple Calendar feed for Cerebral Valley events in San Francisco and the Bay Area.
+Generates subscribed calendar feeds for Cerebral Valley events in selected US metro areas.
 
 The feed is built from Cerebral Valley's public event API and published as a static ICS file through GitHub Pages.
 
-## Calendar URL
+## Calendar URLs
 
-After this repo is pushed to GitHub as `jaswanth1524/cerebral-valley-calendar` and GitHub Pages is enabled, subscribe to:
+After this repo is pushed to GitHub as `jaswanth1524/cerebral-valley-calendar` and GitHub Pages is enabled, subscribe to any of these feeds:
 
 ```txt
-https://jaswanth1524.github.io/cerebral-valley-calendar/calendar.ics
+SF & Bay Area:
+  https://jaswanth1524.github.io/cerebral-valley-calendar/calendar.ics
+
+New York metro:
+  https://jaswanth1524.github.io/cerebral-valley-calendar/new-york.ics
+
+Seattle metro:
+  https://jaswanth1524.github.io/cerebral-valley-calendar/seattle.ics
+
+Dallas metro:
+  https://jaswanth1524.github.io/cerebral-valley-calendar/dallas.ics
+
+Austin metro:
+  https://jaswanth1524.github.io/cerebral-valley-calendar/austin.ics
 ```
 
 ## What It Includes
 
 - SF and Bay Area locations
+- New York, Seattle, Dallas, and Austin metro locations
 - All event types
 - No reminders or alarms
-- Original event page in the Apple Calendar event URL field
+- Original event page in the calendar event URL field
 - Removed source events disappear from the next generated feed
 
 ## Local Usage
@@ -28,8 +42,11 @@ npm run build
 
 This writes:
 
-- `public/calendar.ics`
-- `public/events.json`
+- `public/calendar.ics` and `public/events.json`
+- `public/new-york.ics` and `public/events-new-york.json`
+- `public/seattle.ics` and `public/events-seattle.json`
+- `public/dallas.ics` and `public/events-dallas.json`
+- `public/austin.ics` and `public/events-austin.json`
 
 ## Apple Calendar
 
@@ -39,6 +56,16 @@ This writes:
 4. Set auto-refresh to your preference.
 
 Apple Calendar subscribed feeds are read-only. To decide whether to attend, open the event and click the event URL, which takes you to the original event page.
+
+## Google Calendar
+
+1. Open Google Calendar in a browser.
+2. In the left sidebar, next to `Other calendars`, click `+`.
+3. Choose `From URL`.
+4. Paste one of the calendar URLs above.
+5. Click `Add calendar`.
+
+Google Calendar subscribed feeds are read-only. Google controls the refresh schedule, so updates may not appear immediately after this repo publishes a new feed.
 
 ## GitHub Setup
 
