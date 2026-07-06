@@ -9,161 +9,163 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:e4c4f1d6-a15b-4f8d-815c-37b6315087be@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
 SUMMARY:AI in the Built Environment: Practical Applications for Architects 
  & Design
 LOCATION:Crestron Experience Center\, New York City\, NY
-DESCRIPTION:An AIA CEU will dive into how AI is transforming architecture\,
-  design\, smart buildings\, and connected environments. Attendees will gai
- n insights into the cutting-edge technologies reshaping the built environm
- ent from professionals working at the intersection of AI and design.\n\nVe
- nue: Crestron Experience Center\n\nEvent page: https://www.eventbrite.com/
- e/tickets-1992577799838
+DESCRIPTION:Source: Cerebral Valley\n\nAn AIA CEU will dive into how AI is 
+ transforming architecture\, design\, smart buildings\, and connected envir
+ onments. Attendees will gain insights into the cutting-edge technologies r
+ eshaping the built environment from professionals working at the intersect
+ ion of AI and design.\n\nVenue: Crestron Experience Center\n\nEvent page: 
+ https://www.eventbrite.com/e/tickets-1992577799838
 URL:https://www.eventbrite.com/e/tickets-1992577799838
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0a4f5d22-c8f2-421c-9337-614f6956803b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260707T210000Z
 DTEND:20260707T230000Z
 SUMMARY:Matcha Mahjong Mixer
 LOCATION:New York City\, NY
-DESCRIPTION:Founders and investors building in AI\, SaaS\, fintech\, and be
- yond will gather for an unconventional mixer where mahjong and matcha repl
- ace the typical pitch-deck format\, designed to surface genuine connection
- s among people who've actually shipped products. Organized by Leo AI (2025
-  Startup Awards finalist) and Reitler Kailas & Rosenblatt (a boutique vent
- ure law firm)\, the evening promises high-value conversations in an intima
- te setting without the name-tag grind.\n\nEvent page: https://luma.com/02u
- q48nz
+DESCRIPTION:Source: Cerebral Valley\n\nFounders and investors building in A
+ I\, SaaS\, fintech\, and beyond will gather for an unconventional mixer wh
+ ere mahjong and matcha replace the typical pitch-deck format\, designed to
+  surface genuine connections among people who've actually shipped products
+ . Organized by Leo AI (2025 Startup Awards finalist) and Reitler Kailas & 
+ Rosenblatt (a boutique venture law firm)\, the evening promises high-value
+  conversations in an intimate setting without the name-tag grind.\n\nEvent
+  page: https://luma.com/02uq48nz
 URL:https://luma.com/02uq48nz
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:89026e0a-0eca-4a21-a1b6-ca3f66ad1744@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260707T230000Z
 DTEND:20260708T020000Z
 SUMMARY:Women in Tech\, Fintech\, AI\, Startups\, Networking Event & Elevat
  or Pitch
 LOCATION:Tap Haus\, New York City\, NY
-DESCRIPTION:Female tech professionals\, fintech enthusiasts\, AI innovators
- \, and startup founders will gather to exchange insights across Women in T
- ech\, Fintech\, HealthTech\, and AI—complete with elevator pitches\, kno
- wledge-sharing sessions\, and direct access to investors and business cons
- ultants. Expect candid conversations about industry challenges and opportu
- nities alongside meaningful connections with experienced entrepreneurs and
-  academics driving innovation across emerging tech sectors.\n\nVenue: Tap 
- Haus\n\nEvent page: https://www.meetup.com/startup-pitch-networking-nyc/ev
- ents/315052587
+DESCRIPTION:Source: Cerebral Valley\n\nFemale tech professionals\, fintech 
+ enthusiasts\, AI innovators\, and startup founders will gather to exchange
+  insights across Women in Tech\, Fintech\, HealthTech\, and AI—complete 
+ with elevator pitches\, knowledge-sharing sessions\, and direct access to 
+ investors and business consultants. Expect candid conversations about indu
+ stry challenges and opportunities alongside meaningful connections with ex
+ perienced entrepreneurs and academics driving innovation across emerging t
+ ech sectors.\n\nVenue: Tap Haus\n\nEvent page: https://www.meetup.com/star
+ tup-pitch-networking-nyc/events/315052587
 URL:https://www.meetup.com/startup-pitch-networking-nyc/events/315052587
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e6a7b050-f684-4ca0-a781-043c2e3f83c8@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T123000Z
 DTEND:20260708T143000Z
 SUMMARY:The Buyer Changed. Your Checkout Didn't
 LOCATION:WeWork Office Space & Coworking\, New York City\, NY
-DESCRIPTION:DTC operators are gathering for breakfast to cut through the hy
- pe and dig into what's actually shifting in checkout—from traditional cl
- icks to machine-driven buying—with founders and execs from AS Beauty\, T
- he Perfect Jean\, and the team behind PrettyDamnQuick breaking down real d
- ata\, cross-brand benchmarks\, and the hard questions most brands aren't a
- sking yet.\n\nVenue: WeWork Office Space & Coworking\n\nEvent page: https:
- //luma.com/qty91q2c
+DESCRIPTION:Source: Cerebral Valley\n\nDTC operators are gathering for brea
+ kfast to cut through the hype and dig into what's actually shifting in che
+ ckout—from traditional clicks to machine-driven buying—with founders a
+ nd execs from AS Beauty\, The Perfect Jean\, and the team behind PrettyDam
+ nQuick breaking down real data\, cross-brand benchmarks\, and the hard que
+ stions most brands aren't asking yet.\n\nVenue: WeWork Office Space & Cowo
+ rking\n\nEvent page: https://luma.com/qty91q2c
 URL:https://luma.com/qty91q2c
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5d78241e-f520-4074-8d14-fab6ead5d8b0@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T210000Z
 DTEND:20260708T230000Z
 SUMMARY:AI Specialists: AppliedAI Horizons - Ethics\, Growth & Connections
 LOCATION:New York City\, NY
-DESCRIPTION:Applied AI specialists will gather to network and explore the l
- atest developments in artificial intelligence applications across industri
- es.\n\nEvent page: https://www.eventbrite.com/e/tickets-1991468878023
+DESCRIPTION:Source: Cerebral Valley\n\nApplied AI specialists will gather t
+ o network and explore the latest developments in artificial intelligence a
+ pplications across industries.\n\nEvent page: https://www.eventbrite.com/e
+ /tickets-1991468878023
 URL:https://www.eventbrite.com/e/tickets-1991468878023
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:073669a2-f29f-4db0-8a49-c537e87c0007@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T213000Z
 DTEND:20260709T010000Z
 SUMMARY:AI Builders Night
 LOCATION:LOFT39\, New York City\, NY
-DESCRIPTION:Engineers\, data practitioners\, and founders will dive into re
- al-world AI applications and the infrastructure behind large-scale systems
- \, with talks from industry leaders like PromptQL's Director of Engineerin
- g and Converge's Co-Founder & CTO. The evening will feature deep dives on 
- observability and AI deployment\, plus plenty of time to network with othe
- rs building the future of AI.\n\nVenue: LOFT39\n\nEvent page: https://luma
- .com/clickh-lz8k
+DESCRIPTION:Source: Cerebral Valley\n\nEngineers\, data practitioners\, and
+  founders will dive into real-world AI applications and the infrastructure
+  behind large-scale systems\, with talks from industry leaders like Prompt
+ QL's Director of Engineering and Converge's Co-Founder & CTO. The evening 
+ will feature deep dives on observability and AI deployment\, plus plenty o
+ f time to network with others building the future of AI.\n\nVenue: LOFT39\
+ n\nEvent page: https://luma.com/clickh-lz8k
 URL:https://luma.com/clickh-lz8k
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ef898b78-c7fb-4c16-bc5c-4cb64bac32ba@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T213000Z
 DTEND:20260708T233000Z
 SUMMARY:The Future of Biosecurity with SPC
 LOCATION:New York City\, NY
-DESCRIPTION:Tech leaders and biodefense experts will tackle how software an
- d AI are revolutionizing biosecurity—from detecting outbreaks today to p
- reventing engineered threats tomorrow—featuring speakers like Palantir's
-  Spencer Weiss\, Phare Bio's Dr. Akhila Kosaraju (who's secured $27M from 
- ARPA-H for AI-driven antibiotic discovery)\, and veteran biotech investor 
- Charlie Petty. Expect real talk on scaling solutions that could fundamenta
- lly reshape pandemic preparedness and public health infrastructure.\n\nEve
- nt page: https://luma.com/biosecurity-nyc
+DESCRIPTION:Source: Cerebral Valley\n\nTech leaders and biodefense experts 
+ will tackle how software and AI are revolutionizing biosecurity—from det
+ ecting outbreaks today to preventing engineered threats tomorrow—featuri
+ ng speakers like Palantir's Spencer Weiss\, Phare Bio's Dr. Akhila Kosaraj
+ u (who's secured $27M from ARPA-H for AI-driven antibiotic discovery)\, an
+ d veteran biotech investor Charlie Petty. Expect real talk on scaling solu
+ tions that could fundamentally reshape pandemic preparedness and public he
+ alth infrastructure.\n\nEvent page: https://luma.com/biosecurity-nyc
 URL:https://luma.com/biosecurity-nyc
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b9e9fc49-5b43-48c6-960a-1908da0a6fc7@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T213000Z
 DTEND:20260708T233000Z
 SUMMARY:Vibe Coding for Designers Meetup
 LOCATION:New York City\, NY
-DESCRIPTION:Designers will gather to work on personal projects—especially
-  those AI ideas that have been sitting on the back burner—while getting 
- real feedback from fellow product\, UX/UI\, and visual designers in a coll
- aborative workspace.\n\nEvent page: https://luma.com/a3w5e7j5
+DESCRIPTION:Source: Cerebral Valley\n\nDesigners will gather to work on per
+ sonal projects—especially those AI ideas that have been sitting on the b
+ ack burner—while getting real feedback from fellow product\, UX/UI\, and
+  visual designers in a collaborative workspace.\n\nEvent page: https://lum
+ a.com/a3w5e7j5
 URL:https://luma.com/a3w5e7j5
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:09980edf-974f-4f47-9e88-280b8b5396b9@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T220000Z
 DTEND:20260709T003000Z
 SUMMARY:How DTC Brands Are Using AI to Make More Profit | DTC Builders NYC
 LOCATION:420 Lexington Avenue\, New York City\, NY
-DESCRIPTION:DTC founders and ecommerce operators will dive into how AI is a
- ctually moving the needle on profitability—from spotting profit leaks to
-  automating marketing and operations decisions—with real case studies fr
- om brands doing it right now. You'll network with agency owners\, tech bui
- lders\, and fellow founders who are actively implementing these strategies
- \, not just theorizing about them.\n\nVenue: 420 Lexington Avenue\n\nEvent
-  page: https://www.meetup.com/shopify-e-commerce-marketing-group/events/31
- 5413351
+DESCRIPTION:Source: Cerebral Valley\n\nDTC founders and ecommerce operators
+  will dive into how AI is actually moving the needle on profitability—fr
+ om spotting profit leaks to automating marketing and operations decisions
+ —with real case studies from brands doing it right now. You'll network w
+ ith agency owners\, tech builders\, and fellow founders who are actively i
+ mplementing these strategies\, not just theorizing about them.\n\nVenue: 4
+ 20 Lexington Avenue\n\nEvent page: https://www.meetup.com/shopify-e-commer
+ ce-marketing-group/events/315413351
 URL:https://www.meetup.com/shopify-e-commerce-marketing-group/events/315413
  351
 STATUS:CONFIRMED
@@ -171,19 +173,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a18e0ace-974c-4a29-b6b4-e5d62d59d3e8@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T220000Z
 DTEND:20260709T010000Z
 SUMMARY:AI & Tech Networking Event in by Ascent Valley
 LOCATION:St. Pat's Bar & Grill NYC\, New York City\, NY
-DESCRIPTION:Founders\, investors\, and AI experts will converge for a curat
- ed networking event where ambitious builders pitch ideas\, exchange feedba
- ck\, and forge partnerships in a dynamic startup ecosystem. Selected found
- ers get stage time for focused pitches and professional evaluation from ac
- tive VCs and angel investors\, with the standout startup earning featured 
- visibility across the platform's global network.\n\nVenue: St. Pat's Bar &
-  Grill NYC\n\nEvent page: https://www.meetup.com/startup-networking-founde
- r-ecosystem-new-york/events/315228106
+DESCRIPTION:Source: Cerebral Valley\n\nFounders\, investors\, and AI expert
+ s will converge for a curated networking event where ambitious builders pi
+ tch ideas\, exchange feedback\, and forge partnerships in a dynamic startu
+ p ecosystem. Selected founders get stage time for focused pitches and prof
+ essional evaluation from active VCs and angel investors\, with the standou
+ t startup earning featured visibility across the platform's global network
+ .\n\nVenue: St. Pat's Bar & Grill NYC\n\nEvent page: https://www.meetup.co
+ m/startup-networking-founder-ecosystem-new-york/events/315228106
 URL:https://www.meetup.com/startup-networking-founder-ecosystem-new-york/ev
  ents/315228106
 STATUS:CONFIRMED
@@ -191,637 +193,650 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8f4ebdc0-2b48-4d68-9ac1-1ef3e6363060@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T140000Z
 DTEND:20260709T160000Z
 SUMMARY:Fireside Chat: Can We Patent AI?
 LOCATION:New York City\, NY
-DESCRIPTION:Rocket Breakfasts is bringing together founders\, investors\, a
- nd attorneys from Lowenstein Sandler—a 400+ attorney firm specializing i
- n startups and tech—for a fireside chat on patenting AI and protecting i
- nnovation when over 80% of founder value now comes from intangible assets.
-  Expect sharp insights on IP strategy in the age of generative AI\, qualit
- y breakfast\, and a room full of people actually thinking about the future
-  of tech.\n\nEvent page: https://luma.com/nbbliwla
+DESCRIPTION:Source: Cerebral Valley\n\nRocket Breakfasts is bringing togeth
+ er founders\, investors\, and attorneys from Lowenstein Sandler—a 400+ a
+ ttorney firm specializing in startups and tech—for a fireside chat on pa
+ tenting AI and protecting innovation when over 80% of founder value now co
+ mes from intangible assets. Expect sharp insights on IP strategy in the ag
+ e of generative AI\, quality breakfast\, and a room full of people actuall
+ y thinking about the future of tech.\n\nEvent page: https://luma.com/nbbli
+ wla
 URL:https://luma.com/nbbliwla
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:be5aee48-71b4-41e1-afa9-101af26e257c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T200000Z
 DTEND:20260709T230000Z
 SUMMARY:Operators Club: World Cup Edition
 LOCATION:New York City\, NY
-DESCRIPTION:Tech and ops folks will gather to catch a World Cup quarterfina
- l while swapping real talk about AI implementation\, governance headaches\
- , and enterprise complexity—no formal presentations\, just peers decompr
- essing over drinks and bites.\n\nEvent page: https://luma.com/parwsabb
+DESCRIPTION:Source: Cerebral Valley\n\nTech and ops folks will gather to ca
+ tch a World Cup quarterfinal while swapping real talk about AI implementat
+ ion\, governance headaches\, and enterprise complexity—no formal present
+ ations\, just peers decompressing over drinks and bites.\n\nEvent page: ht
+ tps://luma.com/parwsabb
 URL:https://luma.com/parwsabb
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ada7b629-ba7e-4708-bea0-fd1db98d9e43@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T213000Z
 DTEND:20260710T003000Z
 SUMMARY:AI Meetup (July) with Google and JPMorgan
 LOCATION:Manhattan West\, New York City\, NY
-DESCRIPTION:AI enthusiasts will gather to explore cutting-edge developments
-  in artificial intelligence and network with fellow tech professionals. Th
- e meetup will feature discussions on practical AI applications and emergin
- g trends in the field.\n\nVenue: Manhattan West\n\nEvent page: https://www
- .meetup.com/aittg-nyc/events/315294360
+DESCRIPTION:Source: Cerebral Valley\n\nAI enthusiasts will gather to explor
+ e cutting-edge developments in artificial intelligence and network with fe
+ llow tech professionals. The meetup will feature discussions on practical 
+ AI applications and emerging trends in the field.\n\nVenue: Manhattan West
+ \n\nEvent page: https://www.meetup.com/aittg-nyc/events/315294360
 URL:https://www.meetup.com/aittg-nyc/events/315294360
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5ab44adf-2629-4948-acdb-aa41ac63ca0d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T213000Z
 DTEND:20260709T233000Z
 SUMMARY:Building Web-Powered AI Apps Without Code: Base44 & Tavily
 LOCATION:1350 Broadway\, New York City\, NY
-DESCRIPTION:Hands-on workshop where you'll build functional web apps using 
- AI without coding—learn to turn text prompts into real tools with Base44
-  and Tavily's web research capabilities\, then deploy your own working app
- lication in just two hours. Perfect for product managers\, marketers\, and
-  anyone curious about practical AI\, no technical background needed.\n\nVe
- nue: 1350 Broadway\n\nEvent page: https://luma.com/tavily-4mzn
+DESCRIPTION:Source: Cerebral Valley\n\nHands-on workshop where you'll build
+  functional web apps using AI without coding—learn to turn text prompts 
+ into real tools with Base44 and Tavily's web research capabilities\, then 
+ deploy your own working application in just two hours. Perfect for product
+  managers\, marketers\, and anyone curious about practical AI\, no technic
+ al background needed.\n\nVenue: 1350 Broadway\n\nEvent page: https://luma.
+ com/tavily-4mzn
 URL:https://luma.com/tavily-4mzn
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a5ca98-dfca-47f8-bfb2-4d21aad58a70@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T220000Z
 DTEND:20260709T233000Z
 SUMMARY:Demo Event: Build Your Own System
 LOCATION:BrainStation New York\, New York City\, NY
-DESCRIPTION:You'll witness a hands-on breakdown of connecting VS Code\, Git
- Hub\, and AI coding assistants into one smooth workflow—showing how the 
- technical barriers to building and shipping software have basically disapp
- eared.\n\nVenue: BrainStation New York\n\nEvent page: https://brainstation
- .io/events/leadership/demo-event-nyc-20260709
+DESCRIPTION:Source: Cerebral Valley\n\nYou'll witness a hands-on breakdown 
+ of connecting VS Code\, GitHub\, and AI coding assistants into one smooth 
+ workflow—showing how the technical barriers to building and shipping sof
+ tware have basically disappeared.\n\nVenue: BrainStation New York\n\nEvent
+  page: https://brainstation.io/events/leadership/demo-event-nyc-20260709
 URL:https://brainstation.io/events/leadership/demo-event-nyc-20260709
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0276f638-d4dc-4b83-9bfb-61a388d4dce8@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T223000Z
 DTEND:20260710T003000Z
 SUMMARY:Build Lab: From Idea to Deployed App in 90 Minutes with Claude Code
 LOCATION:Radegast Hall & Biergarten\, New York City\, NY
-DESCRIPTION:A fast-paced workshop will walk participants through building a
- nd deploying a full application using Claude Code\, compressing what typic
- ally takes hours into a single 90-minute session. Attendees will experienc
- e the entire development cycle from concept to live deployment\, showcasin
- g how modern AI tools can dramatically accelerate the app creation process
- .\n\nVenue: Radegast Hall & Biergarten\n\nEvent page: https://www.meetup.c
- om/nyc-applied-ai-builders/events/315207685
+DESCRIPTION:Source: Cerebral Valley\n\nA fast-paced workshop will walk part
+ icipants through building and deploying a full application using Claude Co
+ de\, compressing what typically takes hours into a single 90-minute sessio
+ n. Attendees will experience the entire development cycle from concept to 
+ live deployment\, showcasing how modern AI tools can dramatically accelera
+ te the app creation process.\n\nVenue: Radegast Hall & Biergarten\n\nEvent
+  page: https://www.meetup.com/nyc-applied-ai-builders/events/315207685
 URL:https://www.meetup.com/nyc-applied-ai-builders/events/315207685
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7e5fcd76-9f80-44f2-9579-6dadfe3f4b56@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T230000Z
 DTEND:20260710T020000Z
 SUMMARY:AI Users - AI Enthusiasts Happy Hour with Featured Guest
 LOCATION:Valhalla NYC\, New York City\, NY
-DESCRIPTION:Leading AI researchers and technologists will dive into how Cha
- tGPT\, Gemini\, Claude\, and other cutting-edge models are reshaping indus
- tries and workflows. Expect hands-on insights from folks actually building
-  and deploying these systems at scale.\n\nVenue: Valhalla NYC\n\nEvent pag
- e: https://www.meetup.com/nycaiu/events/315519212
+DESCRIPTION:Source: Cerebral Valley\n\nLeading AI researchers and technolog
+ ists will dive into how ChatGPT\, Gemini\, Claude\, and other cutting-edge
+  models are reshaping industries and workflows. Expect hands-on insights f
+ rom folks actually building and deploying these systems at scale.\n\nVenue
+ : Valhalla NYC\n\nEvent page: https://www.meetup.com/nycaiu/events/3155192
+ 12
 URL:https://www.meetup.com/nycaiu/events/315519212
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e0cf54cf-ede9-4f67-9868-caf82da74806@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T140000Z
 DTEND:20260710T153000Z
 SUMMARY:The AI Briefing by Startup Grind - The C-Suite Gap in AI Readiness
 LOCATION:Civic Hall\, New York City\, NY
-DESCRIPTION:AI leaders and founders will dive into bridging the leadership 
- gap in AI-driven companies\, with insights from industry veterans navigati
- ng the rapid evolution of artificial intelligence.\n\nVenue: Civic Hall\n\
- nEvent page: https://www.meetup.com/startup-grind-nyc/events/315427076
+DESCRIPTION:Source: Cerebral Valley\n\nAI leaders and founders will dive in
+ to bridging the leadership gap in AI-driven companies\, with insights from
+  industry veterans navigating the rapid evolution of artificial intelligen
+ ce.\n\nVenue: Civic Hall\n\nEvent page: https://www.meetup.com/startup-gri
+ nd-nyc/events/315427076
 URL:https://www.meetup.com/startup-grind-nyc/events/315427076
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:176d5b27-8778-47db-b3e5-181996c118b7@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T203000Z
 DTEND:20260710T233000Z
 SUMMARY:Hands-on Workshop: Build AI Customer Agents that Remember and Resol
  ve Issues
 LOCATION:New York City\, NY
-DESCRIPTION:You'll walk through redesigning one of your real customer workf
- lows for AI—mapping conversations\, deciding what stays human vs. automa
- ted\, and leaving with a concrete 30-day pilot plan across chat\, voice\, 
- WhatsApp\, and CRM that actually works without the hype.\n\nEvent page: ht
- tps://luma.com/1c5cv66o
+DESCRIPTION:Source: Cerebral Valley\n\nYou'll walk through redesigning one 
+ of your real customer workflows for AI—mapping conversations\, deciding 
+ what stays human vs. automated\, and leaving with a concrete 30-day pilot 
+ plan across chat\, voice\, WhatsApp\, and CRM that actually works without 
+ the hype.\n\nEvent page: https://luma.com/1c5cv66o
 URL:https://luma.com/1c5cv66o
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9cb505e2-d238-48b2-ac99-045b829041c5@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T210000Z
 DTEND:20260710T230000Z
 SUMMARY:AI Specialists: AIConnect – Chart Your AI Career & Collaborate Gl
  obally
 LOCATION:New York City\, NY
-DESCRIPTION:AI specialists and tech professionals will gather to network an
- d exchange ideas about the latest developments in artificial intelligence 
- and machine learning.\n\nEvent page: https://www.eventbrite.com/e/tickets-
- 1991717196751
+DESCRIPTION:Source: Cerebral Valley\n\nAI specialists and tech professional
+ s will gather to network and exchange ideas about the latest developments 
+ in artificial intelligence and machine learning.\n\nEvent page: https://ww
+ w.eventbrite.com/e/tickets-1991717196751
 URL:https://www.eventbrite.com/e/tickets-1991717196751
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ddff38b7-840d-4df7-ac5d-996c48dd2769@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T220000Z
 DTEND:20260711T010000Z
 SUMMARY:New York Tech Mixer and Social (Tech / AI / Data / IT)
 LOCATION:The Malt House\, New York City\, NY
-DESCRIPTION:Tech enthusiasts at all levels will gather for an afterwork mee
- tup to connect and build community together.\n\nVenue: The Malt House\n\nE
- vent page: https://www.meetup.com/new-york-tech-social/events/315495409
+DESCRIPTION:Source: Cerebral Valley\n\nTech enthusiasts at all levels will 
+ gather for an afterwork meetup to connect and build community together.\n\
+ nVenue: The Malt House\n\nEvent page: https://www.meetup.com/new-york-tech
+ -social/events/315495409
 URL:https://www.meetup.com/new-york-tech-social/events/315495409
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:770b4e99-a007-4805-8052-5f58a6676823@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T230000Z
 DTEND:20260711T003000Z
 SUMMARY:[OOi x Shopify] Building Brands People Want to Belong
 LOCATION:Shopify NY\, New York City\, NY
-DESCRIPTION:Industry veterans—including an Apple designer\, a Cash App ma
- rketing leader\, and founders with 15+ years in brand building—will dig 
- into how modern brands create communities people genuinely want to belong 
- to through storytelling\, cultural relevance\, and emotional connection. E
- xpect practical insights on what actually makes brands stick\, not generic
-  marketing playbook stuff.\n\nVenue: Shopify NY\n\nEvent page: https://lum
- a.com/ex12xmog
+DESCRIPTION:Source: Cerebral Valley\n\nIndustry veterans—including an App
+ le designer\, a Cash App marketing leader\, and founders with 15+ years in
+  brand building—will dig into how modern brands create communities peopl
+ e genuinely want to belong to through storytelling\, cultural relevance\, 
+ and emotional connection. Expect practical insights on what actually makes
+  brands stick\, not generic marketing playbook stuff.\n\nVenue: Shopify NY
+ \n\nEvent page: https://luma.com/ex12xmog
 URL:https://luma.com/ex12xmog
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:92d8d212-35b0-4345-9e4b-e815b9e359d0@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260711T130000Z
 DTEND:20260711T144500Z
 SUMMARY:AI Operator Run Club
 LOCATION:Pier 76 at Hudson River Park\, New York City\, NY
-DESCRIPTION:A tight-knit group of AI founders\, engineers\, and operators w
- ill tackle a conversational 5K run along the Hudson River before connectin
- g over coffee and pastries\, creating the perfect low-pressure setting to 
- meet peers tackling similar challenges in the booming AI space.\n\nVenue: 
- Pier 76 at Hudson River Park\n\nEvent page: https://luma.com/instalily-0b8
- 1
+DESCRIPTION:Source: Cerebral Valley\n\nA tight-knit group of AI founders\, 
+ engineers\, and operators will tackle a conversational 5K run along the Hu
+ dson River before connecting over coffee and pastries\, creating the perfe
+ ct low-pressure setting to meet peers tackling similar challenges in the b
+ ooming AI space.\n\nVenue: Pier 76 at Hudson River Park\n\nEvent page: htt
+ ps://luma.com/instalily-0b81
 URL:https://luma.com/instalily-0b81
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:74418a42-17bf-40b9-bf1a-519394b6adf0@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260711T140000Z
 DTEND:20260711T220000Z
 SUMMARY:AI Healthcare Hack - by Arya Health & Twilio AI Startup Searchlight
 LOCATION:New York City\, NY
-DESCRIPTION:Healthcare Hack NYC will bring builders together for a one-day 
- sprint to ship production-ready voice AI agents that actually work in heal
- thcare\, hosted by Arya Health (a Series A startup) and powered by Twilio'
- s AI Startup Searchlight program. You'll have five hours to build a conver
- sational AI agent with real guardrails and domain knowledge\, compete for 
- Twilio credits and engineering interviews with Arya Health\, and network w
- ith the NYC startup ecosystem.\n\nEvent page: https://luma.com/arya-health
- -hack
+DESCRIPTION:Source: Cerebral Valley\n\nHealthcare Hack NYC will bring build
+ ers together for a one-day sprint to ship production-ready voice AI agents
+  that actually work in healthcare\, hosted by Arya Health (a Series A star
+ tup) and powered by Twilio's AI Startup Searchlight program. You'll have f
+ ive hours to build a conversational AI agent with real guardrails and doma
+ in knowledge\, compete for Twilio credits and engineering interviews with 
+ Arya Health\, and network with the NYC startup ecosystem.\n\nEvent page: h
+ ttps://luma.com/arya-health-hack
 URL:https://luma.com/arya-health-hack
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c110f936-a820-4599-a643-41c7b47bf01b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260711T150000Z
 DTEND:20260711T200000Z
 SUMMARY:Build Different: AI\, Community & the Future
 LOCATION:Newark Public Library - Main Branch\, New York City\, NY
-DESCRIPTION:The A.I. x Library Project\, backed by Chime\, will explore how
-  AI is reshaping communities and the future workplace\, featuring insights
-  from leaders in technology and innovation.\n\nVenue: Newark Public Librar
- y - Main Branch\n\nEvent page: https://www.eventbrite.com/e/tickets-199131
- 0376942
+DESCRIPTION:Source: Cerebral Valley\n\nThe A.I. x Library Project\, backed 
+ by Chime\, will explore how AI is reshaping communities and the future wor
+ kplace\, featuring insights from leaders in technology and innovation.\n\n
+ Venue: Newark Public Library - Main Branch\n\nEvent page: https://www.even
+ tbrite.com/e/tickets-1991310376942
 URL:https://www.eventbrite.com/e/tickets-1991310376942
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:74e4c2bd-8eed-47f5-856a-88669f93ad4d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260711T173000Z
 DTEND:20260711T200000Z
 SUMMARY:Founder-Led Growth: The Content System That Brings Customers
 LOCATION:New York City\, NY
-DESCRIPTION:Discover how to transform founder-led content from a vanity met
- ric into a revenue-driving customer acquisition system\, with practical fr
- ameworks and tactics that cut through the noise and actually work. Juné w
- ill dig deeper into the content strategies that earned rave reviews at New
-  York Tech Week\, offering sharper examples and clearer paths to building 
- sustainable growth without the guesswork.\n\nEvent page: https://luma.com/
- julycontent
+DESCRIPTION:Source: Cerebral Valley\n\nDiscover how to transform founder-le
+ d content from a vanity metric into a revenue-driving customer acquisition
+  system\, with practical frameworks and tactics that cut through the noise
+  and actually work. Juné will dig deeper into the content strategies that
+  earned rave reviews at New York Tech Week\, offering sharper examples and
+  clearer paths to building sustainable growth without the guesswork.\n\nEv
+ ent page: https://luma.com/julycontent
 URL:https://luma.com/julycontent
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:20c60c67-2b4d-42f5-90b7-0c16db15a16b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260712T210000Z
 DTEND:20260713T000000Z
 SUMMARY:Creationship Sundays: AI for Creative Good
 LOCATION:Caravan Of Dreams\, New York City\, NY
-DESCRIPTION:Creative builders and thinkers will gather on Sunday evenings t
- o ideate and prototype solutions for social good\, bringing together diver
- se minds—from founders to prompt engineers to artists—who'll collabora
- te using AI tools and collective imagination to build the next generation 
- of projects the world needs. Over four hours of brainstorming\, building\,
-  and community connection\, teams will form organically around half-baked 
- ideas that spark interest\, resulting in real prototypes and lasting creat
- ive partnerships.\n\nVenue: Caravan Of Dreams\n\nEvent page: https://luma.
- com/hpki7fh8
+DESCRIPTION:Source: Cerebral Valley\n\nCreative builders and thinkers will 
+ gather on Sunday evenings to ideate and prototype solutions for social goo
+ d\, bringing together diverse minds—from founders to prompt engineers to
+  artists—who'll collaborate using AI tools and collective imagination to
+  build the next generation of projects the world needs. Over four hours of
+  brainstorming\, building\, and community connection\, teams will form org
+ anically around half-baked ideas that spark interest\, resulting in real p
+ rototypes and lasting creative partnerships.\n\nVenue: Caravan Of Dreams\n
+ \nEvent page: https://luma.com/hpki7fh8
 URL:https://luma.com/hpki7fh8
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:51b97f42-e56c-4a77-bd09-92c0408333ee@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T140000Z
 DTEND:20260716T150000Z
 SUMMARY:AI Ready Startup Accelerator
 LOCATION:New York City\, NY
-DESCRIPTION:Founders will dive into a virtual intensive focused on equippin
- g entrepreneurs with the strategies to build\, launch\, and drive sales in
-  the rapidly evolving AI economy. This hands-on program will cover the ess
- ential playbook for navigating AI-powered business development from concep
- t to revenue generation.\n\nEvent page: https://www.eventbrite.com/e/ticke
- ts-1992777565342
+DESCRIPTION:Source: Cerebral Valley\n\nFounders will dive into a virtual in
+ tensive focused on equipping entrepreneurs with the strategies to build\, 
+ launch\, and drive sales in the rapidly evolving AI economy. This hands-on
+  program will cover the essential playbook for navigating AI-powered busin
+ ess development from concept to revenue generation.\n\nEvent page: https:/
+ /www.eventbrite.com/e/tickets-1992777565342
 URL:https://www.eventbrite.com/e/tickets-1992777565342
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b1e9b7d8-90a9-4475-9bf0-a511ac9469d2@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T160000Z
 DTEND:20260714T200000Z
 SUMMARY:Harnessing AI for Science Educators (ALL LEVELS)
 LOCATION:Marymount School of New York\, New York City\, NY
-DESCRIPTION:K-12 science educators will explore how to leverage and create 
- AI tools to streamline classroom instruction and administrative workflows.
-  Teachers will gain practical strategies for integrating AI into their pra
- ctice to enhance student learning and reduce workload burdens.\n\nVenue: M
- arymount School of New York\n\nEvent page: https://www.eventbrite.com/e/ti
- ckets-1992288017090
+DESCRIPTION:Source: Cerebral Valley\n\nK-12 science educators will explore 
+ how to leverage and create AI tools to streamline classroom instruction an
+ d administrative workflows. Teachers will gain practical strategies for in
+ tegrating AI into their practice to enhance student learning and reduce wo
+ rkload burdens.\n\nVenue: Marymount School of New York\n\nEvent page: http
+ s://www.eventbrite.com/e/tickets-1992288017090
 URL:https://www.eventbrite.com/e/tickets-1992288017090
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fe5cf049-ddbb-4fc6-b962-bc62a62efb6b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T183000Z
 DTEND:20260714T210000Z
 SUMMARY:Entre Amigas: Tu Negocio\, Impulsado por IA
 LOCATION:Mixteca\, New York City\, NY
-DESCRIPTION:Women entrepreneurs will dive into practical AI tools and strat
- egies through real conversations with fellow founders who get it.\n\nVenue
- : Mixteca\n\nEvent page: https://www.eventbrite.com/e/tickets-199216870121
- 3
+DESCRIPTION:Source: Cerebral Valley\n\nWomen entrepreneurs will dive into p
+ ractical AI tools and strategies through real conversations with fellow fo
+ unders who get it.\n\nVenue: Mixteca\n\nEvent page: https://www.eventbrite
+ .com/e/tickets-1992168701213
 URL:https://www.eventbrite.com/e/tickets-1992168701213
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:92606c63-0fcd-4edc-a83d-d1ab2b058ea4@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T220000Z
 DTEND:20260715T010000Z
 SUMMARY:Demo Night: Internal Design Tools
 LOCATION:New York City\, NY
-DESCRIPTION:Designers from Ramp\, Anthropic\, Profound\, and Clay will shar
- e lightning talks about the internal design tools that actually shape how 
- their teams work\, with plenty of time to eat and network with fellow desi
- gners building behind-the-scenes solutions.\n\nEvent page: https://luma.co
- m/design-tool-demos
+DESCRIPTION:Source: Cerebral Valley\n\nDesigners from Ramp\, Anthropic\, Pr
+ ofound\, and Clay will share lightning talks about the internal design too
+ ls that actually shape how their teams work\, with plenty of time to eat a
+ nd network with fellow designers building behind-the-scenes solutions.\n\n
+ Event page: https://luma.com/design-tool-demos
 URL:https://luma.com/design-tool-demos
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c7f7b529-9c0c-43ea-bea9-d91674ae3c44@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T220000Z
 DTEND:20260714T233000Z
 SUMMARY:Gen Z Founder & Creator Mixer
 LOCATION:109 3rd Ave\, New York City\, NY
-DESCRIPTION:GenZtea's February mixer will bring together Gen Z founders\, c
- reators\, and investors from across the globe—featuring builders from Me
- ta\, Morgan Stanley\, and leading startups working in AI\, fintech\, and b
- eyond—for an evening of networking\, snacks\, and real connections with 
- people actually building something.\n\nVenue: 109 3rd Ave\n\nEvent page: h
- ttps://luma.com/x7hif1t9
+DESCRIPTION:Source: Cerebral Valley\n\nGenZtea's February mixer will bring 
+ together Gen Z founders\, creators\, and investors from across the globe
+ —featuring builders from Meta\, Morgan Stanley\, and leading startups wo
+ rking in AI\, fintech\, and beyond—for an evening of networking\, snacks
+ \, and real connections with people actually building something.\n\nVenue:
+  109 3rd Ave\n\nEvent page: https://luma.com/x7hif1t9
 URL:https://luma.com/x7hif1t9
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fccdc631-0b04-4454-80f9-aa8a35bbe603@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T223000Z
 DTEND:20260715T003000Z
 SUMMARY:Build with AI Meetup
 LOCATION:Bar Veloce\, New York City\, NY
-DESCRIPTION:Mid to senior-level women in tech will dig into what's thrillin
- g and terrifying about building with AI\, from early experiments to full-f
- ledged projects\, creating space for real talk about the opportunities and
-  challenges ahead.\n\nVenue: Bar Veloce\n\nEvent page: https://luma.com/8d
- xvo1rl
+DESCRIPTION:Source: Cerebral Valley\n\nMid to senior-level women in tech wi
+ ll dig into what's thrilling and terrifying about building with AI\, from 
+ early experiments to full-fledged projects\, creating space for real talk 
+ about the opportunities and challenges ahead.\n\nVenue: Bar Veloce\n\nEven
+ t page: https://luma.com/8dxvo1rl
 URL:https://luma.com/8dxvo1rl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:851937cc-b6b4-411d-97e1-1f97f6056de3@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T230000Z
 DTEND:20260715T003000Z
 SUMMARY:Founders & Operators: Rooftop Drinks
 LOCATION:New York City\, NY
-DESCRIPTION:Early-stage founders and operators will gather for unstructured
-  rooftop conversation hosted by Stephan Rihs (ex-Coinbase & BCG\, founder 
- at Veynor)\, bringing together folks from YC\, a16z\, Samsung Ventures\, a
- nd leading AI/B2B SaaS companies for peer-to-peer networking over drinks w
- ith zero pitches or panels.\n\nEvent page: https://luma.com/y9e43awe
+DESCRIPTION:Source: Cerebral Valley\n\nEarly-stage founders and operators w
+ ill gather for unstructured rooftop conversation hosted by Stephan Rihs (e
+ x-Coinbase & BCG\, founder at Veynor)\, bringing together folks from YC\, 
+ a16z\, Samsung Ventures\, and leading AI/B2B SaaS companies for peer-to-pe
+ er networking over drinks with zero pitches or panels.\n\nEvent page: http
+ s://luma.com/y9e43awe
 URL:https://luma.com/y9e43awe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1902786-250a-4efa-b58d-a27f0fba73cb@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T210000Z
 DTEND:20260715T230000Z
 SUMMARY:AI Specialists: AgenticAI Global Innovation Mixer
 LOCATION:New York City\, NY
-DESCRIPTION:Specialists at agenticai will gather to network and exchange in
- sights on the latest developments in AI agents and emerging technologies. 
- Industry leaders and practitioners will be there to discuss trends\, oppor
- tunities\, and real-world applications shaping the future of the field.\n\
- nEvent page: https://www.eventbrite.com/e/tickets-1991991117054
+DESCRIPTION:Source: Cerebral Valley\n\nSpecialists at agenticai will gather
+  to network and exchange insights on the latest developments in AI agents 
+ and emerging technologies. Industry leaders and practitioners will be ther
+ e to discuss trends\, opportunities\, and real-world applications shaping 
+ the future of the field.\n\nEvent page: https://www.eventbrite.com/e/ticke
+ ts-1991991117054
 URL:https://www.eventbrite.com/e/tickets-1991991117054
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b08861e4-73ff-4a03-8e82-0855e10ff354@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T210000Z
 DTEND:20260716T003000Z
 SUMMARY:AI Technology Summit
 LOCATION:Skidmore\, New York City\, NY
-DESCRIPTION:Tech leaders\, developers\, and real estate pros will converge 
- to explore how AI and digital twins are reshaping building decarbonization
- \, from emissions forecasting to real-time operations optimization. Expect
-  cutting-edge demos\, insights from seasoned operators like Igor Starkov (
- 30+ years in software and BIM)\, and practical takeaways on turning AI int
- o actual compliance and retrofit strategies.\n\nVenue: Skidmore\n\nEvent p
- age: https://luma.com/6ogmjqdl
+DESCRIPTION:Source: Cerebral Valley\n\nTech leaders\, developers\, and real
+  estate pros will converge to explore how AI and digital twins are reshapi
+ ng building decarbonization\, from emissions forecasting to real-time oper
+ ations optimization. Expect cutting-edge demos\, insights from seasoned op
+ erators like Igor Starkov (30+ years in software and BIM)\, and practical 
+ takeaways on turning AI into actual compliance and retrofit strategies.\n\
+ nVenue: Skidmore\n\nEvent page: https://luma.com/6ogmjqdl
 URL:https://luma.com/6ogmjqdl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e7a57cba-744b-4edc-834e-012aa59c2346@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T223000Z
 DTEND:20260716T003000Z
 SUMMARY:Founder Dinner
 LOCATION:New York City\, NY
-DESCRIPTION:Series A/B founders scaling past $2M ARR will swap candid advic
- e on fundraising and growth strategy over a four-course dinner with sommel
- ier pairings and live music\, hosted by Borderless alongside AI revenue pl
- atform Tabs and startup-focused accounting firm Kruze Consulting.\n\nEvent
-  page: https://luma.com/po6hla9u
+DESCRIPTION:Source: Cerebral Valley\n\nSeries A/B founders scaling past $2M
+  ARR will swap candid advice on fundraising and growth strategy over a fou
+ r-course dinner with sommelier pairings and live music\, hosted by Borderl
+ ess alongside AI revenue platform Tabs and startup-focused accounting firm
+  Kruze Consulting.\n\nEvent page: https://luma.com/po6hla9u
 URL:https://luma.com/po6hla9u
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1d32a32b-9de7-4fca-a133-d49cfc987572@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T203000Z
 DTEND:20260716T220000Z
 SUMMARY:Claude Code and CoWork on AWS
 LOCATION:12 W 39th St\, New York City\, NY
-DESCRIPTION:Enterprise teams will explore deployment patterns for Claude Co
- de and Claude CoWork through Amazon Bedrock\, leveraging existing identity
-  infrastructure for seamless integration.\n\nVenue: 12 W 39th St\n\nEvent 
- page: https://www.meetup.com/aws-nyc/events/315433544
+DESCRIPTION:Source: Cerebral Valley\n\nEnterprise teams will explore deploy
+ ment patterns for Claude Code and Claude CoWork through Amazon Bedrock\, l
+ everaging existing identity infrastructure for seamless integration.\n\nVe
+ nue: 12 W 39th St\n\nEvent page: https://www.meetup.com/aws-nyc/events/315
+ 433544
 URL:https://www.meetup.com/aws-nyc/events/315433544
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:24054b44-28e8-4d54-ace7-1fbb550b8ed3@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T213000Z
 DTEND:20260717T003000Z
 SUMMARY:Health2Tech NYC\, July 16 2026
 LOCATION:New York City\, NY
-DESCRIPTION:Digital health founders\, healthcare pros\, and investors will 
- gather on July 16th for a panel on AI avatars in healthcare and extensive 
- networking\, hosted by seasoned healthtech leaders including a former spee
- ch-language pathologist who's raised over $10M in capital\, a digital heal
- th expert and medical device co-founder\, and a healthcare strategist advi
- sing on tech and business growth. Expect real conversations with innovator
- s actively shaping the health tech landscape\, potential collaborators\, m
- entors\, and thought leaders driving the next wave of healthcare innovatio
- n.\n\nEvent page: https://luma.com/tsa3c3k8
+DESCRIPTION:Source: Cerebral Valley\n\nDigital health founders\, healthcare
+  pros\, and investors will gather on July 16th for a panel on AI avatars i
+ n healthcare and extensive networking\, hosted by seasoned healthtech lead
+ ers including a former speech-language pathologist who's raised over $10M 
+ in capital\, a digital health expert and medical device co-founder\, and a
+  healthcare strategist advising on tech and business growth. Expect real c
+ onversations with innovators actively shaping the health tech landscape\, 
+ potential collaborators\, mentors\, and thought leaders driving the next w
+ ave of healthcare innovation.\n\nEvent page: https://luma.com/tsa3c3k8
 URL:https://luma.com/tsa3c3k8
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ea5ecf88-98dc-45c1-807f-e260e135f9d8@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T213000Z
 DTEND:20260717T000000Z
 SUMMARY:Inertia's (first) Launch Party
 LOCATION:12 Vestry St\, New York City\, NY
-DESCRIPTION:Get hands-on with Inertia\, an AI-powered financial planning pl
- atform that transforms financial intentions into real action\, while shapi
- ng its future through early testing and direct feedback alongside fellow e
- arly adopters. This intimate gathering will feature interactive sessions\,
-  networking\, and behind-the-scenes insights into how a fintech startup de
- velops innovative solutions for personal finance.\n\nVenue: 12 Vestry St\n
- \nEvent page: https://luma.com/njrwotjc
+DESCRIPTION:Source: Cerebral Valley\n\nGet hands-on with Inertia\, an AI-po
+ wered financial planning platform that transforms financial intentions int
+ o real action\, while shaping its future through early testing and direct 
+ feedback alongside fellow early adopters. This intimate gathering will fea
+ ture interactive sessions\, networking\, and behind-the-scenes insights in
+ to how a fintech startup develops innovative solutions for personal financ
+ e.\n\nVenue: 12 Vestry St\n\nEvent page: https://luma.com/njrwotjc
 URL:https://luma.com/njrwotjc
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:31e3c064-15b4-448e-806c-7fa703e10a46@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T220000Z
 DTEND:20260717T000000Z
 SUMMARY:Ayse Polat: Building Beyond Completion-Leverage Design & Constructi
  on Data
 LOCATION:Hafele America Co\, New York City\, NY
-DESCRIPTION:Ayse Polat will break down how design and construction data tra
- nsforms into operational gold for smart buildings\, digital twins\, and AI
- -driven decision-making throughout a building's lifecycle. Discover practi
- cal strategies for turning project information into long-term value while 
- exploring how connected systems and predictive analytics enhance building 
- performance and occupant experiences.\n\nVenue: Hafele America Co\n\nEvent
-  page: https://www.meetup.com/nyc-bim/events/314987159
+DESCRIPTION:Source: Cerebral Valley\n\nAyse Polat will break down how desig
+ n and construction data transforms into operational gold for smart buildin
+ gs\, digital twins\, and AI-driven decision-making throughout a building's
+  lifecycle. Discover practical strategies for turning project information 
+ into long-term value while exploring how connected systems and predictive 
+ analytics enhance building performance and occupant experiences.\n\nVenue:
+  Hafele America Co\n\nEvent page: https://www.meetup.com/nyc-bim/events/31
+ 4987159
 URL:https://www.meetup.com/nyc-bim/events/314987159
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b736573b-23a9-4daf-b00f-9e95bcb3f969@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T220000Z
 DTEND:20260717T010000Z
 SUMMARY:AI Collective: Summer Meetup
 LOCATION:447 Broadway\, New York City\, NY
-DESCRIPTION:Creators\, professionals\, and innovators will explore hands-on
-  AI demos and connect over real-world applications of the technology. The 
- gathering promises networking opportunities and practical insights into ho
- w AI is shaping creative and professional work.\n\nVenue: 447 Broadway\n\n
- Event page: https://www.meetup.com/new-york-ai-collective/events/315503905
+DESCRIPTION:Source: Cerebral Valley\n\nCreators\, professionals\, and innov
+ ators will explore hands-on AI demos and connect over real-world applicati
+ ons of the technology. The gathering promises networking opportunities and
+  practical insights into how AI is shaping creative and professional work.
+ \n\nVenue: 447 Broadway\n\nEvent page: https://www.meetup.com/new-york-ai-
+ collective/events/315503905
 URL:https://www.meetup.com/new-york-ai-collective/events/315503905
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f22407eb-cce6-4b7b-9c96-48e323cfee3d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T223000Z
 DTEND:20260717T010000Z
 SUMMARY:Builders\, Founders\, and Creatives Meetup
 LOCATION:New York City\, NY
-DESCRIPTION:A laid-back evening will bring together founders\, operators\, 
- creatives\, investors\, and builders across tech\, AI\, and creative field
- s for drinks and unfiltered conversation with thoughtful\, ambitious peopl
- e making things happen in the city.\n\nEvent page: https://luma.com/xpmhcm
- w5
+DESCRIPTION:Source: Cerebral Valley\n\nA laid-back evening will bring toget
+ her founders\, operators\, creatives\, investors\, and builders across tec
+ h\, AI\, and creative fields for drinks and unfiltered conversation with t
+ houghtful\, ambitious people making things happen in the city.\n\nEvent pa
+ ge: https://luma.com/xpmhcmw5
 URL:https://luma.com/xpmhcmw5
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2619674d-a390-4d29-8252-7fc40903ab5d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T230000Z
 DTEND:20260717T030000Z
 SUMMARY:Fonzi's Poker & Game Night
 LOCATION:New York City\, NY
-DESCRIPTION:AI founders\, engineers\, and VCs will gather for a night of hi
- gh-stakes poker and casual gaming\, with four tables running alongside boa
- rd games and video games\, all fueled by complimentary drinks and pizza. I
- t's a low-pressure chance to play cards and meet some of NYC's top builder
- s in the AI space.\n\nEvent page: https://luma.com/r28brzlq
+DESCRIPTION:Source: Cerebral Valley\n\nAI founders\, engineers\, and VCs wi
+ ll gather for a night of high-stakes poker and casual gaming\, with four t
+ ables running alongside board games and video games\, all fueled by compli
+ mentary drinks and pizza. It's a low-pressure chance to play cards and mee
+ t some of NYC's top builders in the AI space.\n\nEvent page: https://luma.
+ com/r28brzlq
 URL:https://luma.com/r28brzlq
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:19210fef-1988-4999-8a6f-652311c309ae@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260717T223000Z
 DTEND:20260718T000000Z
 SUMMARY:Dev Cup: Tavily x Composio
 LOCATION:Upper West Side\, New York City\, NY
-DESCRIPTION:Developers from Tavily and Composio will kick it on the pitch f
- or an evening of pickup soccer and real talk about AI agents handling the 
- work that keeps devs chained to their desks. Expect fellow builders who ge
- nuinely understand the future of automation where humans actually get to c
- lock out.\n\nVenue: Upper West Side\n\nEvent page: https://luma.com/tavily
- -h550
+DESCRIPTION:Source: Cerebral Valley\n\nDevelopers from Tavily and Composio 
+ will kick it on the pitch for an evening of pickup soccer and real talk ab
+ out AI agents handling the work that keeps devs chained to their desks. Ex
+ pect fellow builders who genuinely understand the future of automation whe
+ re humans actually get to clock out.\n\nVenue: Upper West Side\n\nEvent pa
+ ge: https://luma.com/tavily-h550
 URL:https://luma.com/tavily-h550
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bfd2514a-bb4c-473e-ad7b-fd0ff7cb3b13@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260718T140000Z
 DTEND:20260718T200000Z
 SUMMARY:Builders Cup 2026 - A Hackathon by Ramp
 LOCATION:New York City\, NY
-DESCRIPTION:Builders Cup is a one-day hackathon where developers will compe
- te across four prize tracks—from audience favorite to best game to solut
- ions that save time and money—with mentorship from Cursor and Codex\, li
- ve workshops\, and a chance to impress some of the fastest-growing tech co
- mpanies. Solo hackers and teams of up to four will ship real projects\, de
- mo their work\, and take home prizes plus serious bragging rights.\n\nEven
- t page: https://luma.com/nrletiv9
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders Cup is a one-day hackathon 
+ where developers will compete across four prize tracks—from audience fav
+ orite to best game to solutions that save time and money—with mentorship
+  from Cursor and Codex\, live workshops\, and a chance to impress some of 
+ the fastest-growing tech companies. Solo hackers and teams of up to four w
+ ill ship real projects\, demo their work\, and take home prizes plus serio
+ us bragging rights.\n\nEvent page: https://luma.com/nrletiv9
 URL:https://luma.com/nrletiv9
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:42c548b8-d994-4d76-a116-c4e2fb0bea2f@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260720T213000Z
 DTEND:20260721T000000Z
 SUMMARY:AI Startup Networking Rooftop Happy Hour
 LOCATION:230 Fifth Rooftop Bar\, New York City\, NY
-DESCRIPTION:AI startup founders and builders will connect over drinks with 
- a rooftop skyline backdrop\, turning casual networking into genuine relati
- onship-building moments. Expect conversations with fellow entrepreneurs pu
- shing the boundaries of AI innovation.\n\nVenue: 230 Fifth Rooftop Bar\n\n
- Event page: https://www.eventbrite.com/e/tickets-1992438740909
+DESCRIPTION:Source: Cerebral Valley\n\nAI startup founders and builders wil
+ l connect over drinks with a rooftop skyline backdrop\, turning casual net
+ working into genuine relationship-building moments. Expect conversations w
+ ith fellow entrepreneurs pushing the boundaries of AI innovation.\n\nVenue
+ : 230 Fifth Rooftop Bar\n\nEvent page: https://www.eventbrite.com/e/ticket
+ s-1992438740909
 URL:https://www.eventbrite.com/e/tickets-1992438740909
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c9471bc9-3348-448a-a8fc-c100b003f133@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260721T123000Z
 DTEND:20260721T210000Z
 SUMMARY:Build the AI Future : LinuxONE & IBM BOB Hands‑On
 LOCATION:IBM 1 Madison Avenue\, New York City\, NY
-DESCRIPTION:Attendees will dive into hands-on demos showcasing how LinuxONE
-  and zSystems drive enterprise AI and secure infrastructure at this full-d
- ay technical meetup led by industry experts.\n\nVenue: IBM 1 Madison Avenu
- e\n\nEvent page: https://www.meetup.com/ai-modeling-and-machine-learning-i
- n-action-sponsored-by-ibm/events/315229748
+DESCRIPTION:Source: Cerebral Valley\n\nAttendees will dive into hands-on de
+ mos showcasing how LinuxONE and zSystems drive enterprise AI and secure in
+ frastructure at this full-day technical meetup led by industry experts.\n\
+ nVenue: IBM 1 Madison Avenue\n\nEvent page: https://www.meetup.com/ai-mode
+ ling-and-machine-learning-in-action-sponsored-by-ibm/events/315229748
 URL:https://www.meetup.com/ai-modeling-and-machine-learning-in-action-spons
  ored-by-ibm/events/315229748
 STATUS:CONFIRMED
@@ -829,608 +844,645 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:967eaaa2-6944-4c89-a08e-dd7a0a0739ee@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260721T210000Z
 DTEND:20260721T233000Z
 SUMMARY:Rooftop QA | Engineering Cocktail Hour
 LOCATION:Vintage Green Rooftop\, New York City\, NY
-DESCRIPTION:QA and engineering leaders will gather for candid conversations
-  about balancing rapid feature development with quality in the AI era\, co
- vering everything from testing workflows to automation's real limits. Expe
- ct a relaxed rooftop setting where peers actively shipping software can sw
- ap war stories and trade ideas on what actually works.\n\nVenue: Vintage G
- reen Rooftop\n\nEvent page: https://luma.com/2afoxis6
+DESCRIPTION:Source: Cerebral Valley\n\nQA and engineering leaders will gath
+ er for candid conversations about balancing rapid feature development with
+  quality in the AI era\, covering everything from testing workflows to aut
+ omation's real limits. Expect a relaxed rooftop setting where peers active
+ ly shipping software can swap war stories and trade ideas on what actually
+  works.\n\nVenue: Vintage Green Rooftop\n\nEvent page: https://luma.com/2a
+ foxis6
 URL:https://luma.com/2afoxis6
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b7baca60-1761-4e97-88b2-651cb4360a82@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
-DTSTART:20260721T220000Z
-DTEND:20260722T010000Z
-SUMMARY:AI Founders Supper Club (Hosted by The AI Furnace)
-LOCATION:New York City\, NY
-DESCRIPTION:Early-stage AI founders will gather monthly for an intimate 3-c
- ourse dinner hosted by The AI Furnace\, a global community of 20\,000+ AI 
- entrepreneurs\, to swap war stories and build genuine connections with pee
- rs tackling similar challenges. The curated NYC gatherings from Angela Mas
- carenas and Hamza Zaveri will bring together 15-20 high-caliber founders i
- n a referral-based network focused on real conversations rather than pitch
- ing.\n\nEvent page: https://luma.com/xxrgfwv6
-URL:https://luma.com/xxrgfwv6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:31c2a848-8186-4636-a06f-ce6aec9ee832@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
-DTSTART:20260721T220000Z
-DTEND:20260721T233000Z
-SUMMARY:Meet us on the Roof! Brits in Tech & The Great British Business Clu
- b
-LOCATION:New York City\, NY
-DESCRIPTION:Brits in Tech and the Great British Business Club will host a r
- ooftop summer happy hour with representatives from the UK's Department for
-  Business and Trade\, real estate and immigration tech leaders\, bringing 
- together British founders\, operators\, engineers\, and investors for drin
- ks and networking across NYC's business scene.\n\nEvent page: https://luma
- .com/qmki592i
-URL:https://luma.com/qmki592i
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:98378427-533b-4cdd-b152-7d6f55ec130d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260721T220000Z
 DTEND:20260722T000000Z
 SUMMARY:My Worst Day as a CFO: Lessons That Changed How I Lead
 LOCATION:New York City\, NY
-DESCRIPTION:CFOs will share their biggest professional missteps and the har
- d-won lessons that turned those moments into growth opportunities\, reveal
- ing how to spot financial risks earlier and evolve from reactive problem-s
- olver to true strategic partner. A panel of seasoned finance leaders will 
- dig into real scenarios followed by Q&A\, giving you actionable insights t
- o strengthen stakeholder relationships and prevent costly decisions.\n\nEv
- ent page: https://luma.com/b9x3sk72
+DESCRIPTION:Source: Cerebral Valley\n\nCFOs will share their biggest profes
+ sional missteps and the hard-won lessons that turned those moments into gr
+ owth opportunities\, revealing how to spot financial risks earlier and evo
+ lve from reactive problem-solver to true strategic partner. A panel of sea
+ soned finance leaders will dig into real scenarios followed by Q&A\, givin
+ g you actionable insights to strengthen stakeholder relationships and prev
+ ent costly decisions.\n\nEvent page: https://luma.com/b9x3sk72
 URL:https://luma.com/b9x3sk72
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:31c2a848-8186-4636-a06f-ce6aec9ee832@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260721T220000Z
+DTEND:20260721T233000Z
+SUMMARY:Meet us on the Roof! Brits in Tech & The Great British Business Clu
+ b
+LOCATION:New York City\, NY
+DESCRIPTION:Source: Cerebral Valley\n\nBrits in Tech and the Great British 
+ Business Club will host a rooftop summer happy hour with representatives f
+ rom the UK's Department for Business and Trade\, real estate and immigrati
+ on tech leaders\, bringing together British founders\, operators\, enginee
+ rs\, and investors for drinks and networking across NYC's business scene.\
+ n\nEvent page: https://luma.com/qmki592i
+URL:https://luma.com/qmki592i
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7baca60-1761-4e97-88b2-651cb4360a82@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260721T220000Z
+DTEND:20260722T010000Z
+SUMMARY:AI Founders Supper Club (Hosted by The AI Furnace)
+LOCATION:New York City\, NY
+DESCRIPTION:Source: Cerebral Valley\n\nEarly-stage AI founders will gather 
+ monthly for an intimate 3-course dinner hosted by The AI Furnace\, a globa
+ l community of 20\,000+ AI entrepreneurs\, to swap war stories and build g
+ enuine connections with peers tackling similar challenges. The curated NYC
+  gatherings from Angela Mascarenas and Hamza Zaveri will bring together 15
+ -20 high-caliber founders in a referral-based network focused on real conv
+ ersations rather than pitching.\n\nEvent page: https://luma.com/xxrgfwv6
+URL:https://luma.com/xxrgfwv6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:262ddfac-d6b2-4b59-83fa-db657c37df1e@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260721T223000Z
 DTEND:20260722T000000Z
 SUMMARY:Conversations About AI: Tools and Strategies for Entrepreneurs
 LOCATION:Schomburg Center for Research in Black Culture - New York Public L
  ibrary\, New York City\, NY
-DESCRIPTION:NYPL will host an insightful panel discussion on AI featuring e
- xperts from Women TechExchange\, promising a deep dive into the latest dev
- elopments in artificial intelligence.\n\nVenue: Schomburg Center for Resea
- rch in Black Culture - New York Public Library\n\nEvent page: https://www.
- eventbrite.com/e/tickets-1988940444410
+DESCRIPTION:Source: Cerebral Valley\n\nNYPL will host an insightful panel d
+ iscussion on AI featuring experts from Women TechExchange\, promising a de
+ ep dive into the latest developments in artificial intelligence.\n\nVenue:
+  Schomburg Center for Research in Black Culture - New York Public Library\
+ n\nEvent page: https://www.eventbrite.com/e/tickets-1988940444410
 URL:https://www.eventbrite.com/e/tickets-1988940444410
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f2204bff-f866-4525-b394-9c5bc2aeea9c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260722T180000Z
 DTEND:20260723T000000Z
 SUMMARY:Other Intelligence
 LOCATION:New York City\, NY
-DESCRIPTION:Other Intelligence will bring together researchers\, artists\, 
- designers\, and technologists to explore how understanding animal communic
- ation\, plant intelligence\, and ecological sensing can reshape the way we
-  build technology and approach conservation. The midsummer summit will dig
-  into bioacoustics\, biomaterials\, nonhuman-centered design\, rights of n
- ature\, and world modeling—asking how we can move beyond AI-centric thin
- king to engage with the many forms of intelligence that already surround u
- s.\n\nEvent page: https://luma.com/m805w1vy
+DESCRIPTION:Source: Cerebral Valley\n\nOther Intelligence will bring togeth
+ er researchers\, artists\, designers\, and technologists to explore how un
+ derstanding animal communication\, plant intelligence\, and ecological sen
+ sing can reshape the way we build technology and approach conservation. Th
+ e midsummer summit will dig into bioacoustics\, biomaterials\, nonhuman-ce
+ ntered design\, rights of nature\, and world modeling—asking how we can 
+ move beyond AI-centric thinking to engage with the many forms of intellige
+ nce that already surround us.\n\nEvent page: https://luma.com/m805w1vy
 URL:https://luma.com/m805w1vy
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:488e4215-cb28-49dc-940b-c74bc838421f@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
-DTSTART:20260722T220000Z
-DTEND:20260723T000000Z
-SUMMARY:Women Who Build: Creating Your Portfolio with AI
-LOCATION:BrainStation\, New York City\, NY
-DESCRIPTION:Aparna and Carley are hosting a hands-on meetup for women build
- ing AI projects\, featuring a build session where you'll create your own p
- ortfolio site using Claude Code—no experience necessary\, just bring you
- r laptop and curiosity. You'll leave with new Claude Code skills\, a portf
- olio draft\, and a crew of women figuring out AI development together.\n\n
- Venue: BrainStation\n\nEvent page: https://luma.com/oprm50vy
-URL:https://luma.com/oprm50vy
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:7e89934f-7615-40a6-9d38-968d184d607c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260722T220000Z
 DTEND:20260723T003000Z
 SUMMARY:AI-Native Women: Beauty\, Health\, Wellness
 LOCATION:G-Gallery\, New York City\, NY
-DESCRIPTION:Beauty marketers and founders will get hands-on with AI tools a
- longside leaders who've already built working solutions—think Tarte's Cl
- aude marketing assistant and Beekman 1802's creator-sourcing agent—while
-  walking away with an actual AI brand assistant you'll build in the room. 
- You'll get practical fluency from execs at Estée Lauder and other CPG gia
- nts\, plus real talk from founders who built AI beauty tools with zero tec
- hnical background.\n\nVenue: G-Gallery\n\nEvent page: https://luma.com/2qq
- w1l31
+DESCRIPTION:Source: Cerebral Valley\n\nBeauty marketers and founders will g
+ et hands-on with AI tools alongside leaders who've already built working s
+ olutions—think Tarte's Claude marketing assistant and Beekman 1802's cre
+ ator-sourcing agent—while walking away with an actual AI brand assistant
+  you'll build in the room. You'll get practical fluency from execs at Est
+ ée Lauder and other CPG giants\, plus real talk from founders who built A
+ I beauty tools with zero technical background.\n\nVenue: G-Gallery\n\nEven
+ t page: https://luma.com/2qqw1l31
 URL:https://luma.com/2qqw1l31
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:488e4215-cb28-49dc-940b-c74bc838421f@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260722T220000Z
+DTEND:20260723T000000Z
+SUMMARY:Women Who Build: Creating Your Portfolio with AI
+LOCATION:BrainStation\, New York City\, NY
+DESCRIPTION:Source: Cerebral Valley\n\nAparna and Carley are hosting a hand
+ s-on meetup for women building AI projects\, featuring a build session whe
+ re you'll create your own portfolio site using Claude Code—no experience
+  necessary\, just bring your laptop and curiosity. You'll leave with new C
+ laude Code skills\, a portfolio draft\, and a crew of women figuring out A
+ I development together.\n\nVenue: BrainStation\n\nEvent page: https://luma
+ .com/oprm50vy
+URL:https://luma.com/oprm50vy
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:496322d8-4b37-4feb-967b-b44af79d10d9@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260723T160000Z
 DTEND:20260723T173000Z
 SUMMARY:Customer Lunch & Learn: Numeric MCP
 LOCATION:151 W 26th St 9th floor\, New York City\, NY
-DESCRIPTION:Numeric customers will gather for lunch at the NYC office to sw
- ap MCP use cases\, discuss AI adoption strategies\, and connect with peers
-  tackling similar challenges.\n\nVenue: 151 W 26th St 9th floor\n\nEvent p
- age: https://luma.com/prc9hc7a
+DESCRIPTION:Source: Cerebral Valley\n\nNumeric customers will gather for lu
+ nch at the NYC office to swap MCP use cases\, discuss AI adoption strategi
+ es\, and connect with peers tackling similar challenges.\n\nVenue: 151 W 2
+ 6th St 9th floor\n\nEvent page: https://luma.com/prc9hc7a
 URL:https://luma.com/prc9hc7a
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6f63727d-2f54-47d1-997b-e3aa4ef1226d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260723T210000Z
 DTEND:20260724T010000Z
 SUMMARY:AI Hack Night NYC feat. Box\, Anthropic\, Auth0 & Temporal
 LOCATION:New York City\, NY
-DESCRIPTION:A hack night will bring together builders for food\, networking
- \, and hands-on coding sessions—whether you're coming with a side projec
- t\, a fresh idea\, or just your laptop ready to experiment.\n\nEvent page:
-  https://luma.com/lxakd22n
+DESCRIPTION:Source: Cerebral Valley\n\nA hack night will bring together bui
+ lders for food\, networking\, and hands-on coding sessions—whether you'r
+ e coming with a side project\, a fresh idea\, or just your laptop ready to
+  experiment.\n\nEvent page: https://luma.com/lxakd22n
 URL:https://luma.com/lxakd22n
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:b76bdd58-6d06-4c08-84e5-b8fe3dace298@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
-DTSTART:20260723T220000Z
-DTEND:20260724T000000Z
-SUMMARY:Mind Games: Understanding AI Through Play
-LOCATION:Studio 1505\, New York City\, NY
-DESCRIPTION:Leading data scientists and AI practitioners will break down th
- e latest techniques in machine learning\, deep learning\, and AI applicati
- ons to help you level up your skillset. You'll get hands-on exposure to cu
- tting-edge tools and real-world case studies that'll transform how you app
- roach AI problems.\n\nVenue: Studio 1505\n\nEvent page: https://www.meetup
- .com/open-data-science-ny-odsc/events/315425946
-URL:https://www.meetup.com/open-data-science-ny-odsc/events/315425946
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:32ec3e25-7ff0-44fe-9eda-671cefa1d19c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260723T220000Z
 DTEND:20260723T233000Z
 SUMMARY:Fonzi's July Devs & Drinks
 LOCATION:Sugar Mouse NYC\, New York City\, NY
-DESCRIPTION:You'll hang with NYC's best AI and product engineers over drink
- s and games like pool\, ping-pong\, and arcade—no boring talks\, just pe
- ople actually building things connecting and having a good time.\n\nVenue:
-  Sugar Mouse NYC\n\nEvent page: https://luma.com/qmcapvqw
+DESCRIPTION:Source: Cerebral Valley\n\nYou'll hang with NYC's best AI and p
+ roduct engineers over drinks and games like pool\, ping-pong\, and arcade
+ —no boring talks\, just people actually building things connecting and h
+ aving a good time.\n\nVenue: Sugar Mouse NYC\n\nEvent page: https://luma.c
+ om/qmcapvqw
 URL:https://luma.com/qmcapvqw
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f128a502-a1a7-4535-9e24-1a3a736543e5@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260723T220000Z
 DTEND:20260724T000000Z
 SUMMARY:AI Engineers: Devs & Drinks
 LOCATION:New York City\, NY
-DESCRIPTION:A monthly gathering will bring together NYC engineers actively 
- shipping projects\, creating an organic community of builders without the 
- usual networking event formality.\n\nEvent page: https://www.meetup.com/ne
- w-york-ai-engineers/events/313819790
+DESCRIPTION:Source: Cerebral Valley\n\nA monthly gathering will bring toget
+ her NYC engineers actively shipping projects\, creating an organic communi
+ ty of builders without the usual networking event formality.\n\nEvent page
+ : https://www.meetup.com/new-york-ai-engineers/events/313819790
 URL:https://www.meetup.com/new-york-ai-engineers/events/313819790
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:b76bdd58-6d06-4c08-84e5-b8fe3dace298@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260723T220000Z
+DTEND:20260724T000000Z
+SUMMARY:Mind Games: Understanding AI Through Play
+LOCATION:Studio 1505\, New York City\, NY
+DESCRIPTION:Source: Cerebral Valley\n\nLeading data scientists and AI pract
+ itioners will break down the latest techniques in machine learning\, deep 
+ learning\, and AI applications to help you level up your skillset. You'll 
+ get hands-on exposure to cutting-edge tools and real-world case studies th
+ at'll transform how you approach AI problems.\n\nVenue: Studio 1505\n\nEve
+ nt page: https://www.meetup.com/open-data-science-ny-odsc/events/315425946
+URL:https://www.meetup.com/open-data-science-ny-odsc/events/315425946
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:c01cef71-ee00-4334-8a93-d04c0e4223ae@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260724T130000Z
 DTEND:20260724T210000Z
 SUMMARY:AWS AI Builder Lab - Clash of Agents Competition
 LOCATION:Online\, New York City\, NY
-DESCRIPTION:Top AI researchers and engineers will showcase cutting-edge mac
- hine learning projects while competitors battle it out for prizes in this 
- hands-on hackathon-style competition.\n\nVenue: Online\n\nEvent page: http
- s://www.meetup.com/nyc-llm-ai/events/315431116
+DESCRIPTION:Source: Cerebral Valley\n\nTop AI researchers and engineers wil
+ l showcase cutting-edge machine learning projects while competitors battle
+  it out for prizes in this hands-on hackathon-style competition.\n\nVenue:
+  Online\n\nEvent page: https://www.meetup.com/nyc-llm-ai/events/315431116
 URL:https://www.meetup.com/nyc-llm-ai/events/315431116
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b0c69d87-ea4d-4da4-9ed8-c7f409d2e43f@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260724T140000Z
 DTEND:20260724T150000Z
 SUMMARY:Coffee Club | Taking the Leap: Industry Vets Who Left to Build
 LOCATION:New York City\, NY
-DESCRIPTION:Olivia and the Forum Ventures crew will gather with early-stage
-  B2B founders who ditched stable industry roles to build solutions to prob
- lems they know inside and out. This July meetup brings together pre-Series
-  A founders who've made the leap from established careers in finance\, hea
- lthcare\, tech\, and beyond.\n\nEvent page: https://luma.com/ha3ty4li
+DESCRIPTION:Source: Cerebral Valley\n\nOlivia and the Forum Ventures crew w
+ ill gather with early-stage B2B founders who ditched stable industry roles
+  to build solutions to problems they know inside and out. This July meetup
+  brings together pre-Series A founders who've made the leap from establish
+ ed careers in finance\, healthcare\, tech\, and beyond.\n\nEvent page: htt
+ ps://luma.com/ha3ty4li
 URL:https://luma.com/ha3ty4li
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9efbe98e-62c2-49be-b248-ba33db303f6c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260724T220000Z
 DTEND:20260725T010000Z
 SUMMARY:New York Tech Mixer and Social (Tech / AI / Data / IT)
 LOCATION:The Malt House\, New York City\, NY
-DESCRIPTION:Tech enthusiasts at all levels will gather to network and build
-  connections over drinks after work.\n\nVenue: The Malt House\n\nEvent pag
- e: https://www.meetup.com/new-york-tech-social/events/315496160
+DESCRIPTION:Source: Cerebral Valley\n\nTech enthusiasts at all levels will 
+ gather to network and build connections over drinks after work.\n\nVenue: 
+ The Malt House\n\nEvent page: https://www.meetup.com/new-york-tech-social/
+ events/315496160
 URL:https://www.meetup.com/new-york-tech-social/events/315496160
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:95bfee69-aa94-4dae-ab2d-e367c5d69afa@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260725T230000Z
 DTEND:20260726T013000Z
 SUMMARY:AI x Wellness x Tech Mixer: Tools\, Habits & Human Connection
 LOCATION:VERSA\, New York City\, NY
-DESCRIPTION:AI experts will dive into how artificial intelligence is reshap
- ing everyday life\, mental well-being\, and human performance across perso
- nal and professional domains.\n\nVenue: VERSA\n\nEvent page: https://www.e
- ventbrite.com/e/tickets-1989839485466
+DESCRIPTION:Source: Cerebral Valley\n\nAI experts will dive into how artifi
+ cial intelligence is reshaping everyday life\, mental well-being\, and hum
+ an performance across personal and professional domains.\n\nVenue: VERSA\n
+ \nEvent page: https://www.eventbrite.com/e/tickets-1989839485466
 URL:https://www.eventbrite.com/e/tickets-1989839485466
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cd984e2c-be01-45eb-a37a-b9d7815f6739@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260727T220000Z
 DTEND:20260728T010000Z
 SUMMARY:The Nexus Mixer - July Edition
 LOCATION:New York City\, NY
-DESCRIPTION:Senior retail and consumer brand leaders will converge for cura
- ted conversations on ecommerce\, marketing\, merchandising\, and retail me
- dia innovation\, with AI-powered consumer intelligence taking center stage
-  as brands explore data-driven growth strategies. This hand-picked gatheri
- ng of operators and decision-makers will tackle how to uncover insights fa
- ster and identify new opportunities across the retail ecosystem.\n\nEvent 
- page: https://luma.com/ytpg96ji
+DESCRIPTION:Source: Cerebral Valley\n\nSenior retail and consumer brand lea
+ ders will converge for curated conversations on ecommerce\, marketing\, me
+ rchandising\, and retail media innovation\, with AI-powered consumer intel
+ ligence taking center stage as brands explore data-driven growth strategie
+ s. This hand-picked gathering of operators and decision-makers will tackle
+  how to uncover insights faster and identify new opportunities across the 
+ retail ecosystem.\n\nEvent page: https://luma.com/ytpg96ji
 URL:https://luma.com/ytpg96ji
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5108be8e-2b96-46cc-8214-9898c1c96d3b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260727T220000Z
 DTEND:20260728T000000Z
 SUMMARY:AI Founders & Investors Meetup
 LOCATION:New York City\, NY
-DESCRIPTION:B2B AI founders and investors will converge for an exclusive ha
- ppy hour to network and explore opportunities across the rapidly growing A
- I startup ecosystem. NYC B2B\, which has hosted thousands of startup found
- ers and operators across verticals like Vertical SaaS\, FinTech\, and DevT
- ools\, will facilitate connections between builders actively shaping the f
- uture of enterprise AI.\n\nEvent page: https://luma.com/r4uqdp1t
+DESCRIPTION:Source: Cerebral Valley\n\nB2B AI founders and investors will c
+ onverge for an exclusive happy hour to network and explore opportunities a
+ cross the rapidly growing AI startup ecosystem. NYC B2B\, which has hosted
+  thousands of startup founders and operators across verticals like Vertica
+ l SaaS\, FinTech\, and DevTools\, will facilitate connections between buil
+ ders actively shaping the future of enterprise AI.\n\nEvent page: https://
+ luma.com/r4uqdp1t
 URL:https://luma.com/r4uqdp1t
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d672f977-0064-4c86-a858-51d114be0522@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260728T130000Z
 DTEND:20260728T210000Z
 SUMMARY:The Practical AI Conference
 LOCATION:Hilton Garden Inn New York/Staten Island\, New York City\, NY
-DESCRIPTION:Maigrate AI will host a one-day event where attendees will gain
-  practical AI knowledge\, tools\, and connections to monetize their skills
-  across all experience levels.\n\nVenue: Hilton Garden Inn New York/Staten
-  Island\n\nEvent page: https://www.eventbrite.com/e/tickets-1991007171045
+DESCRIPTION:Source: Cerebral Valley\n\nMaigrate AI will host a one-day even
+ t where attendees will gain practical AI knowledge\, tools\, and connectio
+ ns to monetize their skills across all experience levels.\n\nVenue: Hilton
+  Garden Inn New York/Staten Island\n\nEvent page: https://www.eventbrite.c
+ om/e/tickets-1991007171045
 URL:https://www.eventbrite.com/e/tickets-1991007171045
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f032b637-f527-4200-933a-a5a3736d1a52@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260729T210000Z
 DTEND:20260729T233000Z
 SUMMARY:Hacking Agents Meetup
 LOCATION:1 Madison Ave\, New York City\, NY
-DESCRIPTION:AI developers and enthusiasts will gather to network and explor
- e cutting-edge agentic AI tools from OpenRAG\, IBM\, and other innovators\
- , with tech showcases\, light refreshments\, and drinks afterward.\n\nVenu
- e: 1 Madison Ave\n\nEvent page: https://luma.com/hacking-agents-nyc
+DESCRIPTION:Source: Cerebral Valley\n\nAI developers and enthusiasts will g
+ ather to network and explore cutting-edge agentic AI tools from OpenRAG\, 
+ IBM\, and other innovators\, with tech showcases\, light refreshments\, an
+ d drinks afterward.\n\nVenue: 1 Madison Ave\n\nEvent page: https://luma.co
+ m/hacking-agents-nyc
 URL:https://luma.com/hacking-agents-nyc
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3ed58b20-84c5-428e-b5bb-8d1109dd64dc@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260729T220000Z
 DTEND:20260730T000000Z
 SUMMARY:Fonzi’s July Tech Talks
 LOCATION:New York City\, NY
-DESCRIPTION:NYC's AI Engineers Tech Talk will bring together machine learni
- ng engineers\, fullstack devs\, and technical founders for deep dives into
-  real-world AI projects—expect three lightning talks from practitioners 
- sharing what they've built and how they solved gnarly technical challenges
- .\n\nEvent page: https://luma.com/hjmwxsrp
+DESCRIPTION:Source: Cerebral Valley\n\nNYC's AI Engineers Tech Talk will br
+ ing together machine learning engineers\, fullstack devs\, and technical f
+ ounders for deep dives into real-world AI projects—expect three lightnin
+ g talks from practitioners sharing what they've built and how they solved 
+ gnarly technical challenges.\n\nEvent page: https://luma.com/hjmwxsrp
 URL:https://luma.com/hjmwxsrp
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b39b109d-c19a-4fb2-ad42-7aea8722efc5@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260729T220000Z
 DTEND:20260730T000000Z
 SUMMARY:NY AI Engineers: July
 LOCATION:Fonzi HQ\, New York City\, NY
-DESCRIPTION:The July edition of the New York AI Engineers Tech Talk will br
- ing together expert AI engineers for an engaging discussion on cutting-edg
- e advancements in artificial intelligence technology.\n\nVenue: Fonzi HQ\n
- \nEvent page: https://www.meetup.com/new-york-ai-engineers/events/31334546
- 4
+DESCRIPTION:Source: Cerebral Valley\n\nThe July edition of the New York AI 
+ Engineers Tech Talk will bring together expert AI engineers for an engagin
+ g discussion on cutting-edge advancements in artificial intelligence techn
+ ology.\n\nVenue: Fonzi HQ\n\nEvent page: https://www.meetup.com/new-york-a
+ i-engineers/events/313345464
 URL:https://www.meetup.com/new-york-ai-engineers/events/313345464
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7d15cf6d-750b-4a28-8633-72f321aa1815@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260730T210000Z
 DTEND:20260731T010000Z
 SUMMARY:Critical Minerals & Mining Innovation Exchange
 LOCATION:Pillsbury Winthrop Shaw Pittman\, New York City\, NY
-DESCRIPTION:Top researchers and founders from Columbia\, NYU\, Princeton\, 
- Yale\, and other leading universities will pitch cutting-edge critical min
- erals and mining technologies while industry investors reveal the specific
-  problems they're dying to solve—all with legal expertise from Pillsbury
-  Law and a chance to snag prize feedback on your innovations.\n\nVenue: Pi
- llsbury Winthrop Shaw Pittman\n\nEvent page: https://luma.com/0yxlsf7h
+DESCRIPTION:Source: Cerebral Valley\n\nTop researchers and founders from Co
+ lumbia\, NYU\, Princeton\, Yale\, and other leading universities will pitc
+ h cutting-edge critical minerals and mining technologies while industry in
+ vestors reveal the specific problems they're dying to solve—all with leg
+ al expertise from Pillsbury Law and a chance to snag prize feedback on you
+ r innovations.\n\nVenue: Pillsbury Winthrop Shaw Pittman\n\nEvent page: ht
+ tps://luma.com/0yxlsf7h
 URL:https://luma.com/0yxlsf7h
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:88aa0414-3af5-4fae-a39b-edfc7b410fe9@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260730T220000Z
 DTEND:20260731T010000Z
 SUMMARY:HackerX AI (Employer Registration)
 LOCATION:New York City\, NY
-DESCRIPTION:Over 100 AI professionals will converge for an evening of netwo
- rking and knowledge exchange\, bringing together engineers\, researchers\,
-  and industry experts shaping the future of artificial intelligence.\n\nEv
- ent page: https://www.eventbrite.com/e/tickets-1992261381422
+DESCRIPTION:Source: Cerebral Valley\n\nOver 100 AI professionals will conve
+ rge for an evening of networking and knowledge exchange\, bringing togethe
+ r engineers\, researchers\, and industry experts shaping the future of art
+ ificial intelligence.\n\nEvent page: https://www.eventbrite.com/e/tickets-
+ 1992261381422
 URL:https://www.eventbrite.com/e/tickets-1992261381422
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c4da652c-0b26-41b6-a0c9-4f2589706036@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260730T223000Z
 DTEND:20260731T003000Z
 SUMMARY:Build Lab: From Idea to Deployed App in 90 Minutes with Claude Code
 LOCATION:Radegast Hall & Biergarten\, New York City\, NY
-DESCRIPTION:You'll go from concept to a live\, deployed application in 90 m
- inutes using Claude Code\, getting hands-on with the entire build-to-deplo
- yment pipeline.\n\nVenue: Radegast Hall & Biergarten\n\nEvent page: https:
- //www.meetup.com/nyc-applied-ai-builders/events/315287294
+DESCRIPTION:Source: Cerebral Valley\n\nYou'll go from concept to a live\, d
+ eployed application in 90 minutes using Claude Code\, getting hands-on wit
+ h the entire build-to-deployment pipeline.\n\nVenue: Radegast Hall & Bierg
+ arten\n\nEvent page: https://www.meetup.com/nyc-applied-ai-builders/events
+ /315287294
 URL:https://www.meetup.com/nyc-applied-ai-builders/events/315287294
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:bf5d108f-2847-4772-9668-9e1ef6097153@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260802T160000Z
+DTEND:20260802T170000Z
+SUMMARY:CFO AI Leverage Report: Executive Briefing & Industry Benchmark Dis
+ cussion
+LOCATION:Fairfield by Marriott Inn & Suites New York Midtown Manhattan/Penn
+  Station\, New York City\, NY
+DESCRIPTION:Source: Cerebral Valley\n\nSenior finance and technology execut
+ ives will dig into the CFO AI Leverage Report—a new industry benchmark r
+ evealing how enterprises are actually funding and measuring AI investments
+ \, with findings showing generative AI spending hitting $37 billion in 202
+ 5 and CFOs taking the lead on AI governance and capital allocation. Attend
+ ees will benchmark their strategies against peers while exploring the fina
+ ncial metrics and ROI frameworks that determine which AI initiatives get g
+ reenlit.\n\nVenue: Fairfield by Marriott Inn & Suites New York Midtown Man
+ hattan/Penn Station\n\nEvent page: https://luma.com/en72vp19
+URL:https://luma.com/en72vp19
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:90e65099-2112-47f4-99d1-61950458a62f@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260804T230000Z
 DTEND:20260805T020000Z
 SUMMARY:AI & Machine Learning Start-Ups\, Professionals\, Investors Network
  ing
 LOCATION:231 2nd Ave\, New York City\, NY
-DESCRIPTION:Machine learning and AI professionals\, founders\, and investor
- s will converge to explore partnership opportunities and discuss the lates
- t advancements shaping the industry. Expect conversations spanning cutting
- -edge tech\, funding strategies\, and business solutions from a mix of sea
- soned engineers\, venture capitalists\, and startup leaders.\n\nVenue: 231
-  2nd Ave\n\nEvent page: https://www.eventbrite.com/e/tickets-1992655296633
+DESCRIPTION:Source: Cerebral Valley\n\nMachine learning and AI professional
+ s\, founders\, and investors will converge to explore partnership opportun
+ ities and discuss the latest advancements shaping the industry. Expect con
+ versations spanning cutting-edge tech\, funding strategies\, and business 
+ solutions from a mix of seasoned engineers\, venture capitalists\, and sta
+ rtup leaders.\n\nVenue: 231 2nd Ave\n\nEvent page: https://www.eventbrite.
+ com/e/tickets-1992655296633
 URL:https://www.eventbrite.com/e/tickets-1992655296633
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a58e87fc-86eb-447a-9099-93cc6201ad77@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260804T230000Z
 DTEND:20260805T020000Z
 SUMMARY:AI and Machine Learning Startups\, Investors\, Innovators Networkin
  g Mixer
 LOCATION:The Laurels Cafe and Bar\, New York City\, NY
-DESCRIPTION:Founders and investors will connect with cutting-edge AI & ML s
- tartups while pitching ideas and networking with tech innovators.\n\nVenue
- : The Laurels Cafe and Bar\n\nEvent page: https://www.eventbrite.com/e/tic
- kets-1992655119102
+DESCRIPTION:Source: Cerebral Valley\n\nFounders and investors will connect 
+ with cutting-edge AI & ML startups while pitching ideas and networking wit
+ h tech innovators.\n\nVenue: The Laurels Cafe and Bar\n\nEvent page: https
+ ://www.eventbrite.com/e/tickets-1992655119102
 URL:https://www.eventbrite.com/e/tickets-1992655119102
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bdeca6ff-7163-4866-a36d-18baa4aaa784@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260806T220000Z
 DTEND:20260807T000000Z
 SUMMARY:AI Investment Management Happy Hour
 LOCATION:Harry’s Side Bar\, New York City\, NY
-DESCRIPTION:Fund managers and quant researchers building AI-driven investme
- nt strategies will gather for an evening of drinks and conversation in NYC
- .\n\nVenue: Harry’s Side Bar\n\nEvent page: https://www.meetup.com/quant
- itative-ai-research-nyc/events/315463754
+DESCRIPTION:Source: Cerebral Valley\n\nFund managers and quant researchers 
+ building AI-driven investment strategies will gather for an evening of dri
+ nks and conversation in NYC.\n\nVenue: Harry’s Side Bar\n\nEvent page: h
+ ttps://www.meetup.com/quantitative-ai-research-nyc/events/315463754
 URL:https://www.meetup.com/quantitative-ai-research-nyc/events/315463754
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:908eeb77-8fd3-47cb-9ffe-a93b5caeca21@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260806T223000Z
 DTEND:20260807T003000Z
 SUMMARY:Build Lab: From Idea to Deployed App in 90 Minutes with Claude Code
 LOCATION:Radegast Hall & Biergarten\, New York City\, NY
-DESCRIPTION:You'll get hands-on experience turning ideas into deployed apps
-  in just 90 minutes using Claude Code\, guided by developers who know how 
- to move fast from concept to production.\n\nVenue: Radegast Hall & Biergar
- ten\n\nEvent page: https://www.meetup.com/nyc-applied-ai-builders/events/3
- 15435815
+DESCRIPTION:Source: Cerebral Valley\n\nYou'll get hands-on experience turni
+ ng ideas into deployed apps in just 90 minutes using Claude Code\, guided 
+ by developers who know how to move fast from concept to production.\n\nVen
+ ue: Radegast Hall & Biergarten\n\nEvent page: https://www.meetup.com/nyc-a
+ pplied-ai-builders/events/315435815
 URL:https://www.meetup.com/nyc-applied-ai-builders/events/315435815
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:08eec47a-1547-411c-b4d3-6c0db0140366@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260806T230000Z
 DTEND:20260807T030000Z
 SUMMARY:AI Engineers: Poker & Game Night
 LOCATION:New York City\, NY
-DESCRIPTION:NYC's top AI founders\, engineers\, and VCs will gather for a n
- ight of poker\, board games\, and competitive gaming—with free pizza and
-  drinks fueling the fun while high-caliber professionals make connections 
- in a low-pressure setting. Multiple participation options keep it flexible
- \, whether you're looking to buy in for poker or just vibe with the crowd 
- over games.\n\nEvent page: https://luma.com/zyxkwxth
+DESCRIPTION:Source: Cerebral Valley\n\nNYC's top AI founders\, engineers\, 
+ and VCs will gather for a night of poker\, board games\, and competitive g
+ aming—with free pizza and drinks fueling the fun while high-caliber prof
+ essionals make connections in a low-pressure setting. Multiple participati
+ on options keep it flexible\, whether you're looking to buy in for poker o
+ r just vibe with the crowd over games.\n\nEvent page: https://luma.com/zyx
+ kwxth
 URL:https://luma.com/zyxkwxth
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:33c5299d-99bf-4ca1-8864-589e3a1db44a@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260821T140000Z
 DTEND:20260821T150000Z
 SUMMARY:Coffee Club | Early-Stage AI-Native Founders & Funders
 LOCATION:New York City\, NY
-DESCRIPTION:Olivia from Forum Ventures will be bringing her team together f
- or an August coffee meetup with AI-native founders rethinking what's possi
- ble—whether you're fresh to tech or pivoting from traditional approaches
- \, this is your chance to connect with a fund that's backing 65+ companies
-  and building 8 more through their venture studio. Forum's bringing real e
- xpertise from their early-stage investing and acceleration work\, so you'l
- l be talking to people who actually know what it takes to go from lean and
-  fast to fundable.\n\nEvent page: https://luma.com/nixrnnh8
+DESCRIPTION:Source: Cerebral Valley\n\nOlivia from Forum Ventures will be b
+ ringing her team together for an August coffee meetup with AI-native found
+ ers rethinking what's possible—whether you're fresh to tech or pivoting 
+ from traditional approaches\, this is your chance to connect with a fund t
+ hat's backing 65+ companies and building 8 more through their venture stud
+ io. Forum's bringing real expertise from their early-stage investing and a
+ cceleration work\, so you'll be talking to people who actually know what i
+ t takes to go from lean and fast to fundable.\n\nEvent page: https://luma.
+ com/nixrnnh8
 URL:https://luma.com/nixrnnh8
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fff3036f-f169-4bb6-a48f-7059d9bc6545@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260901T130000Z
 DTEND:20260901T200000Z
 SUMMARY:The AI Enterprise Conference 2026
 LOCATION:Pier Sixty\, New York City\, NY
-DESCRIPTION:Top data and AI leaders from Fortune 500 companies will converg
- e at this global conference to explore cutting-edge enterprise innovation 
- and strategy.\n\nVenue: Pier Sixty\n\nEvent page: https://www.eventbrite.c
- om/e/tickets-1902063135039
+DESCRIPTION:Source: Cerebral Valley\n\nTop data and AI leaders from Fortune
+  500 companies will converge at this global conference to explore cutting-
+ edge enterprise innovation and strategy.\n\nVenue: Pier Sixty\n\nEvent pag
+ e: https://www.eventbrite.com/e/tickets-1902063135039
 URL:https://www.eventbrite.com/e/tickets-1902063135039
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6ef61677-8a83-41bd-a0f4-394909d2e96b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260902T130000Z
 DTEND:20260903T220000Z
 SUMMARY:AI for Defense & Warfare Summit 2026 | AI & ML Events
 LOCATION:AIA Global Campus for Architecture & Design®\, New York City\, NY
-DESCRIPTION:Top defense and AI experts from the Department of War\, militar
- y services\, intelligence\, industry\, and academia will gather to discuss
-  cutting-edge AI advancements shaping the future of warfare and defense st
- rategy.\n\nVenue: AIA Global Campus for Architecture & Design®\n\nEvent p
- age: https://aiml.events/events/ai-for-defense-warfare-summit-2026
+DESCRIPTION:Source: Cerebral Valley\n\nTop defense and AI experts from the 
+ Department of War\, military services\, intelligence\, industry\, and acad
+ emia will gather to discuss cutting-edge AI advancements shaping the futur
+ e of warfare and defense strategy.\n\nVenue: AIA Global Campus for Archite
+ cture & Design®\n\nEvent page: https://aiml.events/events/ai-for-defense-
+ warfare-summit-2026
 URL:https://aiml.events/events/ai-for-defense-warfare-summit-2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a00381ae-f4ee-43f1-9fbf-5a230cf6cc31@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260903T230000Z
 DTEND:20260904T020000Z
 SUMMARY:Funded Founder IP Law Dinner
 LOCATION:Fushimi Times Square\, New York City\, NY
-DESCRIPTION:Funded founders will dive into critical IP strategy over dinner
- \, covering patents\, trademarks\, AI ownership\, and investor diligence p
- itfalls—perfect for early-stage builders looking to avoid costly mistake
- s before they happen. Expect a curated room of serious operators\, real co
- nversation\, and a chance to connect with other founders navigating the sa
- me challenges.\n\nVenue: Fushimi Times Square\n\nEvent page: https://luma.
- com/earlystageip
+DESCRIPTION:Source: Cerebral Valley\n\nFunded founders will dive into criti
+ cal IP strategy over dinner\, covering patents\, trademarks\, AI ownership
+ \, and investor diligence pitfalls—perfect for early-stage builders look
+ ing to avoid costly mistakes before they happen. Expect a curated room of 
+ serious operators\, real conversation\, and a chance to connect with other
+  founders navigating the same challenges.\n\nVenue: Fushimi Times Square\n
+ \nEvent page: https://luma.com/earlystageip
 URL:https://luma.com/earlystageip
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb8352a7-9f1e-4e0f-98be-64eee636cf6d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260911T123000Z
 DTEND:20260911T213000Z
 SUMMARY:Cornell Financial Engineering 2026 Future of Finance & Ai
 LOCATION:Cornell Tech\, New York City\, NY
-DESCRIPTION:Cornell’s 2026 Future of Finance & AI Conference will bring t
- ogether leading hedge fund managers\, bankers\, and quantitative analysts 
- to explore cutting-edge developments in finance and artificial intelligenc
- e.\n\nVenue: Cornell Tech\n\nEvent page: https://www.eventbrite.com/e/tick
- ets-1985995868103
+DESCRIPTION:Source: Cerebral Valley\n\nCornell’s 2026 Future of Finance &
+  AI Conference will bring together leading hedge fund managers\, bankers\,
+  and quantitative analysts to explore cutting-edge developments in finance
+  and artificial intelligence.\n\nVenue: Cornell Tech\n\nEvent page: https:
+ //www.eventbrite.com/e/tickets-1985995868103
 URL:https://www.eventbrite.com/e/tickets-1985995868103
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d57db03f-f666-4b28-8d86-f9e55039f968@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260914T130000Z
 DTEND:20260916T220000Z
 SUMMARY:Development\, Implementation and Management of AI and ML Models 202
  6 | AI & ML Events
 LOCATION:New York City\, NY
-DESCRIPTION:Experts in AI and machine learning will dive into practical str
- ategies for transforming models into real enterprise results\, addressing 
- governance\, validation\, and revenue generation while navigating the risk
- s and opportunities of large language models.\n\nEvent page: https://aiml.
- events/events/development-implementation-and-management-of-ai-and-ml-model
- s-2026-2
+DESCRIPTION:Source: Cerebral Valley\n\nExperts in AI and machine learning w
+ ill dive into practical strategies for transforming models into real enter
+ prise results\, addressing governance\, validation\, and revenue generatio
+ n while navigating the risks and opportunities of large language models.\n
+ \nEvent page: https://aiml.events/events/development-implementation-and-ma
+ nagement-of-ai-and-ml-models-2026-2
 URL:https://aiml.events/events/development-implementation-and-management-of
  -ai-and-ml-models-2026-2
 STATUS:CONFIRMED
@@ -1438,16 +1490,16 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4c0ba3ad-da56-4fdc-92c8-8a6502b515f4@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260914T130000Z
 DTEND:20260916T220000Z
 SUMMARY:Machine Learning in Quantitative Finance 2026 | AI & ML Events
 LOCATION:New York City\, NY
-DESCRIPTION:Financial experts specializing in machine learning and quantita
- tive finance will explore cutting-edge techniques and tools like Agentic A
- I\, ChatGPT\, and LLMs to boost ROI in financial institutions’ strategie
- s.\n\nEvent page: https://aiml.events/events/machine-learning-in-quantitat
- ive-finance-2026
+DESCRIPTION:Source: Cerebral Valley\n\nFinancial experts specializing in ma
+ chine learning and quantitative finance will explore cutting-edge techniqu
+ es and tools like Agentic AI\, ChatGPT\, and LLMs to boost ROI in financia
+ l institutions’ strategies.\n\nEvent page: https://aiml.events/events/ma
+ chine-learning-in-quantitative-finance-2026
 URL:https://aiml.events/events/machine-learning-in-quantitative-finance-202
  6
 STATUS:CONFIRMED
@@ -1455,249 +1507,255 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e27fef82-657d-4c83-a184-972a5bff490f@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260923T180000Z
 DTEND:20260923T230000Z
 SUMMARY:Family Offices & Investors Summit - Climate Week
 LOCATION:3 West Club\, New York City\, NY
-DESCRIPTION:Top investors\, family offices\, and entrepreneurs will converg
- e to drive the future of AI\, frontier technology\, and climate adaptation
- .\n\nVenue: 3 West Club\n\nEvent page: https://www.eventbrite.sg/e/tickets
- -1983232082546
+DESCRIPTION:Source: Cerebral Valley\n\nTop investors\, family offices\, and
+  entrepreneurs will converge to drive the future of AI\, frontier technolo
+ gy\, and climate adaptation.\n\nVenue: 3 West Club\n\nEvent page: https://
+ www.eventbrite.sg/e/tickets-1983232082546
 URL:https://www.eventbrite.sg/e/tickets-1983232082546
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4f778656-a488-4bca-97b8-2a90cbcfc0ce@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260925T140000Z
 DTEND:20260925T170000Z
 SUMMARY:Ai Tech Summit (4th Annual)
 LOCATION:Location TBA\, New York City\, NY
-DESCRIPTION:The Ai Tech Summit will bring together top AI tech investors\, 
- entrepreneurs\, and influencers for a powerhouse event focused on the late
- st innovations and investment opportunities in AI.\n\nVenue: Location TBA\
- n\nEvent page: https://www.eventbrite.com/e/tickets-1990309577524
+DESCRIPTION:Source: Cerebral Valley\n\nThe Ai Tech Summit will bring togeth
+ er top AI tech investors\, entrepreneurs\, and influencers for a powerhous
+ e event focused on the latest innovations and investment opportunities in 
+ AI.\n\nVenue: Location TBA\n\nEvent page: https://www.eventbrite.com/e/tic
+ kets-1990309577524
 URL:https://www.eventbrite.com/e/tickets-1990309577524
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:edd396d8-5580-41c4-a458-2405293fdb1b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260928T040000Z
 DTEND:20260930T040000Z
 SUMMARY:GAI World 2026 | Enterprise AI Conference
 LOCATION:GAI World Venue\, New York City\, NY
-DESCRIPTION:The Enterprise GenAI conference will dive into production-grade
-  AI agents with an engaging day-two program and expo hosted by GAI Insight
- s\, attracting AI professionals and industry leaders.\n\nVenue: GAI World 
- Venue\n\nEvent page: https://www.gaiworld.com/buy-tickets
+DESCRIPTION:Source: Cerebral Valley\n\nThe Enterprise GenAI conference will
+  dive into production-grade AI agents with an engaging day-two program and
+  expo hosted by GAI Insights\, attracting AI professionals and industry le
+ aders.\n\nVenue: GAI World Venue\n\nEvent page: https://www.gaiworld.com/b
+ uy-tickets
 URL:https://www.gaiworld.com/buy-tickets
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9d0d7225-2bb9-42ea-ad10-d1bfb661ce79@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260930T130000Z
 DTEND:20261003T020000Z
 SUMMARY:Vibe Summit
 LOCATION:Microsoft Experience Center\, New York City\, NY
-DESCRIPTION:VIBE Summit will bring together AI innovators\, creative techno
- logists\, and visionary product leaders for a dynamic three-day experience
-  blending code\, creativity\, and community that redefines the future of b
- uilding.\n\nVenue: Microsoft Experience Center\n\nEvent page: https://luma
- .com/35f8uj09
+DESCRIPTION:Source: Cerebral Valley\n\nVIBE Summit will bring together AI i
+ nnovators\, creative technologists\, and visionary product leaders for a d
+ ynamic three-day experience blending code\, creativity\, and community tha
+ t redefines the future of building.\n\nVenue: Microsoft Experience Center\
+ n\nEvent page: https://luma.com/35f8uj09
 URL:https://luma.com/35f8uj09
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7778511e-62cf-4c35-bf2f-c8cd987e7921@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261006T150000Z
 DTEND:20261006T200000Z
 SUMMARY:BROOKLYN TECH EXPO - "FALL4AI" Edition
 LOCATION:26 Bridge St\, New York City\, NY
-DESCRIPTION:The largest expo-conference in Brooklyn will showcase cutting-e
- dge AI and technology solutions\, feature innovative businesses\, and offe
- r seminars and networking opportunities for industry professionals.\n\nVen
- ue: 26 Bridge St\n\nEvent page: https://www.eventbrite.com/e/tickets-19898
- 78874279
+DESCRIPTION:Source: Cerebral Valley\n\nThe largest expo-conference in Brook
+ lyn will showcase cutting-edge AI and technology solutions\, feature innov
+ ative businesses\, and offer seminars and networking opportunities for ind
+ ustry professionals.\n\nVenue: 26 Bridge St\n\nEvent page: https://www.eve
+ ntbrite.com/e/tickets-1989878874279
 URL:https://www.eventbrite.com/e/tickets-1989878874279
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:03255171-1a0e-46ab-aef5-d8320dbbc2a2@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261008T213000Z
 DTEND:20261008T230000Z
 SUMMARY:Surviving the 2:00 AM Automated Job Rejection
 LOCATION:555 Broadway\, New York City\, NY
-DESCRIPTION:Dr. Rachel Levitch will break down strategies to navigate AI-po
- wered hiring systems and help you bounce back from job search fatigue with
-  practical\, systems-based approaches. You'll get insider tactics from som
- eone who understands both the technical barriers and the human side of lan
- ding your next role.\n\nVenue: 555 Broadway\n\nEvent page: https://www.eve
- ntbrite.com/e/tickets-1991705741488
+DESCRIPTION:Source: Cerebral Valley\n\nDr. Rachel Levitch will break down s
+ trategies to navigate AI-powered hiring systems and help you bounce back f
+ rom job search fatigue with practical\, systems-based approaches. You'll g
+ et insider tactics from someone who understands both the technical barrier
+ s and the human side of landing your next role.\n\nVenue: 555 Broadway\n\n
+ Event page: https://www.eventbrite.com/e/tickets-1991705741488
 URL:https://www.eventbrite.com/e/tickets-1991705741488
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:98b166dc-ec9f-4a70-a4d7-600110e26701@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261012T130000Z
 DTEND:20261014T220000Z
 SUMMARY:AI Engineer New York
 LOCATION:New York City\, NY
-DESCRIPTION:AI Engineer NYC will gather top AI engineers\, CTOs\, VPs of AI
- \, and founders for a three-day deep dive into advanced technical sessions
- \, hands-on workshops\, and valuable networking opportunities focused on t
- he future of intelligent systems.\n\nEvent page: https://www.ai.engineer/n
- yc
+DESCRIPTION:Source: Cerebral Valley\n\nAI Engineer NYC will gather top AI e
+ ngineers\, CTOs\, VPs of AI\, and founders for a three-day deep dive into 
+ advanced technical sessions\, hands-on workshops\, and valuable networking
+  opportunities focused on the future of intelligent systems.\n\nEvent page
+ : https://www.ai.engineer/nyc
 URL:https://www.ai.engineer/nyc
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:207c10a9-0c7f-412f-9963-e96c08e34795@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261020T130000Z
 DTEND:20261021T220000Z
 SUMMARY:CREtech 2026 | Real Estate AI Conference
 LOCATION:Javits Center\, New York City\, NY
-DESCRIPTION:CREtech New York 2026 will bring together over 3\,000 commercia
- l real estate leaders to delve into AI's transformative role in the built 
- environment\, making it the must-attend event for industry professionals s
- teering through the AI revolution.\n\nVenue: Javits Center\n\nEvent page: 
- https://discover.cretech.com/cretech-new-york-meetups?hsLang=en
+DESCRIPTION:Source: Cerebral Valley\n\nCREtech New York 2026 will bring tog
+ ether over 3\,000 commercial real estate leaders to delve into AI's transf
+ ormative role in the built environment\, making it the must-attend event f
+ or industry professionals steering through the AI revolution.\n\nVenue: Ja
+ vits Center\n\nEvent page: https://discover.cretech.com/cretech-new-york-m
+ eetups?hsLang=en
 URL:https://discover.cretech.com/cretech-new-york-meetups?hsLang=en
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c45937d1-ab0f-4b34-8b9c-91c65ae1c40d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261020T200000Z
 DTEND:20261020T213000Z
 SUMMARY:AI Fraud & The Death of the Resume: Restoring Algorithmic Trust
 LOCATION:5 Pennsylvania Plaza\, New York City\, NY
-DESCRIPTION:Dr. Rachel Levitch\, an elite CISO\, will break down how to nav
- igate the competitive AI job market while tackling critical challenges aro
- und algorithmic trust and pipeline security.\n\nVenue: 5 Pennsylvania Plaz
- a\n\nEvent page: https://www.eventbrite.com/e/tickets-1991733434318
+DESCRIPTION:Source: Cerebral Valley\n\nDr. Rachel Levitch\, an elite CISO\,
+  will break down how to navigate the competitive AI job market while tackl
+ ing critical challenges around algorithmic trust and pipeline security.\n\
+ nVenue: 5 Pennsylvania Plaza\n\nEvent page: https://www.eventbrite.com/e/t
+ ickets-1991733434318
 URL:https://www.eventbrite.com/e/tickets-1991733434318
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cb08cb9d-712a-4b37-b16f-6e4fc28e3022@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261022T120000Z
 DTEND:20261024T000000Z
 SUMMARY:LegalCon.AI
 LOCATION:Convene 237 Park\, New York City\, NY
-DESCRIPTION:LegalCon.AI will gather legal professionals to explore how AI i
- s revolutionizing the legal field and shaping the future of law practice.\
- n\nVenue: Convene 237 Park\n\nEvent page: https://www.eventbrite.com/e/tic
- kets-1986346353414
+DESCRIPTION:Source: Cerebral Valley\n\nLegalCon.AI will gather legal profes
+ sionals to explore how AI is revolutionizing the legal field and shaping t
+ he future of law practice.\n\nVenue: Convene 237 Park\n\nEvent page: https
+ ://www.eventbrite.com/e/tickets-1986346353414
 URL:https://www.eventbrite.com/e/tickets-1986346353414
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3eea5141-38d3-4282-bef0-c50aec503e59@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261025T130000Z
 DTEND:20261027T220000Z
 SUMMARY:Quantum + AI 2026
 LOCATION:New York City\, NY
-DESCRIPTION:Quantum + AI 3.0 will unite top researchers\, engineers\, start
- up founders\, corporate leaders\, investors\, and policymakers to delve in
- to breakthroughs at the intersection of quantum computing and AI\, highlig
- hting practical applications and industry impact over three action-packed 
- days.\n\nEvent page: https://iqtevent.com/quantumai
+DESCRIPTION:Source: Cerebral Valley\n\nQuantum + AI 3.0 will unite top rese
+ archers\, engineers\, startup founders\, corporate leaders\, investors\, a
+ nd policymakers to delve into breakthroughs at the intersection of quantum
+  computing and AI\, highlighting practical applications and industry impac
+ t over three action-packed days.\n\nEvent page: https://iqtevent.com/quant
+ umai
 URL:https://iqtevent.com/quantumai
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:85296603-1ce8-4820-aadb-24d2b7dedcd2@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261111T140000Z
 DTEND:20261112T223000Z
 SUMMARY:Legal AI
 LOCATION:3 Times Square\, New York City\, NY
-DESCRIPTION:Inside Practice will gather leading experts shaping the future 
- of law and technology\, spotlighting groundbreaking ideas at the forefront
-  of industry transformation.\n\nVenue: 3 Times Square\n\nEvent page: https
- ://www.eventbrite.com/e/tickets-1989404746149
+DESCRIPTION:Source: Cerebral Valley\n\nInside Practice will gather leading 
+ experts shaping the future of law and technology\, spotlighting groundbrea
+ king ideas at the forefront of industry transformation.\n\nVenue: 3 Times 
+ Square\n\nEvent page: https://www.eventbrite.com/e/tickets-1989404746149
 URL:https://www.eventbrite.com/e/tickets-1989404746149
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c3b8c66a-7aae-4339-8fdf-3d3c1c3e42b7@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261117T133000Z
 DTEND:20261117T223000Z
 SUMMARY:Catalyst | 2026. When AI Becomes Operational Reality
 LOCATION:Carnegie Hall\, New York City\, NY
-DESCRIPTION:Top procurement professionals and AI experts will collaborate i
- n a hands-on session to reshape procurement operating models for the AI-dr
- iven future.\n\nVenue: Carnegie Hall\n\nEvent page: https://www.eventbrite
- .com/e/tickets-1980309330516
+DESCRIPTION:Source: Cerebral Valley\n\nTop procurement professionals and AI
+  experts will collaborate in a hands-on session to reshape procurement ope
+ rating models for the AI-driven future.\n\nVenue: Carnegie Hall\n\nEvent p
+ age: https://www.eventbrite.com/e/tickets-1980309330516
 URL:https://www.eventbrite.com/e/tickets-1980309330516
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:817e6cfa-2610-46f1-89b4-9b2c5153da87@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261119T000000Z
 DTEND:20261119T180000Z
 SUMMARY:Agentic AI Summit | Toronto
 LOCATION:Toronto\, New York City\, NY
-DESCRIPTION:Engineers\, researchers\, and builders with expertise in AI wil
- l converge across three stages to tackle real-world challenges of deployin
- g industry-ready agentic AI\, focusing on infrastructure\, data\, governan
- ce\, and regulation.\n\nVenue: Toronto\n\nEvent page: https://world.aiacce
- leratorinstitute.com/location/agenticaitoronto
+DESCRIPTION:Source: Cerebral Valley\n\nEngineers\, researchers\, and builde
+ rs with expertise in AI will converge across three stages to tackle real-w
+ orld challenges of deploying industry-ready agentic AI\, focusing on infra
+ structure\, data\, governance\, and regulation.\n\nVenue: Toronto\n\nEvent
+  page: https://world.aiacceleratorinstitute.com/location/agenticaitoronto
 URL:https://world.aiacceleratorinstitute.com/location/agenticaitoronto
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cbcf2a8f-9123-4d12-b4ba-be00b727ebb6@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261209T140000Z
 DTEND:20261210T230000Z
 SUMMARY:The AI Summit 2026
 LOCATION:Javits Convention Center\, New York City\, NY
-DESCRIPTION:The AI Summit New York 2026 on December 9-10 will gather top AI
-  innovators\, enterprise leaders\, and emerging tech experts for two days 
- of cutting-edge insights and high-level networking.\n\nVenue: Javits Conve
- ntion Center\n\nEvent page: https://newyork.theaisummit.com/whats-on
+DESCRIPTION:Source: Cerebral Valley\n\nThe AI Summit New York 2026 on Decem
+ ber 9-10 will gather top AI innovators\, enterprise leaders\, and emerging
+  tech experts for two days of cutting-edge insights and high-level network
+ ing.\n\nVenue: Javits Convention Center\n\nEvent page: https://newyork.the
+ aisummit.com/whats-on
 URL:https://newyork.theaisummit.com/whats-on
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:26ea6da0-9b64-4a5a-ab44-2228a2a02100@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261211T140000Z
 DTEND:20261211T230000Z
 SUMMARY:AI LOVES DATA: THE FUTURE OF AGENTIC AI IN Finance and Banking
 LOCATION:S&P Global Market Intelligence\, New York City\, NY
-DESCRIPTION:Senior finance and banking leaders will convene with cutting-ed
- ge AI/ML researchers to explore the latest advances in predictive analytic
- s and intelligent automation across the financial services industry.\n\nVe
- nue: S&P Global Market Intelligence\n\nEvent page: https://ailovesdata.com
- /newyork/#register
+DESCRIPTION:Source: Cerebral Valley\n\nSenior finance and banking leaders w
+ ill convene with cutting-edge AI/ML researchers to explore the latest adva
+ nces in predictive analytics and intelligent automation across the financi
+ al services industry.\n\nVenue: S&P Global Market Intelligence\n\nEvent pa
+ ge: https://ailovesdata.com/newyork/#register
 URL:https://ailovesdata.com/newyork/#register
 STATUS:CONFIRMED
 TRANSP:OPAQUE

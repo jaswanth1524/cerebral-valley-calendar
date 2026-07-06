@@ -9,185 +9,191 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:905d90f7-d760-42cb-9886-9f69b02ad989@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260706T170000Z
 DTEND:20260710T220000Z
 SUMMARY:Future Tech Leaders Summer Camp: AI\, Cybersecurity\, Engineering &
   Business
 LOCATION:600 1st Ave\, Seattle\, WA
-DESCRIPTION:Students will get hands-on experience exploring some of the fas
- test-growing tech careers out there.\n\nVenue: 600 1st Ave\n\nEvent page: 
- https://www.eventbrite.com/e/tickets-1991798763720
+DESCRIPTION:Source: Cerebral Valley\n\nStudents will get hands-on experienc
+ e exploring some of the fastest-growing tech careers out there.\n\nVenue: 
+ 600 1st Ave\n\nEvent page: https://www.eventbrite.com/e/tickets-1991798763
+ 720
 URL:https://www.eventbrite.com/e/tickets-1991798763720
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fbf0fc5c-848b-4b0c-82b7-4a7c7b12d6ad@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
 SUMMARY:Pitch Please #9
 LOCATION:AI House\, Seattle\, WA
-DESCRIPTION:Five early-stage AI founders selected from the AI2 Incubator ap
- plicant pool will pitch to a panel of experienced investors and incubator 
- leaders—including AI2 Incubator Managing Director Yifan Zhang and CTO Pi
- erre Martin—with the audience vote winner securing a guaranteed meeting.
-  The monthly 2.5-hour session combines founder pitches\, expert feedback\,
-  and networking with potential co-founders and fellow AI builders.\n\nVenu
- e: AI House\n\nEvent page: https://luma.com/11ppwn0t
+DESCRIPTION:Source: Cerebral Valley\n\nFive early-stage AI founders selecte
+ d from the AI2 Incubator applicant pool will pitch to a panel of experienc
+ ed investors and incubator leaders—including AI2 Incubator Managing Dire
+ ctor Yifan Zhang and CTO Pierre Martin—with the audience vote winner sec
+ uring a guaranteed meeting. The monthly 2.5-hour session combines founder 
+ pitches\, expert feedback\, and networking with potential co-founders and 
+ fellow AI builders.\n\nVenue: AI House\n\nEvent page: https://luma.com/11p
+ pwn0t
 URL:https://luma.com/11ppwn0t
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1b8a0bd1-bf35-47fe-9274-0ff6df52a0aa@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T003000Z
 DTEND:20260708T030000Z
 SUMMARY:Moms Who Build: Maternal Health Hackathon — An AInChai + Armoire 
  Meetup
 LOCATION:Armoire\, Seattle\, WA
-DESCRIPTION:Moms will tackle real unsolved problems from maternal health or
- ganizations in a high-energy 60-minute AI build sprint\, creating actual s
- olutions alongside builders and community members. With on-site childcare\
- , honest conversations about building while parenting\, and free AI tools 
- provided\, this is where the people closest to the problem become the ones
-  solving it.\n\nVenue: Armoire\n\nEvent page: https://luma.com/20wq6b8g
+DESCRIPTION:Source: Cerebral Valley\n\nMoms will tackle real unsolved probl
+ ems from maternal health organizations in a high-energy 60-minute AI build
+  sprint\, creating actual solutions alongside builders and community membe
+ rs. With on-site childcare\, honest conversations about building while par
+ enting\, and free AI tools provided\, this is where the people closest to 
+ the problem become the ones solving it.\n\nVenue: Armoire\n\nEvent page: h
+ ttps://luma.com/20wq6b8g
 URL:https://luma.com/20wq6b8g
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5425c039-334c-4bab-ac0e-2918c73cc939@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T190000Z
 DTEND:20260708T203000Z
 SUMMARY:AI Tools to Build Your Business Idea Without Code
 LOCATION:Capitol Hill Branch - The Seattle Public Library\, Seattle\, WA
-DESCRIPTION:Kelly Kirk\, founder of Kelly Tutors and educator to over 10\,0
- 00 students\, will walk you through a hands-on crash course covering AI re
- search tools\, web/app building\, automation\, and creative generation—y
- ou'll actually build something real in the 90 minutes. It's a mix of demos
- \, guided discussion\, and time to get your hands dirty with the tools you
- rself.\n\nVenue: Capitol Hill Branch - The Seattle Public Library\n\nEvent
-  page: https://luma.com/q4s5mg6x
+DESCRIPTION:Source: Cerebral Valley\n\nKelly Kirk\, founder of Kelly Tutors
+  and educator to over 10\,000 students\, will walk you through a hands-on 
+ crash course covering AI research tools\, web/app building\, automation\, 
+ and creative generation—you'll actually build something real in the 90 m
+ inutes. It's a mix of demos\, guided discussion\, and time to get your han
+ ds dirty with the tools yourself.\n\nVenue: Capitol Hill Branch - The Seat
+ tle Public Library\n\nEvent page: https://luma.com/q4s5mg6x
 URL:https://luma.com/q4s5mg6x
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:90eef66a-6270-4ba1-b055-fe252f677b36@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T000000Z
 DTEND:20260709T020000Z
 SUMMARY:AI Specialists: AppliedAI Ethics Mixer – Chart Your Future
 LOCATION:Seattle\, WA
-DESCRIPTION:Specialists in applied AI will gather to network and exchange i
- nsights on developments in the field\, bringing together a mix of practiti
- oners and thought leaders working at the intersection of artificial intell
- igence and real-world applications.\n\nEvent page: https://www.eventbrite.
- com/e/tickets-1991489333205
+DESCRIPTION:Source: Cerebral Valley\n\nSpecialists in applied AI will gathe
+ r to network and exchange insights on developments in the field\, bringing
+  together a mix of practitioners and thought leaders working at the inters
+ ection of artificial intelligence and real-world applications.\n\nEvent pa
+ ge: https://www.eventbrite.com/e/tickets-1991489333205
 URL:https://www.eventbrite.com/e/tickets-1991489333205
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:02538cb3-3dcb-4344-839c-bbf122cfb624@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T010000Z
 DTEND:20260709T040000Z
 SUMMARY:AI Tech Founders\, Investors & Pitch Night by AstraTech I
 LOCATION:Tapster\, Seattle\, WA
-DESCRIPTION:A dynamic gathering tailored for AI and tech founders\, investo
- rs\, and industry professionals will offer a prime opportunity to connect 
- and explore cutting-edge innovations.\n\nVenue: Tapster\n\nEvent page: htt
- ps://www.eventbrite.com/e/tickets-1991289540620
+DESCRIPTION:Source: Cerebral Valley\n\nA dynamic gathering tailored for AI 
+ and tech founders\, investors\, and industry professionals will offer a pr
+ ime opportunity to connect and explore cutting-edge innovations.\n\nVenue:
+  Tapster\n\nEvent page: https://www.eventbrite.com/e/tickets-1991289540620
 URL:https://www.eventbrite.com/e/tickets-1991289540620
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e08c547b-81c7-48a2-8750-7e8763cd0d01@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T023000Z
 DTEND:20260709T050000Z
 SUMMARY:Aeone CreatorsXCreators Panel and Mixer
 LOCATION:Seattle\, WA
-DESCRIPTION:Creators across all tiers—from nano to mega—will gather for
-  an exclusive panel featuring YouTubers with millions of followers like Hi
- pyoTech (1.7M)\, Noah Kane (725K)\, and Ryan Mitchell (368K+) discussing A
- I\, audience growth\, and sustainable creator businesses\, complete with r
- ooftop bites\, a live DJ\, and genuine networking among pre-screened creat
- ors only.\n\nEvent page: https://luma.com/wpuiae3s
+DESCRIPTION:Source: Cerebral Valley\n\nCreators across all tiers—from nan
+ o to mega—will gather for an exclusive panel featuring YouTubers with mi
+ llions of followers like HipyoTech (1.7M)\, Noah Kane (725K)\, and Ryan Mi
+ tchell (368K+) discussing AI\, audience growth\, and sustainable creator b
+ usinesses\, complete with rooftop bites\, a live DJ\, and genuine networki
+ ng among pre-screened creators only.\n\nEvent page: https://luma.com/wpuia
+ e3s
 URL:https://luma.com/wpuiae3s
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9a5e9135-ccca-4e53-919c-15ebbf87abba@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T220000Z
 DTEND:20260710T000000Z
 SUMMARY:AI Governance in Education (Seattle + Online)
 LOCATION:Seattle\, WA
-DESCRIPTION:Education leaders and EdTech practitioners will hash out the re
- al challenges of governing AI in schools—from protecting minors' data un
- der FERPA and COPPA to surfacing shadow AI use and defending academic inte
- grity—with three experienced speakers showing what they're actually buil
- ding and shipping right now. The AiGovOps Foundation is hosting this pract
- itioner-focused meetup where district CIOs\, compliance officers\, and any
- one managing AI risk in learning environments can hear directly from the p
- eople in the trenches on what's working and where education AI governance 
- is heading next.\n\nEvent page: https://luma.com/gejh0nrq
+DESCRIPTION:Source: Cerebral Valley\n\nEducation leaders and EdTech practit
+ ioners will hash out the real challenges of governing AI in schools—from
+  protecting minors' data under FERPA and COPPA to surfacing shadow AI use 
+ and defending academic integrity—with three experienced speakers showing
+  what they're actually building and shipping right now. The AiGovOps Found
+ ation is hosting this practitioner-focused meetup where district CIOs\, co
+ mpliance officers\, and anyone managing AI risk in learning environments c
+ an hear directly from the people in the trenches on what's working and whe
+ re education AI governance is heading next.\n\nEvent page: https://luma.co
+ m/gejh0nrq
 URL:https://luma.com/gejh0nrq
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f66a54f3-903e-4507-9004-9cd36e5bd678@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T233000Z
 DTEND:20260710T013000Z
 SUMMARY:Coding\, Algorithms & AI
 LOCATION:PLUS84\, Seattle\, WA
-DESCRIPTION:PyData Seattle's Coding\, Algorithms & AI meetup will bring tog
- ether software engineers\, data scientists\, researchers\, and tech enthus
- iasts to explore cutting-edge developments in algorithms and AI. Attendees
-  will dive into hands-on coding discussions and insights from professional
- s across the tech industry.\n\nVenue: PLUS84\n\nEvent page: https://www.me
- etup.com/pydata_seattle/events/315320860
+DESCRIPTION:Source: Cerebral Valley\n\nPyData Seattle's Coding\, Algorithms
+  & AI meetup will bring together software engineers\, data scientists\, re
+ searchers\, and tech enthusiasts to explore cutting-edge developments in a
+ lgorithms and AI. Attendees will dive into hands-on coding discussions and
+  insights from professionals across the tech industry.\n\nVenue: PLUS84\n\
+ nEvent page: https://www.meetup.com/pydata_seattle/events/315320860
 URL:https://www.meetup.com/pydata_seattle/events/315320860
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:71b8390a-719c-4675-8e64-0b43336d1d49@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T233000Z
 DTEND:20260710T030000Z
 SUMMARY:Beyond AI Models: Monetization\, Security & Responsible Systems at 
  Scale
 LOCATION:Bellevue City Hall\, Seattle\, WA
-DESCRIPTION:Leaders shaping the future of AI monetization\, security\, and 
- responsible systems at top global enterprises will share insights in a hig
- h-impact evening.\n\nVenue: Bellevue City Hall\n\nEvent page: https://www.
- eventbrite.com/e/tickets-1989377374279
+DESCRIPTION:Source: Cerebral Valley\n\nLeaders shaping the future of AI mon
+ etization\, security\, and responsible systems at top global enterprises w
+ ill share insights in a high-impact evening.\n\nVenue: Bellevue City Hall\
+ n\nEvent page: https://www.eventbrite.com/e/tickets-1989377374279
 URL:https://www.eventbrite.com/e/tickets-1989377374279
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bfe0f24c-0172-43f9-aa76-29619f3a3da4@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T020000Z
 DTEND:20260710T033000Z
 SUMMARY:Where is AI in 2026 and Where is it Going?
 LOCATION:Rainier Beach Community Club\, Seattle\, WA
-DESCRIPTION:A free\, public workshop will explore the rapid advancements in
-  AI systems\, welcoming everyone regardless of technical background.\n\nVe
- nue: Rainier Beach Community Club\n\nEvent page: https://www.meetup.com/ai
- -safety-awareness-group-seattle/events/314646158
+DESCRIPTION:Source: Cerebral Valley\n\nA free\, public workshop will explor
+ e the rapid advancements in AI systems\, welcoming everyone regardless of 
+ technical background.\n\nVenue: Rainier Beach Community Club\n\nEvent page
+ : https://www.meetup.com/ai-safety-awareness-group-seattle/events/31464615
+ 8
 URL:https://www.meetup.com/ai-safety-awareness-group-seattle/events/3146461
  58
 STATUS:CONFIRMED
@@ -195,46 +201,48 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:dc015358-c72b-445e-9491-720a9f39f40b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T210000Z
 DTEND:20260710T230000Z
 SUMMARY:#20. AI/ML Code And Learn
 LOCATION:Victrola Coffee and Art\, Seattle\, WA
-DESCRIPTION:Folks will be diving into AI/ML skills every other week\, tackl
- ing a rotating lineup of topics designed to level up their technical chops
- .\n\nVenue: Victrola Coffee and Art\n\nEvent page: https://www.meetup.com/
- seattle-ai-ml-skills/events/314887395
+DESCRIPTION:Source: Cerebral Valley\n\nFolks will be diving into AI/ML skil
+ ls every other week\, tackling a rotating lineup of topics designed to lev
+ el up their technical chops.\n\nVenue: Victrola Coffee and Art\n\nEvent pa
+ ge: https://www.meetup.com/seattle-ai-ml-skills/events/314887395
 URL:https://www.meetup.com/seattle-ai-ml-skills/events/314887395
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f9a4176e-6b22-460d-9584-6140dc106bdf@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260711T000000Z
 DTEND:20260711T020000Z
 SUMMARY:AI Specialists: AIConnect - Your Gateway to AI Career Growth & Coll
  aboration
 LOCATION:Seattle\, WA
-DESCRIPTION:AI specialists and tech professionals will gather to network an
- d explore the latest in artificial intelligence technology.\n\nEvent page:
-  https://www.eventbrite.com/e/tickets-1991710873839
+DESCRIPTION:Source: Cerebral Valley\n\nAI specialists and tech professional
+ s will gather to network and explore the latest in artificial intelligence
+  technology.\n\nEvent page: https://www.eventbrite.com/e/tickets-199171087
+ 3839
 URL:https://www.eventbrite.com/e/tickets-1991710873839
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7650f962-299d-4305-bbf0-0ec944d7aae4@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260711T211500Z
 DTEND:20260711T224500Z
 SUMMARY:Superintelligent AI and Loss of Control
 LOCATION:Montlake Branch Library\, Seattle\, WA
-DESCRIPTION:A free public workshop will explore what genuine machine superi
- ntelligence might look like beyond specific tasks like chess or writing\, 
- diving into the real implications of AI systems potentially surpassing hum
- an capabilities.\n\nVenue: Montlake Branch Library\n\nEvent page: https://
- www.meetup.com/ai-safety-awareness-group-seattle/events/315309132
+DESCRIPTION:Source: Cerebral Valley\n\nA free public workshop will explore 
+ what genuine machine superintelligence might look like beyond specific tas
+ ks like chess or writing\, diving into the real implications of AI systems
+  potentially surpassing human capabilities.\n\nVenue: Montlake Branch Libr
+ ary\n\nEvent page: https://www.meetup.com/ai-safety-awareness-group-seattl
+ e/events/315309132
 URL:https://www.meetup.com/ai-safety-awareness-group-seattle/events/3153091
  32
 STATUS:CONFIRMED
@@ -242,137 +250,140 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:98dec58a-cee6-4f2c-82dc-c8ce2d276e3b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260712T010000Z
 DTEND:20260712T023000Z
 SUMMARY:AI + Vinyl Party
 LOCATION:Shibuya HiFi\, Seattle\, WA
-DESCRIPTION:An AI Pop-Up vinyl listening session will explore digital burno
- ut and attention in the age of AI\, bringing together thoughtful conversat
- ion about how technology shapes our daily lives. Guests can expect deep di
- ves into smartphone habits and AI's role in modern attention spans.\n\nVen
- ue: Shibuya HiFi\n\nEvent page: https://www.meetup.com/ai-pop-up/events/31
- 5202797
+DESCRIPTION:Source: Cerebral Valley\n\nAn AI Pop-Up vinyl listening session
+  will explore digital burnout and attention in the age of AI\, bringing to
+ gether thoughtful conversation about how technology shapes our daily lives
+ . Guests can expect deep dives into smartphone habits and AI's role in mod
+ ern attention spans.\n\nVenue: Shibuya HiFi\n\nEvent page: https://www.mee
+ tup.com/ai-pop-up/events/315202797
 URL:https://www.meetup.com/ai-pop-up/events/315202797
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8490b8ee-6b5f-4124-b918-5cee244fb1b1@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260712T160000Z
 DTEND:20260713T040000Z
 SUMMARY:Dell x NVIDIA Hackathon: Local AI on Dell Pro Max with GB10
 LOCATION:Seattle\, WA
-DESCRIPTION:Teams of 2–4 will have one day to build and ship a locally-ru
- n AI business agent on real Dell Pro Max with GB10 hardware\, competing ag
- ainst 39 other teams with a chance to take home the winning device. Top fi
- nishers will pitch live to judges that same evening\, with first place win
- ning a Dell Pro Max per team member.\n\nEvent page: https://luma.com/aiu9l
- o9y
+DESCRIPTION:Source: Cerebral Valley\n\nTeams of 2–4 will have one day to 
+ build and ship a locally-run AI business agent on real Dell Pro Max with G
+ B10 hardware\, competing against 39 other teams with a chance to take home
+  the winning device. Top finishers will pitch live to judges that same eve
+ ning\, with first place winning a Dell Pro Max per team member.\n\nEvent p
+ age: https://luma.com/aiu9lo9y
 URL:https://luma.com/aiu9lo9y
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:089f7b58-b3e2-4940-a717-74c81d1b0dd2@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T010000Z
 DTEND:20260714T040000Z
 SUMMARY:AI Dev Tools Track
 LOCATION:Seattle\, WA
-DESCRIPTION:AI developers and architects will gather to demo cutting-edge d
- ev tooling\, debate AI stacks\, and learn from folks at Amazon\, Microsoft
- \, Meta\, and startups like Anthropic—featuring rapid-fire 5-minute demo
- s with live code audits and real practical learnings around building AI sy
- stems. Expect discussions on adversarial reviews\, Haskell optimization\, 
- and agentic automation alongside food and a room full of CTOs\, founders\,
-  and principal architects who actually ship production AI.\n\nEvent page: 
- https://seattle.aitinkerers.org/p/ai-dev-tools-track-seattle-july-13
+DESCRIPTION:Source: Cerebral Valley\n\nAI developers and architects will ga
+ ther to demo cutting-edge dev tooling\, debate AI stacks\, and learn from 
+ folks at Amazon\, Microsoft\, Meta\, and startups like Anthropic—featuri
+ ng rapid-fire 5-minute demos with live code audits and real practical lear
+ nings around building AI systems. Expect discussions on adversarial review
+ s\, Haskell optimization\, and agentic automation alongside food and a roo
+ m full of CTOs\, founders\, and principal architects who actually ship pro
+ duction AI.\n\nEvent page: https://seattle.aitinkerers.org/p/ai-dev-tools-
+ track-seattle-july-13
 URL:https://seattle.aitinkerers.org/p/ai-dev-tools-track-seattle-july-13
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b0fd9803-7524-4576-939c-f6d40a7dd90a@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T080000Z
 DTEND:20260714T110000Z
 SUMMARY:AI Tinkerers Dubai - June Demo Day
 LOCATION:Details provided on RSVP acceptance\, Seattle\, WA
-DESCRIPTION:AI Tinkerers: Dev Tools will bring together AI-first developers
-  for dynamic demos\, live code reviews\, and fast-paced debates on cutting
- -edge AI development tools\, fostering a collaborative environment for tec
- h-savvy innovators.\n\nVenue: Details provided on RSVP acceptance\n\nEvent
-  page: https://seattle.aitinkerers.org/sponsors
+DESCRIPTION:Source: Cerebral Valley\n\nAI Tinkerers: Dev Tools will bring t
+ ogether AI-first developers for dynamic demos\, live code reviews\, and fa
+ st-paced debates on cutting-edge AI development tools\, fostering a collab
+ orative environment for tech-savvy innovators.\n\nVenue: Details provided 
+ on RSVP acceptance\n\nEvent page: https://seattle.aitinkerers.org/sponsors
 URL:https://seattle.aitinkerers.org/sponsors
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:31170107-1402-417d-870c-6a505ee4e468@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T194500Z
 DTEND:20260714T210000Z
 SUMMARY:AI House Founder Mental Health Affinity Group Meetup - Loneliness a
  t the Top
 LOCATION:AI House\, Seattle\, WA
-DESCRIPTION:Tech product founders will explore imposter syndrome in elite t
- alent ecosystems through a facilitated\, confidential peer discussion led 
- by executive coach Brett Greene\, PCC\, focusing on emotional resilience a
- nd founder well-being.\n\nVenue: AI House\n\nEvent page: https://luma.com/
- cm1a1boy
+DESCRIPTION:Source: Cerebral Valley\n\nTech product founders will explore i
+ mposter syndrome in elite talent ecosystems through a facilitated\, confid
+ ential peer discussion led by executive coach Brett Greene\, PCC\, focusin
+ g on emotional resilience and founder well-being.\n\nVenue: AI House\n\nEv
+ ent page: https://luma.com/cm1a1boy
 URL:https://luma.com/cm1a1boy
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4364a437-4de9-40b0-b902-648ffe94dba0@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T220000Z
 DTEND:20260715T000000Z
 SUMMARY:GTM Strategy for Founders: A Fireside Chat with Kelly Breslin Wrigh
  t
 LOCATION:AI House\, Seattle\, WA
-DESCRIPTION:Kelly Breslin Wright\, who scaled Tableau's sales from zero to 
- $850M before its $15.7B Salesforce acquisition and later served as Preside
- nt and COO of Gong\, will share insights on building repeatable go-to-mark
- et motions that compete at scale. This fireside chat will cover how founde
- rs can earn early customers and build sales organizations that survive gro
- wth.\n\nVenue: AI House\n\nEvent page: https://luma.com/aihouse-pwwy
+DESCRIPTION:Source: Cerebral Valley\n\nKelly Breslin Wright\, who scaled Ta
+ bleau's sales from zero to $850M before its $15.7B Salesforce acquisition 
+ and later served as President and COO of Gong\, will share insights on bui
+ lding repeatable go-to-market motions that compete at scale. This fireside
+  chat will cover how founders can earn early customers and build sales org
+ anizations that survive growth.\n\nVenue: AI House\n\nEvent page: https://
+ luma.com/aihouse-pwwy
 URL:https://luma.com/aihouse-pwwy
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:84160430-f098-407d-9711-3880d4264767@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T003000Z
 DTEND:20260715T024500Z
 SUMMARY:New Tech Seattle July 2026 Meetup
 LOCATION:The Collective Seattle\, Seattle\, WA
-DESCRIPTION:New Tech Seattle’s July meetup will bring together 60\,000+ t
- ech professionals including developers\, founders\, investors\, and execut
- ives for a night of networking\, innovative 8-minute tech presentations\, 
- and lively community interactions\, all fueled by career-relevant insights
-  and industry expertise.\n\nVenue: The Collective Seattle\n\nEvent page: h
- ttps://luma.com/fuqoy4mo
+DESCRIPTION:Source: Cerebral Valley\n\nNew Tech Seattle’s July meetup wil
+ l bring together 60\,000+ tech professionals including developers\, founde
+ rs\, investors\, and executives for a night of networking\, innovative 8-m
+ inute tech presentations\, and lively community interactions\, all fueled 
+ by career-relevant insights and industry expertise.\n\nVenue: The Collecti
+ ve Seattle\n\nEvent page: https://luma.com/fuqoy4mo
 URL:https://luma.com/fuqoy4mo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:397d6066-cd30-4a3a-8c9e-565fd42219e2@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T010000Z
 DTEND:20260715T040000Z
 SUMMARY:Women in AI - Builders Track: Seattle Inaugural Meetup
 LOCATION:Near Westlake station\, Seattle\, WA
-DESCRIPTION:Women in AI - Builders Track will spotlight hands-on AI develop
- ment with lightning demos\, live code audits\, and rapid-fire stack debate
- s\, geared toward practical engineering challenges and featuring expert AI
-  builders.\n\nVenue: Near Westlake station\n\nEvent page: https://seattle.
- aitinkerers.org/p/women-in-ai-builders-track-seattle-inaugural-meetup
+DESCRIPTION:Source: Cerebral Valley\n\nWomen in AI - Builders Track will sp
+ otlight hands-on AI development with lightning demos\, live code audits\, 
+ and rapid-fire stack debates\, geared toward practical engineering challen
+ ges and featuring expert AI builders.\n\nVenue: Near Westlake station\n\nE
+ vent page: https://seattle.aitinkerers.org/p/women-in-ai-builders-track-se
+ attle-inaugural-meetup
 URL:https://seattle.aitinkerers.org/p/women-in-ai-builders-track-seattle-in
  augural-meetup
 STATUS:CONFIRMED
@@ -380,433 +391,443 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fd8c035b-f98c-4d79-ab72-4ddcbb0ebb0c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T183000Z
 DTEND:20260715T210000Z
 SUMMARY:AI in Action: Using Technology to Grow Business and Support Seniors
 LOCATION:Tutta Bella Neapolitan Pizzeria\, Seattle\, WA
-DESCRIPTION:Get the lowdown on how AI will transform business operations an
- d improve quality of life for seniors through hands-on exploration and rea
- l-world applications.\n\nVenue: Tutta Bella Neapolitan Pizzeria\n\nEvent p
- age: https://www.eventbrite.com/e/tickets-1990202218410
+DESCRIPTION:Source: Cerebral Valley\n\nGet the lowdown on how AI will trans
+ form business operations and improve quality of life for seniors through h
+ ands-on exploration and real-world applications.\n\nVenue: Tutta Bella Nea
+ politan Pizzeria\n\nEvent page: https://www.eventbrite.com/e/tickets-19902
+ 02218410
 URL:https://www.eventbrite.com/e/tickets-1990202218410
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:88726cf2-432c-4e45-8008-82a83a9237ad@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T000000Z
 DTEND:20260716T020000Z
 SUMMARY:AI Specialists: AgenticAI Breakthroughs & Builder Mixer
 LOCATION:Seattle\, WA
-DESCRIPTION:Specialists in agentic AI will gather to network and exchange i
- deas on July 15th at 5 PM PDT\, bringing together cutting-edge practitione
- rs in the field.\n\nEvent page: https://www.eventbrite.com/e/tickets-19919
- 88593506
+DESCRIPTION:Source: Cerebral Valley\n\nSpecialists in agentic AI will gathe
+ r to network and exchange ideas on July 15th at 5 PM PDT\, bringing togeth
+ er cutting-edge practitioners in the field.\n\nEvent page: https://www.eve
+ ntbrite.com/e/tickets-1991988593506
 URL:https://www.eventbrite.com/e/tickets-1991988593506
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a8fcb669-f662-4827-9a76-6bd22e2c700a@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T000000Z
 DTEND:20260716T030000Z
 SUMMARY:AI Meetup - Post Alley
 LOCATION:Seattle\, WA
-DESCRIPTION:Seattle developers will dive into practical AI applications and
-  experiments through live demos\, connecting with fellow builders and crea
- tors who are actively shipping AI-powered tools and projects.\n\nEvent pag
- e: https://luma.com/29jqt1nv
+DESCRIPTION:Source: Cerebral Valley\n\nSeattle developers will dive into pr
+ actical AI applications and experiments through live demos\, connecting wi
+ th fellow builders and creators who are actively shipping AI-powered tools
+  and projects.\n\nEvent page: https://luma.com/29jqt1nv
 URL:https://luma.com/29jqt1nv
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2a67ae9a-12b2-4cbd-a4cd-51e7cf0e41a9@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T000000Z
 DTEND:20260716T023000Z
 SUMMARY:Don't just dream it\, Build it
 LOCATION:10400 NE 4th St ste 3100\, Seattle\, WA
-DESCRIPTION:Senior product\, design\, engineering\, and AI leaders will gat
- her to dig into why teams are moving faster with AI tools but still hittin
- g coordination bottlenecks—all while customizing their own Nike sneakers
-  over drinks and conversation. This will be a candid exploration of what's
-  actually working in the coordination layer that AI hasn't solved yet.\n\n
- Venue: 10400 NE 4th St ste 3100\n\nEvent page: https://luma.com/builder-ni
- ke-seattle
+DESCRIPTION:Source: Cerebral Valley\n\nSenior product\, design\, engineerin
+ g\, and AI leaders will gather to dig into why teams are moving faster wit
+ h AI tools but still hitting coordination bottlenecks—all while customiz
+ ing their own Nike sneakers over drinks and conversation. This will be a c
+ andid exploration of what's actually working in the coordination layer tha
+ t AI hasn't solved yet.\n\nVenue: 10400 NE 4th St ste 3100\n\nEvent page: 
+ https://luma.com/builder-nike-seattle
 URL:https://luma.com/builder-nike-seattle
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5bd61d9a-c646-4384-9b08-35af249751f8@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T003000Z
 DTEND:20260716T023000Z
 SUMMARY:Outset Show & Tell
 LOCATION:Sabine Café & Bar\, Seattle\, WA
-DESCRIPTION:Researchers from Seattle will showcase AI-moderated research pr
- ojects through Outset's platform\, with presentations spanning topics from
-  user friction and AI collaboration to inclusive design and trust-building
- —all while exploring how AI moderation is reshaping the research process
- . The evening kicks off with networking drinks followed by insights from s
- easoned practitioners on leveraging AI as a research tool.\n\nVenue: Sabin
- e Café & Bar\n\nEvent page: https://luma.com/rjs3s3cv
+DESCRIPTION:Source: Cerebral Valley\n\nResearchers from Seattle will showca
+ se AI-moderated research projects through Outset's platform\, with present
+ ations spanning topics from user friction and AI collaboration to inclusiv
+ e design and trust-building—all while exploring how AI moderation is res
+ haping the research process. The evening kicks off with networking drinks 
+ followed by insights from seasoned practitioners on leveraging AI as a res
+ earch tool.\n\nVenue: Sabine Café & Bar\n\nEvent page: https://luma.com/r
+ js3s3cv
 URL:https://luma.com/rjs3s3cv
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b6084b23-b48f-4261-b25b-e278e0118dff@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T003000Z
 DTEND:20260716T033000Z
 SUMMARY:July 15 - AI\, ML and Computer Vision Meetup
 LOCATION:Union AI\, Seattle\, WA
-DESCRIPTION:This upcoming in-person meetup will feature expert talks on the
-  latest advancements in AI\, machine learning\, and computer vision\, offe
- ring insights from professionals deeply versed in these fields.\n\nVenue: 
- Union AI\n\nEvent page: https://www.meetup.com/seattle-computer-vision-mee
- tup/events/315059461
+DESCRIPTION:Source: Cerebral Valley\n\nThis upcoming in-person meetup will 
+ feature expert talks on the latest advancements in AI\, machine learning\,
+  and computer vision\, offering insights from professionals deeply versed 
+ in these fields.\n\nVenue: Union AI\n\nEvent page: https://www.meetup.com/
+ seattle-computer-vision-meetup/events/315059461
 URL:https://www.meetup.com/seattle-computer-vision-meetup/events/315059461
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ae4ba15d-192d-4fdc-87b5-9b19a9fad956@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T193000Z
 DTEND:20260716T204500Z
 SUMMARY:State of Climate Tech VC in the PNW 2026 Round Table - Live Podcast
   Recording
 LOCATION:Founders Hall (FNDR)\, Seattle\, WA
-DESCRIPTION:Five veteran climate tech investors—including the co-host of 
- Climate Money podcast and founders from Toba Capital\, Stepchange Ventures
- \, SNØCAP\, Elemental Impact\, and Burnt Island Ventures—will dig into 
- an unscripted conversation about where climate capital is actually flowing
-  in 2026\, what's getting funded\, and whether AI and climate tech are rea
- lly converging. Each investor brings their own burning question to this ca
- ndid roundtable discussion facilitated by a Foster School of Business prof
- essor.\n\nVenue: Founders Hall (FNDR)\n\nEvent page: https://luma.com/ja9n
- pqzy
+DESCRIPTION:Source: Cerebral Valley\n\nFive veteran climate tech investors
+ —including the co-host of Climate Money podcast and founders from Toba C
+ apital\, Stepchange Ventures\, SNØCAP\, Elemental Impact\, and Burnt Isla
+ nd Ventures—will dig into an unscripted conversation about where climate
+  capital is actually flowing in 2026\, what's getting funded\, and whether
+  AI and climate tech are really converging. Each investor brings their own
+  burning question to this candid roundtable discussion facilitated by a Fo
+ ster School of Business professor.\n\nVenue: Founders Hall (FNDR)\n\nEvent
+  page: https://luma.com/ja9npqzy
 URL:https://luma.com/ja9npqzy
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c0028778-35aa-4bd5-b8eb-ee74a927ce3e@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T210000Z
 DTEND:20260716T230000Z
 SUMMARY:AI\, Robotics\, and the Future of Sustainable Agriculture
 LOCATION:Founders Hall (FNDR)\, Seattle\, WA
-DESCRIPTION:A panel will explore how AI and robotics are transforming susta
- inable agriculture\, with speakers from Carbon Robotics\, Voyager Capital\
- , and UW researchers diving into real-world deployments\, practical soluti
- ons\, and the barriers holding back wider adoption. The conversation will 
- span everything from cost and infrastructure challenges to environmental i
- mpact and what farmers actually need.\n\nVenue: Founders Hall (FNDR)\n\nEv
- ent page: https://luma.com/5urmbs5i
+DESCRIPTION:Source: Cerebral Valley\n\nA panel will explore how AI and robo
+ tics are transforming sustainable agriculture\, with speakers from Carbon 
+ Robotics\, Voyager Capital\, and UW researchers diving into real-world dep
+ loyments\, practical solutions\, and the barriers holding back wider adopt
+ ion. The conversation will span everything from cost and infrastructure ch
+ allenges to environmental impact and what farmers actually need.\n\nVenue:
+  Founders Hall (FNDR)\n\nEvent page: https://luma.com/5urmbs5i
 URL:https://luma.com/5urmbs5i
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ea86a74e-2b78-4718-ab63-ef6ff75ba3cc@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T230000Z
 DTEND:20260717T010000Z
 SUMMARY:Shipping Real Software in the AI Era\, with Francois Ajenstat\, And
  rew Beers\, and Mark Nelson
 LOCATION:AI House\, Seattle\, WA
-DESCRIPTION:Golden Analytics' CEO Francois Ajenstat and CTO Andrew Beers wi
- ll dig into the unglamorous work behind production-grade AI—security\, s
- calability\, compliance—drawing from their battle-tested experience at T
- ableau and their current hypergrowth startup\, followed by a fireside chat
-  with Madrona's Mark Nelson on what separates companies that scale from th
- ose stuck in prototype limbo. The whole thing wraps with plenty of time to
-  pick their brains directly.\n\nVenue: AI House\n\nEvent page: https://lum
- a.com/aihouse-zhqw
+DESCRIPTION:Source: Cerebral Valley\n\nGolden Analytics' CEO Francois Ajens
+ tat and CTO Andrew Beers will dig into the unglamorous work behind product
+ ion-grade AI—security\, scalability\, compliance—drawing from their ba
+ ttle-tested experience at Tableau and their current hypergrowth startup\, 
+ followed by a fireside chat with Madrona's Mark Nelson on what separates c
+ ompanies that scale from those stuck in prototype limbo. The whole thing w
+ raps with plenty of time to pick their brains directly.\n\nVenue: AI House
+ \n\nEvent page: https://luma.com/aihouse-zhqw
 URL:https://luma.com/aihouse-zhqw
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a8ec6f08-74d5-41d9-888b-765707330f5e@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260722T000000Z
 DTEND:20260722T020000Z
 SUMMARY:Seattle Consumer AI Founders Meetup (B2C)
 LOCATION:Seattle\, WA
-DESCRIPTION:Seattle's B2C AI founder scene is converging for an unfiltered 
- roundtable where early-stage to growth-stage builders will swap real talk 
- on what's actually working in consumer AI right now. Expect genuine conver
- sation with founders shipping products people use daily—no corporate the
- ater\, just people who get it.\n\nEvent page: https://luma.com/gq3ieg3x
+DESCRIPTION:Source: Cerebral Valley\n\nSeattle's B2C AI founder scene is co
+ nverging for an unfiltered roundtable where early-stage to growth-stage bu
+ ilders will swap real talk on what's actually working in consumer AI right
+  now. Expect genuine conversation with founders shipping products people u
+ se daily—no corporate theater\, just people who get it.\n\nEvent page: h
+ ttps://luma.com/gq3ieg3x
 URL:https://luma.com/gq3ieg3x
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:968dd791-5940-40ee-9718-fd9493eaaf0e@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260723T000000Z
 DTEND:20260723T030000Z
 SUMMARY:Spark + AI: Ignite the Future
 LOCATION:Databricks Bellevue WA\, Seattle\, WA
-DESCRIPTION:# Summary\n\nA tech meetup will feature expert speakers diving 
- into industry insights\, with registration through Luma required to secure
-  your spot.\n\nVenue: Databricks Bellevue WA\n\nEvent page: https://www.me
- etup.com/seattle-spark-meetup/events/315065968
+DESCRIPTION:Source: Cerebral Valley\n\n# Summary\n\nA tech meetup will feat
+ ure expert speakers diving into industry insights\, with registration thro
+ ugh Luma required to secure your spot.\n\nVenue: Databricks Bellevue WA\n\
+ nEvent page: https://www.meetup.com/seattle-spark-meetup/events/315065968
 URL:https://www.meetup.com/seattle-spark-meetup/events/315065968
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:69e10afa-1471-4e6d-adc2-f8377f4a66ae@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260725T160000Z
 DTEND:20260726T000000Z
 SUMMARY:AI for Good & Just Transition Challenge
 LOCATION:Highline College\, Seattle\, WA
-DESCRIPTION:Participants with a knack for innovation and problem-solving wi
- ll tackle community issues using AI\, receive expert mentoring\, and compe
- te for prizes during challenges on July 25.\n\nVenue: Highline College\n\n
- Event page: https://www.eventbrite.com/e/tickets-1987453596207
+DESCRIPTION:Source: Cerebral Valley\n\nParticipants with a knack for innova
+ tion and problem-solving will tackle community issues using AI\, receive e
+ xpert mentoring\, and compete for prizes during challenges on July 25.\n\n
+ Venue: Highline College\n\nEvent page: https://www.eventbrite.com/e/ticket
+ s-1987453596207
 URL:https://www.eventbrite.com/e/tickets-1987453596207
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3c615c7f-fbe4-4091-843b-5f555148b3df@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260725T163000Z
 DTEND:20260726T010000Z
 SUMMARY:GraphCon
 LOCATION:Seattle\, WA
-DESCRIPTION:GraphCon will bring together builders\, architects\, and data s
- cientists for an intimate day diving into cutting-edge graph technology\, 
- featuring hands-on sessions on GraphRAG\, production scaling\, and a live 
- reverse hackathon where attendees pitch real problems for expert solutions
-  moderated by architect Vaibhav Gupta. Expect high-signal discussions that
-  prioritize peer-to-peer knowledge sharing alongside industry insights fro
- m leaders across the graph stack.\n\nEvent page: https://luma.com/17qq1jmr
+DESCRIPTION:Source: Cerebral Valley\n\nGraphCon will bring together builder
+ s\, architects\, and data scientists for an intimate day diving into cutti
+ ng-edge graph technology\, featuring hands-on sessions on GraphRAG\, produ
+ ction scaling\, and a live reverse hackathon where attendees pitch real pr
+ oblems for expert solutions moderated by architect Vaibhav Gupta. Expect h
+ igh-signal discussions that prioritize peer-to-peer knowledge sharing alon
+ gside industry insights from leaders across the graph stack.\n\nEvent page
+ : https://luma.com/17qq1jmr
 URL:https://luma.com/17qq1jmr
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2b6ec409-2039-4629-86c9-b7e86a13dcb1@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260727T160000Z
 DTEND:20260731T223000Z
 SUMMARY:Junior NATEA x UW Robotics\, CS\, & AI Summer Program
 LOCATION:University of Washington\, Seattle\, WA
-DESCRIPTION:Middle schoolers will dive into cutting-edge robotics and AI wi
- th instructors who are actual UW professors and world-class robotics champ
- ions\, all using the newest LEGO® CS & AI technology.\n\nVenue: Universit
- y of Washington\n\nEvent page: https://www.eventbrite.com/e/tickets-199144
- 7996566
+DESCRIPTION:Source: Cerebral Valley\n\nMiddle schoolers will dive into cutt
+ ing-edge robotics and AI with instructors who are actual UW professors and
+  world-class robotics champions\, all using the newest LEGO® CS & AI tech
+ nology.\n\nVenue: University of Washington\n\nEvent page: https://www.even
+ tbrite.com/e/tickets-1991447996566
 URL:https://www.eventbrite.com/e/tickets-1991447996566
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:45c8c573-0101-4afb-9982-3c8da4b7fd0c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260727T200000Z
 DTEND:20260727T210000Z
 SUMMARY:Lawyers Who Build: The Future of Legal Tech & AI | Batesly x Clearb
  rief
 LOCATION:SURF Incubator\, Seattle\, WA
-DESCRIPTION:Two former litigators building AI tools for the legal professio
- n—Rachel Bender (Batesly) and Jacqueline Schafer (Clearbrief\, 2025 Lega
- lweek Innovator of the Year)—will dig into where AI actually helps lawye
- rs versus where it creates risk\, what it takes to earn the trust of a ske
- ptical profession\, and what legal tech will actually look like over the n
- ext few years.\n\nVenue: SURF Incubator\n\nEvent page: https://luma.com/y2
- jqqdkp
+DESCRIPTION:Source: Cerebral Valley\n\nTwo former litigators building AI to
+ ols for the legal profession—Rachel Bender (Batesly) and Jacqueline Scha
+ fer (Clearbrief\, 2025 Legalweek Innovator of the Year)—will dig into wh
+ ere AI actually helps lawyers versus where it creates risk\, what it takes
+  to earn the trust of a skeptical profession\, and what legal tech will ac
+ tually look like over the next few years.\n\nVenue: SURF Incubator\n\nEven
+ t page: https://luma.com/y2jqqdkp
 URL:https://luma.com/y2jqqdkp
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:92055a97-981f-4593-9b87-3f88beec8207@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260727T220000Z
 DTEND:20260728T000000Z
 SUMMARY:Foundation Models Go Vertical | Ascend
 LOCATION:Seattle\, WA
-DESCRIPTION:Founders betting their companies on foundation models will get 
- grilled by the legal minds and competitors actually shaping the landscape
- —expect real talk about whether labs will actually compete with their ow
- n developers.\n\nEvent page: https://luma.com/xpfzgicf
+DESCRIPTION:Source: Cerebral Valley\n\nFounders betting their companies on 
+ foundation models will get grilled by the legal minds and competitors actu
+ ally shaping the landscape—expect real talk about whether labs will actu
+ ally compete with their own developers.\n\nEvent page: https://luma.com/xp
+ fzgicf
 URL:https://luma.com/xpfzgicf
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b0052cd9-7ca8-40e8-906a-236cb0aaf5a6@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260727T223000Z
 DTEND:20260728T003000Z
 SUMMARY:AI & SaaS growth: Drinks in the sun
 LOCATION:Linda's Tavern\, Seattle\, WA
-DESCRIPTION:Founders and product leaders focused on AI and SaaS products wi
- ll dive into strategies for building\, growing\, and monetizing their inno
- vations. Expect insights tailored to professionals shaping the future of t
- ech-driven solutions.\n\nVenue: Linda's Tavern\n\nEvent page: https://www.
- meetup.com/seattle-ai-saas-growth/events/314942797
+DESCRIPTION:Source: Cerebral Valley\n\nFounders and product leaders focused
+  on AI and SaaS products will dive into strategies for building\, growing\
+ , and monetizing their innovations. Expect insights tailored to profession
+ als shaping the future of tech-driven solutions.\n\nVenue: Linda's Tavern\
+ n\nEvent page: https://www.meetup.com/seattle-ai-saas-growth/events/314942
+ 797
 URL:https://www.meetup.com/seattle-ai-saas-growth/events/314942797
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f20bc74d-5cae-4092-8fa4-4aaffa9118bb@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260728T000000Z
 DTEND:20260728T023000Z
 SUMMARY:AI Startup Secret Sauce
 LOCATION:Bellevue City Hall\, Seattle\, WA
-DESCRIPTION:Founders and investors will dive into what actually makes AI st
- artups succeed\, with industry veterans unpacking the strategies and insig
- hts that separate winners from the rest.\n\nVenue: Bellevue City Hall\n\nE
- vent page: https://www.meetup.com/product-management-seattle/events/315430
- 018
+DESCRIPTION:Source: Cerebral Valley\n\nFounders and investors will dive int
+ o what actually makes AI startups succeed\, with industry veterans unpacki
+ ng the strategies and insights that separate winners from the rest.\n\nVen
+ ue: Bellevue City Hall\n\nEvent page: https://www.meetup.com/product-manag
+ ement-seattle/events/315430018
 URL:https://www.meetup.com/product-management-seattle/events/315430018
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:dec732bd-47d6-444b-a221-2fa038b58d43@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260729T000000Z
 DTEND:20260729T030000Z
 SUMMARY:SaaS & AI Founder + Investor Rooftop Happy Hour | NachoNacho
 LOCATION:9Zero Climate Innovation Hub\, Seattle\, WA
-DESCRIPTION:SaaStr San Francisco will bring together Seed+ founders\, C-sui
- te executives\, VCs\, and tech media for an exclusive rooftop happy hour w
- here genuine connections happen over sponsored drinks and appetizers—per
- fect for founders to pitch their vision and investors to scout their next 
- big opportunity.\n\nVenue: 9Zero Climate Innovation Hub\n\nEvent page: htt
- ps://luma.com/nachon-tm7t
+DESCRIPTION:Source: Cerebral Valley\n\nSaaStr San Francisco will bring toge
+ ther Seed+ founders\, C-suite executives\, VCs\, and tech media for an exc
+ lusive rooftop happy hour where genuine connections happen over sponsored 
+ drinks and appetizers—perfect for founders to pitch their vision and inv
+ estors to scout their next big opportunity.\n\nVenue: 9Zero Climate Innova
+ tion Hub\n\nEvent page: https://luma.com/nachon-tm7t
 URL:https://luma.com/nachon-tm7t
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8b31b6f7-882f-4e67-bf0c-411216da8d91@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260729T010000Z
 DTEND:20260729T040000Z
 SUMMARY:STW Startup Showcase at The Showbox (Live Demos) | J.P. Morgan
 LOCATION:Seattle\, WA
-DESCRIPTION:Seattle's startup scene will bring its A-game with 23% of the c
- ountry's AI engineering talent on display at this showcase\, where early-s
- tage founders will pitch alongside recently unicorn-status companies\, bac
- ked by J.P. Morgan and a powerhouse lineup of local VCs like Madrona and A
- scend. Expect cutting-edge product demos\, investor reverse pitches\, and 
- an 80s/90s rock cover band keeping the energy high throughout the evening.
- \n\nEvent page: https://luma.com/zbb6j727
+DESCRIPTION:Source: Cerebral Valley\n\nSeattle's startup scene will bring i
+ ts A-game with 23% of the country's AI engineering talent on display at th
+ is showcase\, where early-stage founders will pitch alongside recently uni
+ corn-status companies\, backed by J.P. Morgan and a powerhouse lineup of l
+ ocal VCs like Madrona and Ascend. Expect cutting-edge product demos\, inve
+ stor reverse pitches\, and an 80s/90s rock cover band keeping the energy h
+ igh throughout the evening.\n\nEvent page: https://luma.com/zbb6j727
 URL:https://luma.com/zbb6j727
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:63d8fede-e6bc-49a8-afe5-495c3dff6f10@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260729T010000Z
 DTEND:20260729T030000Z
 SUMMARY:Stripe Developer Meetup Seattle July 2026
 LOCATION:Stripe Seattle\, Seattle\, WA
-DESCRIPTION:Stripe's inaugural Seattle developer meetup will bring together
-  builders working with Stripe for an evening of product insights\, best pr
- actices\, and talks from Stripe engineers and industry experts like those 
- from Auth0\, covering topics from AI wallet agents to secure integrations.
- \n\nVenue: Stripe Seattle\n\nEvent page: https://luma.com/nkhh1kh3
+DESCRIPTION:Source: Cerebral Valley\n\nStripe's inaugural Seattle developer
+  meetup will bring together builders working with Stripe for an evening of
+  product insights\, best practices\, and talks from Stripe engineers and i
+ ndustry experts like those from Auth0\, covering topics from AI wallet age
+ nts to secure integrations.\n\nVenue: Stripe Seattle\n\nEvent page: https:
+ //luma.com/nkhh1kh3
 URL:https://luma.com/nkhh1kh3
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f0347551-c15b-45df-b76c-64d4932a7f1d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260729T010000Z
 DTEND:20260729T040000Z
 SUMMARY:HackerX AI (Employer Registration)
 LOCATION:Seattle\, WA
-DESCRIPTION:Over 100 AI professionals will converge for an evening of netwo
- rking and peer exchange\, bringing together expertise across machine learn
- ing\, AI research\, and industry applications.\n\nEvent page: https://www.
- eventbrite.com/e/tickets-1991010748746
+DESCRIPTION:Source: Cerebral Valley\n\nOver 100 AI professionals will conve
+ rge for an evening of networking and peer exchange\, bringing together exp
+ ertise across machine learning\, AI research\, and industry applications.\
+ n\nEvent page: https://www.eventbrite.com/e/tickets-1991010748746
 URL:https://www.eventbrite.com/e/tickets-1991010748746
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:31cb20de-02f6-4ca3-8cdb-3b108ad80ed4@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260730T230000Z
 DTEND:20260731T000000Z
 SUMMARY:Founder panel: AI & SaaS product-led growth | Tech Week 2026
 LOCATION:Seattle\, WA
-DESCRIPTION:Founders and growth leaders will dig into the full PLG playbook
- —from initial customer acquisition and conversion tactics to expansion a
- nd retention strategies—with experienced founders breaking down what act
- ually works.\n\nEvent page: https://www.meetup.com/seattle-ai-saas-growth/
- events/315377419
+DESCRIPTION:Source: Cerebral Valley\n\nFounders and growth leaders will dig
+  into the full PLG playbook—from initial customer acquisition and conver
+ sion tactics to expansion and retention strategies—with experienced foun
+ ders breaking down what actually works.\n\nEvent page: https://www.meetup.
+ com/seattle-ai-saas-growth/events/315377419
 URL:https://www.meetup.com/seattle-ai-saas-growth/events/315377419
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b71017cf-b5f1-4a41-8059-c386aadf9266@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260731T003000Z
 DTEND:20260731T030000Z
 SUMMARY:Huge Annual Summer BBQ | AI House
 LOCATION:AI House\, Seattle\, WA
-DESCRIPTION:Over 700 AI founders\, engineers\, investors\, and researchers 
- will converge for Seattle Tech Week's flagship celebration\, complete with
-  a science fair showcasing the region's hottest startups alongside music\,
-  drinks\, and plenty of unexpected connections that'll shape what comes ne
- xt in the industry.\n\nVenue: AI House\n\nEvent page: https://luma.com/92p
- yibuc
+DESCRIPTION:Source: Cerebral Valley\n\nOver 700 AI founders\, engineers\, i
+ nvestors\, and researchers will converge for Seattle Tech Week's flagship 
+ celebration\, complete with a science fair showcasing the region's hottest
+  startups alongside music\, drinks\, and plenty of unexpected connections 
+ that'll shape what comes next in the industry.\n\nVenue: AI House\n\nEvent
+  page: https://luma.com/92pyibuc
 URL:https://luma.com/92pyibuc
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f14a0b5f-2e27-4c63-bb6b-a69fc63672ba@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260731T013000Z
 DTEND:20260731T050000Z
 SUMMARY:Casino Night for Founders\, Builders\, and Funders | MongoDB
 LOCATION:The Ruins\, Seattle\, WA
-DESCRIPTION:Seattle's top AI founders\, builders\, and funders will gather 
- for a casino-themed networking night featuring poker\, blackjack\, roulett
- e\, and more\, with industry heavyweights like MongoDB\, NVIDIA\, Madrona 
- Ventures\, and Temporal hosting the action. Top chip earners will compete 
- for prizes including an NVIDIA RTX 4060\, Apple AirPods Max\, and Meta Sma
- rt Glasses.\n\nVenue: The Ruins\n\nEvent page: https://luma.com/kz2lcdiy
+DESCRIPTION:Source: Cerebral Valley\n\nSeattle's top AI founders\, builders
+ \, and funders will gather for a casino-themed networking night featuring 
+ poker\, blackjack\, roulette\, and more\, with industry heavyweights like 
+ MongoDB\, NVIDIA\, Madrona Ventures\, and Temporal hosting the action. Top
+  chip earners will compete for prizes including an NVIDIA RTX 4060\, Apple
+  AirPods Max\, and Meta Smart Glasses.\n\nVenue: The Ruins\n\nEvent page: 
+ https://luma.com/kz2lcdiy
 URL:https://luma.com/kz2lcdiy
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8fb62961-4fdb-461c-988d-083ddf2a7a25@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260801T183000Z
 DTEND:20260801T200000Z
 SUMMARY:Understanding AI
 LOCATION:Montlake Branch Library\, Seattle\, WA
-DESCRIPTION:A free\, public workshop will demystify AI's presence in everyd
- ay life and work\, making it accessible to everyone without requiring a te
- chnical background.\n\nVenue: Montlake Branch Library\n\nEvent page: https
- ://www.meetup.com/ai-safety-awareness-group-seattle/events/314256594
+DESCRIPTION:Source: Cerebral Valley\n\nA free\, public workshop will demyst
+ ify AI's presence in everyday life and work\, making it accessible to ever
+ yone without requiring a technical background.\n\nVenue: Montlake Branch L
+ ibrary\n\nEvent page: https://www.meetup.com/ai-safety-awareness-group-sea
+ ttle/events/314256594
 URL:https://www.meetup.com/ai-safety-awareness-group-seattle/events/3142565
  94
 STATUS:CONFIRMED
@@ -814,245 +835,249 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:43eb4a39-89f7-47c3-98b5-46dad5dbf390@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260805T220000Z
 DTEND:20260806T000000Z
 SUMMARY:What's Next for AI in Washington? Reflections on the AI Task Force 
  Report
 LOCATION:AI House\, Seattle\, WA
-DESCRIPTION:Washington State's AI Task Force will discuss their report find
- ings and chart the path forward for AI policy and implementation across th
- e state. This public conversation will bring together key stakeholders and
-  policymakers to explore the implications and next steps for AI governance
-  in the region.\n\nVenue: AI House\n\nEvent page: https://www.eventbrite.c
- om/e/tickets-1992585769676
+DESCRIPTION:Source: Cerebral Valley\n\nWashington State's AI Task Force wil
+ l discuss their report findings and chart the path forward for AI policy a
+ nd implementation across the state. This public conversation will bring to
+ gether key stakeholders and policymakers to explore the implications and n
+ ext steps for AI governance in the region.\n\nVenue: AI House\n\nEvent pag
+ e: https://www.eventbrite.com/e/tickets-1992585769676
 URL:https://www.eventbrite.com/e/tickets-1992585769676
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3fdb7f63-13ee-4474-800e-c09b1505b14f@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260807T003000Z
 DTEND:20260807T033000Z
 SUMMARY:Camp AI: Agents at Work
 LOCATION:Seattle\, WA
-DESCRIPTION:Tech founders and AI builders will gather for live demos and a 
- panel discussion on shipping agentic workflows at scale\, with plenty of t
- ime to network with rising startups and leaders pushing AI innovation forw
- ard. Expect real conversations about developing and scaling AI agents\, ba
- cked by industry voices diving into what actually works.\n\nEvent page: ht
- tps://luma.com/camp-ai-august-2026
+DESCRIPTION:Source: Cerebral Valley\n\nTech founders and AI builders will g
+ ather for live demos and a panel discussion on shipping agentic workflows 
+ at scale\, with plenty of time to network with rising startups and leaders
+  pushing AI innovation forward. Expect real conversations about developing
+  and scaling AI agents\, backed by industry voices diving into what actual
+ ly works.\n\nEvent page: https://luma.com/camp-ai-august-2026
 URL:https://luma.com/camp-ai-august-2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8f8350eb-9248-4d0c-b38a-9b50701970b2@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260811T200000Z
 DTEND:20260811T210000Z
 SUMMARY:AI House Founder Mental Health Affinity Group Meetup - Anxiety in t
  he Age of AI Catastrophe
 LOCATION:AI House\, Seattle\, WA
-DESCRIPTION:Tech product founders will explore managing anxiety and high-st
- akes decision-making amid AI pressures\, guided by executive coach Brett G
- reene\, PCC\, in an intimate peer support setting focused on emotional res
- ilience and shared experiences.\n\nVenue: AI House\n\nEvent page: https://
- luma.com/3fg942vn
+DESCRIPTION:Source: Cerebral Valley\n\nTech product founders will explore m
+ anaging anxiety and high-stakes decision-making amid AI pressures\, guided
+  by executive coach Brett Greene\, PCC\, in an intimate peer support setti
+ ng focused on emotional resilience and shared experiences.\n\nVenue: AI Ho
+ use\n\nEvent page: https://luma.com/3fg942vn
 URL:https://luma.com/3fg942vn
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4266d9b8-2092-4052-aada-ed0bdd01df74@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260812T003000Z
 DTEND:20260812T024500Z
 SUMMARY:New Tech August 2026 Meetup
 LOCATION:The Collective Seattle\, Seattle\, WA
-DESCRIPTION:New Tech Seattle’s August meetup will gather top developers\,
-  founders\, and industry leaders for brief\, insightful presentations on c
- utting-edge tech like AI\, blockchain\, and green tech\, along with valuab
- le networking and career-building opportunities in a welcoming community o
- f over 60\,000 professionals.\n\nVenue: The Collective Seattle\n\nEvent pa
- ge: https://luma.com/xwt6px7d
+DESCRIPTION:Source: Cerebral Valley\n\nNew Tech Seattle’s August meetup w
+ ill gather top developers\, founders\, and industry leaders for brief\, in
+ sightful presentations on cutting-edge tech like AI\, blockchain\, and gre
+ en tech\, along with valuable networking and career-building opportunities
+  in a welcoming community of over 60\,000 professionals.\n\nVenue: The Col
+ lective Seattle\n\nEvent page: https://luma.com/xwt6px7d
 URL:https://luma.com/xwt6px7d
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8975c269-6544-49c1-868e-34c94f58ced0@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260812T233000Z
 DTEND:20260813T030000Z
 SUMMARY:AI Agents in the Wild: Building\, Scaling & Deploying in Production
 LOCATION:Bellevue City Hall\, Seattle\, WA
-DESCRIPTION:Top minds from GitHub\, Salesforce\, and AWS will explore how t
- hey're taking AI agents from demos straight into real-world production at 
- scale.\n\nVenue: Bellevue City Hall\n\nEvent page: https://www.eventbrite.
- com/e/tickets-1989379459516
+DESCRIPTION:Source: Cerebral Valley\n\nTop minds from GitHub\, Salesforce\,
+  and AWS will explore how they're taking AI agents from demos straight int
+ o real-world production at scale.\n\nVenue: Bellevue City Hall\n\nEvent pa
+ ge: https://www.eventbrite.com/e/tickets-1989379459516
 URL:https://www.eventbrite.com/e/tickets-1989379459516
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:668ffe3c-cacf-4167-801d-31e4bdfbb60b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260813T070000Z
 DTEND:20260814T070000Z
 SUMMARY:Pacific Northwest Software Symposium
 LOCATION:Aloft Redmond\, Seattle\, WA
-DESCRIPTION:The Pacific Northwest Software Symposium will bring together de
- velopers of all levels to explore cutting-edge topics like AI\, Machine Le
- arning\, Spring 6\, DevOps\, and Microservices through hands-on sessions l
- ed by industry experts. Whether you're a senior engineer or just growing y
- our skills\, you'll get the chance to level up your software development g
- ame across architecture\, modern Java\, and big data.\n\nVenue: Aloft Redm
- ond\n\nEvent page: https://nofluffjuststuff.com/seattle
+DESCRIPTION:Source: Cerebral Valley\n\nThe Pacific Northwest Software Sympo
+ sium will bring together developers of all levels to explore cutting-edge 
+ topics like AI\, Machine Learning\, Spring 6\, DevOps\, and Microservices 
+ through hands-on sessions led by industry experts. Whether you're a senior
+  engineer or just growing your skills\, you'll get the chance to level up 
+ your software development game across architecture\, modern Java\, and big
+  data.\n\nVenue: Aloft Redmond\n\nEvent page: https://nofluffjuststuff.com
+ /seattle
 URL:https://nofluffjuststuff.com/seattle
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:967da079-8bd3-452b-aa0a-1c584205f791@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260915T193000Z
 DTEND:20260915T210000Z
 SUMMARY:AI House Founder Mental Health Affinity Group Meetup - Imposter Syn
  drome in Leadership
 LOCATION:AI House\, Seattle\, WA
-DESCRIPTION:Tech product founders will explore imposter syndrome’s impact
-  on leadership with insights from executive coach Brett Greene\, PCC\, in 
- a confidential peer circle focused on resilience\, authentic connection\, 
- and practical strategies to manage self-doubt while leading effectively.\n
- \nVenue: AI House\n\nEvent page: https://luma.com/0641ruc1
+DESCRIPTION:Source: Cerebral Valley\n\nTech product founders will explore i
+ mposter syndrome’s impact on leadership with insights from executive coa
+ ch Brett Greene\, PCC\, in a confidential peer circle focused on resilienc
+ e\, authentic connection\, and practical strategies to manage self-doubt w
+ hile leading effectively.\n\nVenue: AI House\n\nEvent page: https://luma.c
+ om/0641ruc1
 URL:https://luma.com/0641ruc1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb7ab8a0-af4c-4196-9fde-ce30583089ac@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260916T003000Z
 DTEND:20260916T024500Z
 SUMMARY:New Tech September 2026 Meetup
 LOCATION:The Collective Seattle\, Seattle\, WA
-DESCRIPTION:The upcoming New Tech Seattle meetup will bring together a vibr
- ant mix of developers\, founders\, executives\, and innovators for a night
-  of rapid-fire presentations\, insightful Q&A\, and relaxed networking wit
- h tasty bites and drinks. Attendees will gain fresh perspectives on AI\, c
- ybersecurity\, blockchain\, and more\, connecting within a community fuele
- d by career-driven professionals and industry leaders.\n\nVenue: The Colle
- ctive Seattle\n\nEvent page: https://luma.com/emlnef1e
+DESCRIPTION:Source: Cerebral Valley\n\nThe upcoming New Tech Seattle meetup
+  will bring together a vibrant mix of developers\, founders\, executives\,
+  and innovators for a night of rapid-fire presentations\, insightful Q&A\,
+  and relaxed networking with tasty bites and drinks. Attendees will gain f
+ resh perspectives on AI\, cybersecurity\, blockchain\, and more\, connecti
+ ng within a community fueled by career-driven professionals and industry l
+ eaders.\n\nVenue: The Collective Seattle\n\nEvent page: https://luma.com/e
+ mlnef1e
 URL:https://luma.com/emlnef1e
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5ac45407-51d1-4d45-b04e-2d8b0b88a456@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261013T193000Z
 DTEND:20261013T210000Z
 SUMMARY:AI House Founder Mental Health Affinity Group Meetup - Relationship
  s Under Founder Pressure
 LOCATION:AI House\, Seattle\, WA
-DESCRIPTION:Tech product founders will explore the emotional toll of startu
- p life on personal relationships in a confidential peer-led discussion fac
- ilitated by Brett Greene\, an executive coach and mental health advocate. 
- This intimate session offers a safe space to share struggles and gain supp
- ort from fellow founders navigating similar pressures.\n\nVenue: AI House\
- n\nEvent page: https://luma.com/c4kj048q
+DESCRIPTION:Source: Cerebral Valley\n\nTech product founders will explore t
+ he emotional toll of startup life on personal relationships in a confident
+ ial peer-led discussion facilitated by Brett Greene\, an executive coach a
+ nd mental health advocate. This intimate session offers a safe space to sh
+ are struggles and gain support from fellow founders navigating similar pre
+ ssures.\n\nVenue: AI House\n\nEvent page: https://luma.com/c4kj048q
 URL:https://luma.com/c4kj048q
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:405c8737-20dd-40f1-b9f2-954cb18b3d0f@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261014T003000Z
 DTEND:20261014T024500Z
 SUMMARY:New Tech October 2026 Meetup - AI Week Preview
 LOCATION:The Collective Seattle\, Seattle\, WA
-DESCRIPTION:New Tech Seattle’s October meetup will bring together over 60
- \,000 tech pros—from founders to developers and executives—for rapid-f
- ire presentations on cutting-edge tech like AI\, blockchain\, and sustaina
- bility\, alongside casual networking with industry leaders\, recruiters\, 
- and innovators.\n\nVenue: The Collective Seattle\n\nEvent page: https://lu
- ma.com/iswwo0dn
+DESCRIPTION:Source: Cerebral Valley\n\nNew Tech Seattle’s October meetup 
+ will bring together over 60\,000 tech pros—from founders to developers a
+ nd executives—for rapid-fire presentations on cutting-edge tech like AI\
+ , blockchain\, and sustainability\, alongside casual networking with indus
+ try leaders\, recruiters\, and innovators.\n\nVenue: The Collective Seattl
+ e\n\nEvent page: https://luma.com/iswwo0dn
 URL:https://luma.com/iswwo0dn
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:47ee0b8d-9ff7-44ea-bd7d-972be079ccf4@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261110T203000Z
 DTEND:20261110T220000Z
 SUMMARY:AI House Founder Mental Health Affinity Group Meetup - The Addictio
  n Patterns of High-Performers
 LOCATION:AI House\, Seattle\, WA
-DESCRIPTION:Tech product founders will explore the addictive patterns tied 
- to high-performance culture\, from stimulant reliance to biohacking extrem
- es\, in a confidential peer-led conversation facilitated by executive coac
- h Brett Greene\, PCC. This intimate meetup offers a rare space for founder
- s to openly reflect on mental health challenges and share insights without
-  pressure or judgment.\n\nVenue: AI House\n\nEvent page: https://luma.com/
- f0yr8xf3
+DESCRIPTION:Source: Cerebral Valley\n\nTech product founders will explore t
+ he addictive patterns tied to high-performance culture\, from stimulant re
+ liance to biohacking extremes\, in a confidential peer-led conversation fa
+ cilitated by executive coach Brett Greene\, PCC. This intimate meetup offe
+ rs a rare space for founders to openly reflect on mental health challenges
+  and share insights without pressure or judgment.\n\nVenue: AI House\n\nEv
+ ent page: https://luma.com/f0yr8xf3
 URL:https://luma.com/f0yr8xf3
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5da3d9b3-ab79-41c3-9ded-606f748fe70e@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261111T013000Z
 DTEND:20261111T034500Z
 SUMMARY:New Tech November 2026 Meetup
 LOCATION:The Collective Seattle\, Seattle\, WA
-DESCRIPTION:New Tech Seattle's November meetup will bring together over 60\
- ,000 Northwest tech professionals including developers\, founders\, execut
- ives\, and investors for insightful 8-minute presentations by industry lea
- ders\, lively networking\, and a look into cutting-edge fields like AI\, c
- ybersecurity\, and blockchain—all with tasty bites\, drinks\, and a laid
- -back neighborhood vibe.\n\nVenue: The Collective Seattle\n\nEvent page: h
- ttps://luma.com/mz9vzii6
+DESCRIPTION:Source: Cerebral Valley\n\nNew Tech Seattle's November meetup w
+ ill bring together over 60\,000 Northwest tech professionals including dev
+ elopers\, founders\, executives\, and investors for insightful 8-minute pr
+ esentations by industry leaders\, lively networking\, and a look into cutt
+ ing-edge fields like AI\, cybersecurity\, and blockchain—all with tasty 
+ bites\, drinks\, and a laid-back neighborhood vibe.\n\nVenue: The Collecti
+ ve Seattle\n\nEvent page: https://luma.com/mz9vzii6
 URL:https://luma.com/mz9vzii6
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:25515505-e2ee-4600-8757-1d30295394f8@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261208T203000Z
 DTEND:20261208T220000Z
 SUMMARY:AI House Founder Mental Health Affinity Group Meetup - Redefining S
  uccess Beyond Exit or Acquisition
 LOCATION:AI House\, Seattle\, WA
-DESCRIPTION:Tech product founders in AI and tech will engage in a confident
- ial\, peer-led conversation facilitated by executive coach Brett Greene\, 
- PCC\, focusing on redefining success beyond financial exits\, aligning val
- ues\, and fostering sustainable leadership without burnout.\n\nVenue: AI H
- ouse\n\nEvent page: https://luma.com/g5k4gb7r
+DESCRIPTION:Source: Cerebral Valley\n\nTech product founders in AI and tech
+  will engage in a confidential\, peer-led conversation facilitated by exec
+ utive coach Brett Greene\, PCC\, focusing on redefining success beyond fin
+ ancial exits\, aligning values\, and fostering sustainable leadership with
+ out burnout.\n\nVenue: AI House\n\nEvent page: https://luma.com/g5k4gb7r
 URL:https://luma.com/g5k4gb7r
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ad1b12b4-5e57-4e9b-8424-76cfb31cbcf7@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261209T013000Z
 DTEND:20261209T034500Z
 SUMMARY:New Tech December 2026 Meetup
 LOCATION:The Collective Seattle\, Seattle\, WA
-DESCRIPTION:New Tech Seattle’s December meetup will bring together over 6
- 0\,000 tech professionals—including developers\, founders\, executives\,
-  and investors—for rapid-fire presentations by industry leaders and vibr
- ant neighborhood-style networking fueled by career-focused insights and in
- novations across AI\, cybersecurity\, fintech\, and more. Attendees will e
- njoy a friendly atmosphere with light bites and drinks while connecting wi
- th highly qualified peers and community resources.\n\nVenue: The Collectiv
- e Seattle\n\nEvent page: https://luma.com/qatuzu0k
+DESCRIPTION:Source: Cerebral Valley\n\nNew Tech Seattle’s December meetup
+  will bring together over 60\,000 tech professionals—including developer
+ s\, founders\, executives\, and investors—for rapid-fire presentations b
+ y industry leaders and vibrant neighborhood-style networking fueled by car
+ eer-focused insights and innovations across AI\, cybersecurity\, fintech\,
+  and more. Attendees will enjoy a friendly atmosphere with light bites and
+  drinks while connecting with highly qualified peers and community resourc
+ es.\n\nVenue: The Collective Seattle\n\nEvent page: https://luma.com/qatuz
+ u0k
 URL:https://luma.com/qatuzu0k
 STATUS:CONFIRMED
 TRANSP:OPAQUE
