@@ -9,239 +9,243 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:c850925a-cda2-4144-b79a-e01c8c6f16c0@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260706T000000Z
 DTEND:20260711T090000Z
 SUMMARY:ICML (International Conference on Machine Learning) 2026
 LOCATION:COEX Convention & Exhibition Center\, San Francisco\, CA
-DESCRIPTION:ICML 2026 will bring together top machine learning researchers 
- and practitioners for a week of cutting-edge presentations\, hands-on tuto
- rials\, and specialized workshops exploring the latest breakthroughs in th
- e field.\n\nVenue: COEX Convention & Exhibition Center\n\nEvent page: http
- s://www.conferank.com/conferences/icml
+DESCRIPTION:Source: Cerebral Valley\n\nICML 2026 will bring together top ma
+ chine learning researchers and practitioners for a week of cutting-edge pr
+ esentations\, hands-on tutorials\, and specialized workshops exploring the
+  latest breakthroughs in the field.\n\nVenue: COEX Convention & Exhibition
+  Center\n\nEvent page: https://www.conferank.com/conferences/icml
 URL:https://www.conferank.com/conferences/icml
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:31acbfa4-ad8e-4160-97c7-1cd590678271@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260706T020000Z
 DTEND:20260706T033000Z
 SUMMARY:Brainrot Lecture: The Psychology of Attention in a Digital World wi
  th Dr. Sarah Shepherd
 LOCATION:tiat\, San Francisco\, CA
-DESCRIPTION:Dr. Sarah Shepherd\, a UC Berkeley psychologist whose research 
- on digital attention has been adopted by Common Sense Media\, will break d
- own the psychology behind why platforms keep us scrolling and what that ac
- tually means for how our brains work. Expect real research\, uncomfortable
-  questions\, and a deep dive into whether your attention span is actually 
- doomed or if there's more to the story.\n\nVenue: tiat\n\nEvent page: http
- s://luma.com/attention
+DESCRIPTION:Source: Cerebral Valley\n\nDr. Sarah Shepherd\, a UC Berkeley p
+ sychologist whose research on digital attention has been adopted by Common
+  Sense Media\, will break down the psychology behind why platforms keep us
+  scrolling and what that actually means for how our brains work. Expect re
+ al research\, uncomfortable questions\, and a deep dive into whether your 
+ attention span is actually doomed or if there's more to the story.\n\nVenu
+ e: tiat\n\nEvent page: https://luma.com/attention
 URL:https://luma.com/attention
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8ae1f3e5-b418-4eae-bb8d-77c32bd664b9@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260706T213000Z
 DTEND:20260707T000000Z
 SUMMARY:AI Tinkerers - Columbus July Meetup [AI Tinkerers - Columbus]
 LOCATION:Improving\, San Francisco\, CA
-DESCRIPTION:The AI Tinkerers meetup will bring together hands-on AI practit
- ioners for demo presentations and networking\, highlighting cutting-edge e
- xperiments and developments in AI technology.\n\nVenue: Improving\n\nEvent
-  page: https://columbus.aitinkerers.org/p/ai-tinkerers-columbus-july-meetu
- p
+DESCRIPTION:Source: Cerebral Valley\n\nThe AI Tinkerers meetup will bring t
+ ogether hands-on AI practitioners for demo presentations and networking\, 
+ highlighting cutting-edge experiments and developments in AI technology.\n
+ \nVenue: Improving\n\nEvent page: https://columbus.aitinkerers.org/p/ai-ti
+ nkerers-columbus-july-meetup
 URL:https://columbus.aitinkerers.org/p/ai-tinkerers-columbus-july-meetup
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5d9931ba-4a3d-470c-89b8-05c5b226a37d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260707T013000Z
 DTEND:20260707T040000Z
 SUMMARY:Builders Night
 LOCATION:540 Laguna St\, San Francisco\, CA
-DESCRIPTION:Builders Night brings together people working on projects—fro
- m software to art to businesses—for focused\, side-by-side work sessions
-  where you'll build momentum and get unstuck with the support of other mak
- ers in the room. Expect deep focus\, genuine connection\, and a chance to 
- share what you're creating with people who actually get it.\n\nVenue: 540 
- Laguna St\n\nEvent page: https://luma.com/6uoda4dr
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders Night brings together peopl
+ e working on projects—from software to art to businesses—for focused\,
+  side-by-side work sessions where you'll build momentum and get unstuck wi
+ th the support of other makers in the room. Expect deep focus\, genuine co
+ nnection\, and a chance to share what you're creating with people who actu
+ ally get it.\n\nVenue: 540 Laguna St\n\nEvent page: https://luma.com/6uoda
+ 4dr
 URL:https://luma.com/6uoda4dr
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ecadcd7e-142d-4a22-8f4a-b6b9ea5fb0ed@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260707T163000Z
 DTEND:20260708T013000Z
 SUMMARY:HackwithBay 3.0
 LOCATION:AWS Builder Loft\, San Francisco\, CA
-DESCRIPTION:HackwithBay 3.0 will bring together experienced hackers\, desig
- ners\, and innovators for an intense 8-hour session focused on building th
- oughtful productivity agents with expert mentorship and industry recogniti
- on. Participants will tackle real challenges\, network with passionate pro
- blem-solvers\, and compete for prizes while demoing projects to industry l
- eaders.\n\nVenue: AWS Builder Loft\n\nEvent page: https://luma.com/sv61aql
- g
+DESCRIPTION:Source: Cerebral Valley\n\nHackwithBay 3.0 will bring together 
+ experienced hackers\, designers\, and innovators for an intense 8-hour ses
+ sion focused on building thoughtful productivity agents with expert mentor
+ ship and industry recognition. Participants will tackle real challenges\, 
+ network with passionate problem-solvers\, and compete for prizes while dem
+ oing projects to industry leaders.\n\nVenue: AWS Builder Loft\n\nEvent pag
+ e: https://luma.com/sv61aqlg
 URL:https://luma.com/sv61aqlg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:cf8fb1f9-c89c-4d8d-90de-e09f0fa7f16d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
-DTSTART:20260708T000000Z
-DTEND:20260708T030000Z
-SUMMARY:Chaat Maxxing: Launch Night by PromptQL
-LOCATION:San Francisco\, CA
-DESCRIPTION:PromptQL will celebrate the eve of their GA launch with an insi
- der preview featuring live demos of their AI platform\, a screening of the
- ir launch film\, and plenty of chaat and chai—all bringing together foun
- ders\, investors\, and builders curious about the future of AI-powered tea
- mwork.\n\nEvent page: https://luma.com/chaatmaxxing
-URL:https://luma.com/chaatmaxxing
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:9858b7f4-4d62-43b7-96e7-cc301b6f63a2@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T000000Z
 DTEND:20260708T040000Z
 SUMMARY:OpenAI Codex Event at Bright Data
 LOCATION:625 2nd St\, San Francisco\, CA
-DESCRIPTION:Developers and founders will gather to dive into OpenAI Codex w
- orkflows and hands-on exploration of AI-assisted software development\, sw
- apping real projects and insights with fellow builders actively experiment
- ing with coding agents. Expect practical demos\, peer discussion\, and foo
- d while exploring how AI tools are reshaping the way software gets shipped
- .\n\nVenue: 625 2nd St\n\nEvent page: https://luma.com/openai-codex-bright
- -data-jul7-2026
+DESCRIPTION:Source: Cerebral Valley\n\nDevelopers and founders will gather 
+ to dive into OpenAI Codex workflows and hands-on exploration of AI-assiste
+ d software development\, swapping real projects and insights with fellow b
+ uilders actively experimenting with coding agents. Expect practical demos\
+ , peer discussion\, and food while exploring how AI tools are reshaping th
+ e way software gets shipped.\n\nVenue: 625 2nd St\n\nEvent page: https://l
+ uma.com/openai-codex-bright-data-jul7-2026
 URL:https://luma.com/openai-codex-bright-data-jul7-2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:cf8fb1f9-c89c-4d8d-90de-e09f0fa7f16d@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260708T000000Z
+DTEND:20260708T030000Z
+SUMMARY:Chaat Maxxing: Launch Night by PromptQL
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nPromptQL will celebrate the eve of t
+ heir GA launch with an insider preview featuring live demos of their AI pl
+ atform\, a screening of their launch film\, and plenty of chaat and chai
+ —all bringing together founders\, investors\, and builders curious about
+  the future of AI-powered teamwork.\n\nEvent page: https://luma.com/chaatm
+ axxing
+URL:https://luma.com/chaatmaxxing
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:dfea9a81-cacc-44de-97c0-956352844ae7@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T000000Z
 DTEND:20260708T030000Z
 SUMMARY:LP & GP Dinner with aiRaiz & Founders Bay
 LOCATION:San Francisco\, CA
-DESCRIPTION:An evening bringing together veteran funders\, capital allocato
- rs\, and founders to dig into fundraising dynamics\, market trends\, and w
- here money's actually flowing across private markets—featuring seasoned 
- partners from Suncoast Ventures\, Decibel Partners\, BDev Ventures\, and o
- ther established firms diving into today's investment landscape with candi
- d perspectives from both LPs and GPs.\n\nEvent page: https://luma.com/q71h
- 9z6p
+DESCRIPTION:Source: Cerebral Valley\n\nAn evening bringing together veteran
+  funders\, capital allocators\, and founders to dig into fundraising dynam
+ ics\, market trends\, and where money's actually flowing across private ma
+ rkets—featuring seasoned partners from Suncoast Ventures\, Decibel Partn
+ ers\, BDev Ventures\, and other established firms diving into today's inve
+ stment landscape with candid perspectives from both LPs and GPs.\n\nEvent 
+ page: https://luma.com/q71h9z6p
 URL:https://luma.com/q71h9z6p
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f483b6ed-386f-42e9-ad77-5b10c7ecda52@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T000000Z
 DTEND:20260708T040000Z
 SUMMARY:Agent Experience Demo Night @ Auth0 (#5th Edition)
 LOCATION:Okta\, San Francisco\, CA
-DESCRIPTION:Sapient and Okta are hosting an Agent Experience Night where AI
-  and API companies will demo their latest agent-ready tools and platforms\
- , with past participants including OpenAI-acquired Statsig\, Nvidia-acquir
- ed Groq\, and Okta-acquired Auth0. Expect live AI demonstrations\, speaker
-  sessions\, and networking with technical founders\, developers\, and inve
- stors exploring the future of agent-integrated development tools.\n\nVenue
- : Okta\n\nEvent page: https://luma.com/devtooldemo5
+DESCRIPTION:Source: Cerebral Valley\n\nSapient and Okta are hosting an Agen
+ t Experience Night where AI and API companies will demo their latest agent
+ -ready tools and platforms\, with past participants including OpenAI-acqui
+ red Statsig\, Nvidia-acquired Groq\, and Okta-acquired Auth0. Expect live 
+ AI demonstrations\, speaker sessions\, and networking with technical found
+ ers\, developers\, and investors exploring the future of agent-integrated 
+ development tools.\n\nVenue: Okta\n\nEvent page: https://luma.com/devtoold
+ emo5
 URL:https://luma.com/devtooldemo5
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:302547fb-04ae-439d-9ae4-2d60eb08361e@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T003000Z
 DTEND:20260708T040000Z
 SUMMARY:Punk Software Hack Night: Build Tools That Work for You
 LOCATION:San Francisco\, CA
-DESCRIPTION:Build your own tools and reclaim control from software designed
-  to exploit you—this hack night brings together coders\, designers\, wri
- ters\, and anyone fed up with the status quo to prototype punk software po
- wered by AI\, with Kanjun Qiu (Imbue CEO) kicking things off and no prior 
- programming experience required.\n\nEvent page: https://luma.com/e494jmrl
+DESCRIPTION:Source: Cerebral Valley\n\nBuild your own tools and reclaim con
+ trol from software designed to exploit you—this hack night brings togeth
+ er coders\, designers\, writers\, and anyone fed up with the status quo to
+  prototype punk software powered by AI\, with Kanjun Qiu (Imbue CEO) kicki
+ ng things off and no prior programming experience required.\n\nEvent page:
+  https://luma.com/e494jmrl
 URL:https://luma.com/e494jmrl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6909ce38-c16b-43a3-a888-98389b2de4d3@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T013000Z
 DTEND:20260708T033000Z
 SUMMARY:Founder Dinner
 LOCATION:San Francisco\, CA
-DESCRIPTION:Series A+ founders building in AI will gather for an evening of
-  real talk on fundraising\, GTM\, and scaling strategies with peers who've
-  been in the trenches\, complete with a 3-course dinner and insights from 
- builders behind some of the country's fastest-growing companies.\n\nEvent 
- page: https://luma.com/j2p2yo58
+DESCRIPTION:Source: Cerebral Valley\n\nSeries A+ founders building in AI wi
+ ll gather for an evening of real talk on fundraising\, GTM\, and scaling s
+ trategies with peers who've been in the trenches\, complete with a 3-cours
+ e dinner and insights from builders behind some of the country's fastest-g
+ rowing companies.\n\nEvent page: https://luma.com/j2p2yo58
 URL:https://luma.com/j2p2yo58
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1838c442-ee6b-439c-9ef4-20a7d3451417@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T013000Z
 DTEND:20260708T050000Z
 SUMMARY:Andera x Reducto: GeoGuessr Olympics
 LOCATION:San Francisco\, CA
-DESCRIPTION:Geo enthusiasts will battle it out in a GeoGuessr competition w
- hile diving into international cuisine and unexpected surprises\, with Red
- ucto and Andera—leaders in AI automation and enterprise-scale document i
- ntelligence—hosting the showdown.\n\nEvent page: https://luma.com/xso9g6
- fr
+DESCRIPTION:Source: Cerebral Valley\n\nGeo enthusiasts will battle it out i
+ n a GeoGuessr competition while diving into international cuisine and unex
+ pected surprises\, with Reducto and Andera—leaders in AI automation and 
+ enterprise-scale document intelligence—hosting the showdown.\n\nEvent pa
+ ge: https://luma.com/xso9g6fr
 URL:https://luma.com/xso9g6fr
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d1543334-f492-473c-a1ac-371982bff35d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T014500Z
 DTEND:20260708T034500Z
 SUMMARY:Claude Code Demos: Building the State of the Art
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:Building the State of the Art will gather experienced users of 
- agentic tools like Claude Code and Codex for live workflow demos and colla
- borative working sessions\, perfect for AI builders eager to refine their 
- practices and exchange cutting-edge techniques.\n\nVenue: 550 Laguna St\n\
- nEvent page: https://luma.com/9tyyr40v
+DESCRIPTION:Source: Cerebral Valley\n\nBuilding the State of the Art will g
+ ather experienced users of agentic tools like Claude Code and Codex for li
+ ve workflow demos and collaborative working sessions\, perfect for AI buil
+ ders eager to refine their practices and exchange cutting-edge techniques.
+ \n\nVenue: 550 Laguna St\n\nEvent page: https://luma.com/9tyyr40v
 URL:https://luma.com/9tyyr40v
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a38db14c-44fe-490c-ad50-883feafd8be1@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T020000Z
 DTEND:20260708T050000Z
 SUMMARY:Women in Tech\, Fintech\, AI\, Startups\, Networking Event & Elevat
  or Pitch
 LOCATION:Upcider\, San Francisco\, CA
-DESCRIPTION:Startup founders\, tech professionals\, and entrepreneurs acros
- s fintech\, AI\, and women-in-tech will gather to pitch ideas\, swap stori
- es\, and explore collaboration opportunities with investors\, researchers\
- , and industry leaders. It's the perfect setup to level up your network\, 
- find mentors\, and discover your next big partnership or investment opport
- unity.\n\nVenue: Upcider\n\nEvent page: https://www.meetup.com/sanfrancisc
- o-startup-pitch-and-networking/events/315052569
+DESCRIPTION:Source: Cerebral Valley\n\nStartup founders\, tech professional
+ s\, and entrepreneurs across fintech\, AI\, and women-in-tech will gather 
+ to pitch ideas\, swap stories\, and explore collaboration opportunities wi
+ th investors\, researchers\, and industry leaders. It's the perfect setup 
+ to level up your network\, find mentors\, and discover your next big partn
+ ership or investment opportunity.\n\nVenue: Upcider\n\nEvent page: https:/
+ /www.meetup.com/sanfrancisco-startup-pitch-and-networking/events/315052569
 URL:https://www.meetup.com/sanfrancisco-startup-pitch-and-networking/events
  /315052569
 STATUS:CONFIRMED
@@ -249,210 +253,211 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d3ea6ffb-58d8-4de9-a3f8-c43519328400@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T170000Z
 DTEND:20260708T180000Z
 SUMMARY:Coffee Club | Deep Tech: From Research to Company
 LOCATION:San Francisco\, CA
-DESCRIPTION:Early-stage B2B and AI founders\, especially from underrepresen
- ted groups\, will connect with seasoned investors and the Forum Ventures t
- eam—experts behind 65+ SaaS investments and an innovative AI venture stu
- dio—in an intimate coffee meetup designed for meaningful networking.\n\n
- Event page: https://luma.com/59mk6zjl
+DESCRIPTION:Source: Cerebral Valley\n\nEarly-stage B2B and AI founders\, es
+ pecially from underrepresented groups\, will connect with seasoned investo
+ rs and the Forum Ventures team—experts behind 65+ SaaS investments and a
+ n innovative AI venture studio—in an intimate coffee meetup designed for
+  meaningful networking.\n\nEvent page: https://luma.com/59mk6zjl
 URL:https://luma.com/59mk6zjl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6224dcd9-cb11-40ce-b9ee-7c1e7d43d5da@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T220000Z
 DTEND:20260709T000000Z
 SUMMARY:AI Engineers: July
 LOCATION:House of AI\, San Francisco\, CA
-DESCRIPTION:The July San Francisco AI Engineers Tech Talk will bring togeth
- er top AI professionals to dive into the latest advancements and share exp
- ert insights in artificial intelligence. It's set to be a prime opportunit
- y for engineers and AI specialists to connect and elevate their skills.\n\
- nVenue: House of AI\n\nEvent page: https://www.meetup.com/san-francisco-ai
- -engineers/events/313346812
+DESCRIPTION:Source: Cerebral Valley\n\nThe July San Francisco AI Engineers 
+ Tech Talk will bring together top AI professionals to dive into the latest
+  advancements and share expert insights in artificial intelligence. It's s
+ et to be a prime opportunity for engineers and AI specialists to connect a
+ nd elevate their skills.\n\nVenue: House of AI\n\nEvent page: https://www.
+ meetup.com/san-francisco-ai-engineers/events/313346812
 URL:https://www.meetup.com/san-francisco-ai-engineers/events/313346812
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bd317f0b-46df-415d-b032-e033e5563798@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260708T230000Z
 DTEND:20260709T020000Z
 SUMMARY:Build with Campfire and Ramp MCP
 LOCATION:300 Montgomery St\, San Francisco\, CA
-DESCRIPTION:Accountants and finance leaders will explore automating month-e
- nd close workflows using Campfire and Ramp's AI tools through hands-on san
- dbox training\, followed by networking with the product teams and fellow f
- inance professionals pushing AI boundaries.\n\nVenue: 300 Montgomery St\n\
- nEvent page: https://luma.com/campfire-Ramp-MCP
+DESCRIPTION:Source: Cerebral Valley\n\nAccountants and finance leaders will
+  explore automating month-end close workflows using Campfire and Ramp's AI
+  tools through hands-on sandbox training\, followed by networking with the
+  product teams and fellow finance professionals pushing AI boundaries.\n\n
+ Venue: 300 Montgomery St\n\nEvent page: https://luma.com/campfire-Ramp-MCP
 URL:https://luma.com/campfire-Ramp-MCP
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:880781c1-240b-4f32-af65-43e4f1da729b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T000000Z
 DTEND:20260709T030000Z
 SUMMARY:B2B AI Founder/VC Dinner
 LOCATION:San Francisco\, CA
-DESCRIPTION:Founders and VCs at the forefront of AI innovation will converg
- e for candid conversations on what actually moves the needle in funding\, 
- plus dinner and unfiltered networking with principals from NextSummit Capi
- tal Partners\, BDev Ventures\, and other heavyweight investors actively ba
- cking the next generation of AI companies.\n\nEvent page: https://luma.com
- /46hm0m3e
+DESCRIPTION:Source: Cerebral Valley\n\nFounders and VCs at the forefront of
+  AI innovation will converge for candid conversations on what actually mov
+ es the needle in funding\, plus dinner and unfiltered networking with prin
+ cipals from NextSummit Capital Partners\, BDev Ventures\, and other heavyw
+ eight investors actively backing the next generation of AI companies.\n\nE
+ vent page: https://luma.com/46hm0m3e
 URL:https://luma.com/46hm0m3e
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:98be3b0d-b801-47c4-8e61-cde4635e1681@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T000000Z
 DTEND:20260709T020000Z
 SUMMARY:Private: Founders & Funders — Candle Atelier Night ft. Founder & 
  CEO\, BestSign
 LOCATION:To be shared on approval\, San Francisco\, CA
-DESCRIPTION:Women founders\, funders\, and allies will gather for an evenin
- g of candle-making and fireside conversation with Joy Wan\, CEO of BestSig
- n\, diving into the realities of building global SaaS companies and strate
- gies for meaningfully supporting women entrepreneurs.\n\nVenue: To be shar
- ed on approval\n\nEvent page: https://www.supermomos.com/events/private-wo
- men-founders-funders
+DESCRIPTION:Source: Cerebral Valley\n\nWomen founders\, funders\, and allie
+ s will gather for an evening of candle-making and fireside conversation wi
+ th Joy Wan\, CEO of BestSign\, diving into the realities of building globa
+ l SaaS companies and strategies for meaningfully supporting women entrepre
+ neurs.\n\nVenue: To be shared on approval\n\nEvent page: https://www.super
+ momos.com/events/private-women-founders-funders
 URL:https://www.supermomos.com/events/private-women-founders-funders
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8522e6bb-f9cb-46c5-bf71-7cf16b531007@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T000000Z
 DTEND:20260709T020000Z
 SUMMARY:AI After Hours
 LOCATION:Victory Hall & Parlor\, San Francisco\, CA
-DESCRIPTION:GTM leaders will hear from Mark Ripley\, VP of Sales at FreshWo
- rks\, on how to actually operationalize AI across prospecting\, RevOps\, a
- nd customer growth—plus get the inside scoop on what's working for top r
- evenue teams scaling AI-powered motions. Expect practical takeaways\, real
-  talk with fellow GTM operators\, and drinks to cap off the week.\n\nVenue
- : Victory Hall & Parlor\n\nEvent page: https://luma.com/2hbilzqb
+DESCRIPTION:Source: Cerebral Valley\n\nGTM leaders will hear from Mark Ripl
+ ey\, VP of Sales at FreshWorks\, on how to actually operationalize AI acro
+ ss prospecting\, RevOps\, and customer growth—plus get the inside scoop 
+ on what's working for top revenue teams scaling AI-powered motions. Expect
+  practical takeaways\, real talk with fellow GTM operators\, and drinks to
+  cap off the week.\n\nVenue: Victory Hall & Parlor\n\nEvent page: https://
+ luma.com/2hbilzqb
 URL:https://luma.com/2hbilzqb
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1b596aab-e369-4359-9eee-1ec2bf8b2806@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T000000Z
 DTEND:20260709T030000Z
 SUMMARY:The AI Stack in Practice: Live Demos from Teams Building AI in Prod
  uction
 LOCATION:Snowflake AI Innovation Lab\, San Francisco\, CA
-DESCRIPTION:Snowflake and Hetz Ventures will host an evening where founders
- \, engineers\, and data leaders will dive into live demos and technical di
- scussions on deploying AI systems at scale\, featuring insights from teams
-  at Band\, Upriver\, and Nimble on building production-ready AI infrastruc
- ture. The event will showcase Snowflake's AI roadmap alongside real-world 
- lessons from the frontlines\, wrapped up with networking over food and dri
- nks.\n\nVenue: Snowflake AI Innovation Lab\n\nEvent page: https://luma.com
- /2p7b6lbl
+DESCRIPTION:Source: Cerebral Valley\n\nSnowflake and Hetz Ventures will hos
+ t an evening where founders\, engineers\, and data leaders will dive into 
+ live demos and technical discussions on deploying AI systems at scale\, fe
+ aturing insights from teams at Band\, Upriver\, and Nimble on building pro
+ duction-ready AI infrastructure. The event will showcase Snowflake's AI ro
+ admap alongside real-world lessons from the frontlines\, wrapped up with n
+ etworking over food and drinks.\n\nVenue: Snowflake AI Innovation Lab\n\nE
+ vent page: https://luma.com/2p7b6lbl
 URL:https://luma.com/2p7b6lbl
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0cd8e99a-8b8d-46f6-b954-40133c0a3c5c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T003000Z
 DTEND:20260709T033000Z
 SUMMARY:Bay Area Frontier Research Club #13 | AGI House SF (dinner + paper 
  discussion)
 LOCATION:San Francisco\, CA
-DESCRIPTION:Experimental researchers\, computational scientists\, and resea
- rch engineers will gather to rigorously dissect how AI is transforming the
-  scientific research process through curated paper presentations and subst
- antive critique on everything from hypothesis generation to reproducibilit
- y. Hosted by Frontier Syndicate\, Hexo Labs\, and Ascension\, the evening 
- will feature minimal presentations and maximum discussion time—perfect f
- or anyone who's ever felt research could move faster.\n\nEvent page: https
- ://luma.com/frontierresearch13
+DESCRIPTION:Source: Cerebral Valley\n\nExperimental researchers\, computati
+ onal scientists\, and research engineers will gather to rigorously dissect
+  how AI is transforming the scientific research process through curated pa
+ per presentations and substantive critique on everything from hypothesis g
+ eneration to reproducibility. Hosted by Frontier Syndicate\, Hexo Labs\, a
+ nd Ascension\, the evening will feature minimal presentations and maximum 
+ discussion time—perfect for anyone who's ever felt research could move f
+ aster.\n\nEvent page: https://luma.com/frontierresearch13
 URL:https://luma.com/frontierresearch13
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:489b5168-3875-4d6e-bb87-ac9e6ace562c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T003000Z
 DTEND:20260709T033000Z
 SUMMARY:“AI Infra and Robotics” VC Insights• Founder Pitches
 LOCATION:Palo Alto\, CA
-DESCRIPTION:Three seasoned venture investors—including a GP at Solaris Ve
- nture Partners who bridges U.S.-Asia innovation and a Venture Partner at H
- PE with exits under his belt—will share fundraising insights and judge p
- itched startups at this science-and-venture showcase featuring curated tec
- h founders\, live feedback\, and networking with ecosystem leaders.\n\nEve
- nt page: https://luma.com/ifupn00h
+DESCRIPTION:Source: Cerebral Valley\n\nThree seasoned venture investors—i
+ ncluding a GP at Solaris Venture Partners who bridges U.S.-Asia innovation
+  and a Venture Partner at HPE with exits under his belt—will share fundr
+ aising insights and judge pitched startups at this science-and-venture sho
+ wcase featuring curated tech founders\, live feedback\, and networking wit
+ h ecosystem leaders.\n\nEvent page: https://luma.com/ifupn00h
 URL:https://luma.com/ifupn00h
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5a8af5b8-b0cc-4b04-acdf-c224427bd1be@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T010000Z
 DTEND:20260709T040000Z
 SUMMARY:EdgeM8: B2B Partnership Mixer
 LOCATION:The Modernist\, San Francisco\, CA
-DESCRIPTION:Founders and revenue leaders will connect over market strategy 
- and growth opportunities\, with conversations spanning distribution partne
- rships\, sales acceleration\, and tech stack solutions—all fueled by coc
- ktails and Uyghur meatpies.\n\nVenue: The Modernist\n\nEvent page: https:/
- /luma.com/edgem8
+DESCRIPTION:Source: Cerebral Valley\n\nFounders and revenue leaders will co
+ nnect over market strategy and growth opportunities\, with conversations s
+ panning distribution partnerships\, sales acceleration\, and tech stack so
+ lutions—all fueled by cocktails and Uyghur meatpies.\n\nVenue: The Moder
+ nist\n\nEvent page: https://luma.com/edgem8
 URL:https://luma.com/edgem8
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b317c635-d503-4ed8-b065-5cdc7994b8d9@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T010000Z
 DTEND:20260709T033000Z
 SUMMARY:O1 Strategy and Fireside
 LOCATION:AngelList\, San Francisco\, CA
-DESCRIPTION:Founders\, engineers\, researchers\, and community leaders will
-  dig into O-1 visa strategies with speaker Karishma Mandal\, covering how 
- to build a compelling application and position your work for long-term imp
- act. You'll network with others navigating the same path and get practical
-  advice on strengthening your profile for the visa process.\n\nVenue: Ange
- lList\n\nEvent page: https://luma.com/bzfdiv3p
+DESCRIPTION:Source: Cerebral Valley\n\nFounders\, engineers\, researchers\,
+  and community leaders will dig into O-1 visa strategies with speaker Kari
+ shma Mandal\, covering how to build a compelling application and position 
+ your work for long-term impact. You'll network with others navigating the 
+ same path and get practical advice on strengthening your profile for the v
+ isa process.\n\nVenue: AngelList\n\nEvent page: https://luma.com/bzfdiv3p
 URL:https://luma.com/bzfdiv3p
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ef5304d5-d7d4-4ab6-b5a4-39f232d13079@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T010000Z
 DTEND:20260709T040000Z
 SUMMARY:AI Tinkerers: July GTM Engineering Track w/ Attio
 LOCATION:San Francisco\, CA
-DESCRIPTION:AI Tinkerers is bringing together builders\, platform engineers
- \, and technical founders to dig into GTM engineering—where growth mecha
- nics meet application architecture—with live code demos showcasing real 
- implementations of validation pipelines\, programmatic distribution\, and 
- automated testing. Expect raw\, working systems that solve the bottlenecks
-  between shipping fast and deploying safely\, with no slides allowed.\n\nE
- vent page: https://sf.aitinkerers.org/p/ai-tinkerers-san-francisco-july-gt
- m-engineering-track-w-attio
+DESCRIPTION:Source: Cerebral Valley\n\nAI Tinkerers is bringing together bu
+ ilders\, platform engineers\, and technical founders to dig into GTM engin
+ eering—where growth mechanics meet application architecture—with live 
+ code demos showcasing real implementations of validation pipelines\, progr
+ ammatic distribution\, and automated testing. Expect raw\, working systems
+  that solve the bottlenecks between shipping fast and deploying safely\, w
+ ith no slides allowed.\n\nEvent page: https://sf.aitinkerers.org/p/ai-tink
+ erers-san-francisco-july-gtm-engineering-track-w-attio
 URL:https://sf.aitinkerers.org/p/ai-tinkerers-san-francisco-july-gtm-engine
  ering-track-w-attio
 STATUS:CONFIRMED
@@ -460,66 +465,67 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e552060a-5f62-4e22-899b-d3d07a1197c2@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T010000Z
 DTEND:20260709T043000Z
 SUMMARY:The Epic of… Will O'Brien (Ulysses)
 LOCATION:San Francisco\, CA
-DESCRIPTION:Will O'Brien of Ulysses—a team building autonomous ocean robo
- ts to restore seagrass meadows and revolutionize maritime labor—will tak
- e the stage for a live stress-test where he'll defend his sci-fi-grade vis
- ion against a skeptical crowd that literally votes on whether he wins them
-  over. This isn't a pitch\; it's 45 minutes of honest reckoning about what
-  could actually kill the company\, followed by audience interrogation.\n\n
- Event page: https://luma.com/sv79uxnf
+DESCRIPTION:Source: Cerebral Valley\n\nWill O'Brien of Ulysses—a team bui
+ lding autonomous ocean robots to restore seagrass meadows and revolutioniz
+ e maritime labor—will take the stage for a live stress-test where he'll 
+ defend his sci-fi-grade vision against a skeptical crowd that literally vo
+ tes on whether he wins them over. This isn't a pitch\; it's 45 minutes of 
+ honest reckoning about what could actually kill the company\, followed by 
+ audience interrogation.\n\nEvent page: https://luma.com/sv79uxnf
 URL:https://luma.com/sv79uxnf
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:50155f3d-2370-49f2-96b5-004db5575a25@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
-DTSTART:20260709T010000Z
-DTEND:20260709T033000Z
-SUMMARY:Wiki3: Own Your Own AI Workshop
-LOCATION:Hacker Dojo\, San Francisco\, CA
-DESCRIPTION:Wiki3 AI Owners Group's inaugural meetup will bring together AI
-  enthusiasts and builders for a hands-on workshop experience available bot
- h in-person and online.\n\nVenue: Hacker Dojo\n\nEvent page: https://www.m
- eetup.com/hackerdojo/events/315093792
-URL:https://www.meetup.com/hackerdojo/events/315093792
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:3d3d983e-f99e-43ea-9f46-46c6219612c9@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T010000Z
 DTEND:20260709T040000Z
 SUMMARY:CypherPunk: Privacy and AI Builders' Night
 LOCATION:San Francisco\, CA
-DESCRIPTION:An evening exploring how cypherpunk principles translate into r
- eal products through demos and hands-on building\, with conversations span
- ning AI agents\, privacy tech\, payments\, and open finance—plus an opti
- onal Cyberdecks 101 workshop for those wanting to dive deeper into hardwar
- e.\n\nEvent page: https://luma.com/6pb4kakb
+DESCRIPTION:Source: Cerebral Valley\n\nAn evening exploring how cypherpunk 
+ principles translate into real products through demos and hands-on buildin
+ g\, with conversations spanning AI agents\, privacy tech\, payments\, and 
+ open finance—plus an optional Cyberdecks 101 workshop for those wanting 
+ to dive deeper into hardware.\n\nEvent page: https://luma.com/6pb4kakb
 URL:https://luma.com/6pb4kakb
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:50155f3d-2370-49f2-96b5-004db5575a25@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260709T010000Z
+DTEND:20260709T033000Z
+SUMMARY:Wiki3: Own Your Own AI Workshop
+LOCATION:Hacker Dojo\, San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nWiki3 AI Owners Group's inaugural me
+ etup will bring together AI enthusiasts and builders for a hands-on worksh
+ op experience available both in-person and online.\n\nVenue: Hacker Dojo\n
+ \nEvent page: https://www.meetup.com/hackerdojo/events/315093792
+URL:https://www.meetup.com/hackerdojo/events/315093792
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:a7844773-6e97-490e-bbe9-be7b922dd0ad@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T020000Z
 DTEND:20260709T050000Z
 SUMMARY:AI & Tech Networking Event by Ascent Valley
 LOCATION:Bar and Beans Fusion\, San Francisco\, CA
-DESCRIPTION:Ambitious founders\, active investors\, and AI experts will gat
- her to pitch ideas\, exchange feedback\, and forge partnerships in a curat
- ed startup ecosystem—with selected founders getting stage time in front 
- of venture capitalists and the winning pitch featured across a global netw
- ork.\n\nVenue: Bar and Beans Fusion\n\nEvent page: https://www.meetup.com/
- startup-networking-founder-ecosystem-san-francisco/events/315227658
+DESCRIPTION:Source: Cerebral Valley\n\nAmbitious founders\, active investor
+ s\, and AI experts will gather to pitch ideas\, exchange feedback\, and fo
+ rge partnerships in a curated startup ecosystem—with selected founders g
+ etting stage time in front of venture capitalists and the winning pitch fe
+ atured across a global network.\n\nVenue: Bar and Beans Fusion\n\nEvent pa
+ ge: https://www.meetup.com/startup-networking-founder-ecosystem-san-franci
+ sco/events/315227658
 URL:https://www.meetup.com/startup-networking-founder-ecosystem-san-francis
  co/events/315227658
 STATUS:CONFIRMED
@@ -527,383 +533,392 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5a4b4e5b-51d3-4cfe-adf1-1c63b1f23f44@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T020000Z
 DTEND:20260709T050000Z
 SUMMARY:Startup Pitch & Themed Networking San Francisco | Unlock Your Idea
 LOCATION:ZOË\, San Francisco\, CA
-DESCRIPTION:Real founders and operators will break bread at themed tables w
- hile five live pitches take center stage\, making this the kind of three-h
- our session where you'll actually test your ideas against people who've bu
- ilt something.\n\nVenue: ZOË\n\nEvent page: https://www.eventbrite.com/e/
- tickets-1991470753633
+DESCRIPTION:Source: Cerebral Valley\n\nReal founders and operators will bre
+ ak bread at themed tables while five live pitches take center stage\, maki
+ ng this the kind of three-hour session where you'll actually test your ide
+ as against people who've built something.\n\nVenue: ZOË\n\nEvent page: ht
+ tps://www.eventbrite.com/e/tickets-1991470753633
 URL:https://www.eventbrite.com/e/tickets-1991470753633
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f3334d80-9d8c-43df-895d-69ca04a21740@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T140000Z
 DTEND:20260709T150000Z
 SUMMARY:Alameda SaaS AI Group
 LOCATION:Julies Coffee and Tea Garden\, Oakland\, CA
-DESCRIPTION:Tech enthusiasts and SaaS professionals will explore the latest
-  AI tools and innovations shaping the SaaS landscape through informal idea
- -sharing and presentations. The group will dive into real-world applicatio
- ns and emerging trends in the space.\n\nVenue: Julies Coffee and Tea Garde
- n\n\nEvent page: https://www.meetup.com/meetup-group-pudwprfc/events/31539
- 1286
+DESCRIPTION:Source: Cerebral Valley\n\nTech enthusiasts and SaaS profession
+ als will explore the latest AI tools and innovations shaping the SaaS land
+ scape through informal idea-sharing and presentations. The group will dive
+  into real-world applications and emerging trends in the space.\n\nVenue: 
+ Julies Coffee and Tea Garden\n\nEvent page: https://www.meetup.com/meetup-
+ group-pudwprfc/events/315391286
 URL:https://www.meetup.com/meetup-group-pudwprfc/events/315391286
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6de96e89-44a1-43f6-b2e9-ec750b86fe37@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T150000Z
 DTEND:20260709T163000Z
 SUMMARY:Agent Builders Breakfast - Founders & Builders
 LOCATION:San Francisco\, CA
-DESCRIPTION:Early morning gathering where founders\, PMs\, and engineering 
- leaders building AI agents will swap war stories\, demo what they're worki
- ng on\, and grab breakfast tacos while figuring out this whole agent-build
- ing thing together. Hosted by Michael Ducker\, a seasoned PM who's shipped
-  products at Mercury\, Chime\, and Twitter.\n\nEvent page: https://luma.co
- m/ukwk6x3n
+DESCRIPTION:Source: Cerebral Valley\n\nEarly morning gathering where founde
+ rs\, PMs\, and engineering leaders building AI agents will swap war storie
+ s\, demo what they're working on\, and grab breakfast tacos while figuring
+  out this whole agent-building thing together. Hosted by Michael Ducker\, 
+ a seasoned PM who's shipped products at Mercury\, Chime\, and Twitter.\n\n
+ Event page: https://luma.com/ukwk6x3n
 URL:https://luma.com/ukwk6x3n
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:551fc939-61d0-450a-86bf-417a2c897216@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260709T230000Z
 DTEND:20260710T020000Z
 SUMMARY:Scrappy AI Founders Play Pickleball (seed to series A)
 LOCATION:San Francisco\, CA
-DESCRIPTION:A curated pickleball series where Bay Area founders and investo
- rs will compete in private matches with professional coaches\, followed by
-  dinner—bringing together early-stage founders who've hit seed stage or 
- crossed $1M ARR.\n\nEvent page: https://luma.com/kojkxoae
+DESCRIPTION:Source: Cerebral Valley\n\nA curated pickleball series where Ba
+ y Area founders and investors will compete in private matches with profess
+ ional coaches\, followed by dinner—bringing together early-stage founder
+ s who've hit seed stage or crossed $1M ARR.\n\nEvent page: https://luma.co
+ m/kojkxoae
 URL:https://luma.com/kojkxoae
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4249c7f5-0c43-47e4-967e-a4fdfa5ef1b1@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T000000Z
 DTEND:20260710T023000Z
 SUMMARY:The Engineering Roles That Will Matter In The AI Era
 LOCATION:San Francisco\, CA
-DESCRIPTION:Three CTOs will dig into how AI is reshaping engineering teams 
- in real time—discussing which roles are evolving\, which are disappearin
- g\, and what skills actually matter when coding agents and autonomous test
- ing enter the picture. This is a working conversation for engineers\, foun
- ders\, and leaders trying to figure out where their career or team needs t
- o bet.\n\nEvent page: https://luma.com/vadtl2sj
+DESCRIPTION:Source: Cerebral Valley\n\nThree CTOs will dig into how AI is r
+ eshaping engineering teams in real time—discussing which roles are evolv
+ ing\, which are disappearing\, and what skills actually matter when coding
+  agents and autonomous testing enter the picture. This is a working conver
+ sation for engineers\, founders\, and leaders trying to figure out where t
+ heir career or team needs to bet.\n\nEvent page: https://luma.com/vadtl2sj
 URL:https://luma.com/vadtl2sj
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3a2e1de6-236e-4a35-a891-1ede68002f85@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T000000Z
 DTEND:20260710T020000Z
 SUMMARY:AI Founders & Global Scale: Why AI Companies Get Stuck When Expandi
  ng
 LOCATION:Mountain View\, CA
-DESCRIPTION:AI founders will dive into the real challenges of scaling globa
- lly—from GTM strategies and user acquisition to payments infrastructure
- —with practical lessons from Kevin Zhang (Global GTM Director at Antom) 
- and a roundtable of experienced operators tackling the messy parts that de
- cks usually skip. Expect candid founder-to-founder conversations\, open mi
- c slots to pitch your work\, and high-quality networking with fellow build
- ers and growth leaders navigating international expansion.\n\nEvent page: 
- https://luma.com/seamate-ue7z
+DESCRIPTION:Source: Cerebral Valley\n\nAI founders will dive into the real 
+ challenges of scaling globally—from GTM strategies and user acquisition 
+ to payments infrastructure—with practical lessons from Kevin Zhang (Glob
+ al GTM Director at Antom) and a roundtable of experienced operators tackli
+ ng the messy parts that decks usually skip. Expect candid founder-to-found
+ er conversations\, open mic slots to pitch your work\, and high-quality ne
+ tworking with fellow builders and growth leaders navigating international 
+ expansion.\n\nEvent page: https://luma.com/seamate-ue7z
 URL:https://luma.com/seamate-ue7z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4bbaa374-bd05-46e5-99c7-cde9052497e6@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T003000Z
 DTEND:20260710T040000Z
 SUMMARY:CISO Roundtable Dinner
 LOCATION:Los Altos Hills\, Palo Alto\, CA
-DESCRIPTION:Senior security leaders will gather for an intimate dinner wher
- e Caroline Wong—author of the Cybersecurity Canon Hall of Fame-inducted 
- "Security Metrics" and former CISO at eBay\, Symantec\, and Cobalt—kicks
-  off a candid roundtable conversation about AI risk\, agent governance\, a
- nd the evolving pressures of modern security leadership. It's a small-room
-  peer discussion with no vendor pitches\, just CISOs and their counterpart
- s wrestling with what's actually keeping them up at night.\n\nVenue: Los A
- ltos Hills\n\nEvent page: https://luma.com/kqlwe611
+DESCRIPTION:Source: Cerebral Valley\n\nSenior security leaders will gather 
+ for an intimate dinner where Caroline Wong—author of the Cybersecurity C
+ anon Hall of Fame-inducted "Security Metrics" and former CISO at eBay\, Sy
+ mantec\, and Cobalt—kicks off a candid roundtable conversation about AI 
+ risk\, agent governance\, and the evolving pressures of modern security le
+ adership. It's a small-room peer discussion with no vendor pitches\, just 
+ CISOs and their counterparts wrestling with what's actually keeping them u
+ p at night.\n\nVenue: Los Altos Hills\n\nEvent page: https://luma.com/kqlw
+ e611
 URL:https://luma.com/kqlwe611
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f36437f9-7669-47f3-b959-fa89722ebe94@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T003000Z
 DTEND:20260710T033000Z
 SUMMARY:Can Agents Actually Self-Improve?
 LOCATION:San Francisco\, CA
-DESCRIPTION:You'll build a real self-improving agent loop from scratch—si
- mulating edge cases\, scoring against evals\, and gating releases so each 
- version ships only if it actually performs better—led by Nikhil from Fut
- ure AGI\, who spends his days solving exactly this problem in production. 
- Walk out with a working system built on open-source tools that runs on you
- r laptop.\n\nEvent page: https://luma.com/future-agi
+DESCRIPTION:Source: Cerebral Valley\n\nYou'll build a real self-improving a
+ gent loop from scratch—simulating edge cases\, scoring against evals\, a
+ nd gating releases so each version ships only if it actually performs bett
+ er—led by Nikhil from Future AGI\, who spends his days solving exactly t
+ his problem in production. Walk out with a working system built on open-so
+ urce tools that runs on your laptop.\n\nEvent page: https://luma.com/futur
+ e-agi
 URL:https://luma.com/future-agi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:551a375b-f0c8-4651-82a4-bc11c901ba9f@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T003000Z
 DTEND:20260710T010000Z
 SUMMARY:Enterprise Agentic AI at the Edge
 LOCATION:AICamp\, San Francisco\, CA
-DESCRIPTION:I'd be happy to help summarize an event\, but it looks like the
-  event description got cut off mid-sentence ("Join the Ca..."). Could you 
- please provide the complete event description so I can create an accurate 
- summary for you?\n\nVenue: AICamp\n\nEvent page: https://www.meetup.com/sa
- n-francisco-ai-llms/events/315458679
+DESCRIPTION:Source: Cerebral Valley\n\nI'd be happy to help summarize an ev
+ ent\, but it looks like the event description got cut off mid-sentence ("J
+ oin the Ca..."). Could you please provide the complete event description s
+ o I can create an accurate summary for you?\n\nVenue: AICamp\n\nEvent page
+ : https://www.meetup.com/san-francisco-ai-llms/events/315458679
 URL:https://www.meetup.com/san-francisco-ai-llms/events/315458679
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bd43fb07-c553-458e-a0ac-e9ccddac4065@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T003000Z
 DTEND:20260710T033000Z
 SUMMARY:On-Device Night | Founders Building Local Agents
 LOCATION:San Francisco\, CA
-DESCRIPTION:Founders will showcase live demos of on-device and edge AI mode
- ls running on real hardware while getting feedback from judges spanning si
- licon\, OEMs\, and frontier labs—bringing together 100 builders\, invest
- ors\, and partners who are either already shipping AI at the edge or figur
- ing out if they should be.\n\nEvent page: https://luma.com/mjbsf60u
+DESCRIPTION:Source: Cerebral Valley\n\nFounders will showcase live demos of
+  on-device and edge AI models running on real hardware while getting feedb
+ ack from judges spanning silicon\, OEMs\, and frontier labs—bringing tog
+ ether 100 builders\, investors\, and partners who are either already shipp
+ ing AI at the edge or figuring out if they should be.\n\nEvent page: https
+ ://luma.com/mjbsf60u
 URL:https://luma.com/mjbsf60u
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:34e77798-1e42-4074-bd2a-a6aa03641265@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T010000Z
 DTEND:20260710T030000Z
 SUMMARY:Private AI Founders Dinner feat. Partner at Left Lane Capital ($3.5
  B+ AUM)
 LOCATION:Upscale Private Dining Room\, San Francisco\, CA
-DESCRIPTION:AI founders will gather for an intimate dinner featuring a Left
-  Lane Capital investor sharing perspectives on navigating fundraising and 
- scaling in the AI space.\n\nVenue: Upscale Private Dining Room\n\nEvent pa
- ge: https://www.supermomos.com/events/sf-private-founders-funders
+DESCRIPTION:Source: Cerebral Valley\n\nAI founders will gather for an intim
+ ate dinner featuring a Left Lane Capital investor sharing perspectives on 
+ navigating fundraising and scaling in the AI space.\n\nVenue: Upscale Priv
+ ate Dining Room\n\nEvent page: https://www.supermomos.com/events/sf-privat
+ e-founders-funders
 URL:https://www.supermomos.com/events/sf-private-founders-funders
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4645178b-8a87-4b28-be32-b0939dd18655@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260710T020000Z
 DTEND:20260710T033000Z
 SUMMARY:Sloptimist Etymologies with Adam Aleksic and Daniel Keller
 LOCATION:tiat\, San Francisco\, CA
-DESCRIPTION:Two internet culture experts—linguist and NYT bestselling aut
- hor Adam Aleksic and internet theorist Daniel Keller—will dig into how A
- I-generated content and algorithmic culture are rewiring language\, meanin
- g\, and taste in real time. This conversation explores the messy intersect
- ion of technology and culture alongside an exhibition examining meaning-ma
- king in the age of generative media.\n\nVenue: tiat\n\nEvent page: https:/
- /luma.com/sloptimism
+DESCRIPTION:Source: Cerebral Valley\n\nTwo internet culture experts—lingu
+ ist and NYT bestselling author Adam Aleksic and internet theorist Daniel K
+ eller—will dig into how AI-generated content and algorithmic culture are
+  rewiring language\, meaning\, and taste in real time. This conversation e
+ xplores the messy intersection of technology and culture alongside an exhi
+ bition examining meaning-making in the age of generative media.\n\nVenue: 
+ tiat\n\nEvent page: https://luma.com/sloptimism
 URL:https://luma.com/sloptimism
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e0165372-4351-45fe-8aee-972c7b4aeb42@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260711T010000Z
 DTEND:20260712T020000Z
 SUMMARY:AI for Social Good: Hack with MLH & DigitalOcean
 LOCATION:San Francisco\, CA
-DESCRIPTION:MLH and DigitalOcean will be bringing together developers and A
- I enthusiasts for an intensive hackathon where you'll build real projects 
- using cutting-edge AI tools while learning from industry experts and mento
- rs. Whether you're a seasoned pro or just starting out\, you'll have the c
- hance to network with builders at all levels\, grab free meals\, and compe
- te for some solid prizes.\n\nEvent page: https://luma.com/MLHandDO
+DESCRIPTION:Source: Cerebral Valley\n\nMLH and DigitalOcean will be bringin
+ g together developers and AI enthusiasts for an intensive hackathon where 
+ you'll build real projects using cutting-edge AI tools while learning from
+  industry experts and mentors. Whether you're a seasoned pro or just start
+ ing out\, you'll have the chance to network with builders at all levels\, 
+ grab free meals\, and compete for some solid prizes.\n\nEvent page: https:
+ //luma.com/MLHandDO
 URL:https://luma.com/MLHandDO
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5c0e5bc9-8811-405a-826d-9be35497c01d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260711T160000Z
 DTEND:20260713T020000Z
 SUMMARY:Rewiring Biology Hackathon by Owkin
 LOCATION:San Francisco\, CA
-DESCRIPTION:ML engineers\, AI scientists\, and computational biologists wil
- l spend two days building cutting-edge tools that supercharge biomedical d
- iscovery\, creating MCP agents and workflows that extend AI capabilities f
- or biological reasoning and hypothesis generation. Owkin's infrastructure 
- and their AI Scientist K Pro provide a rare playground for exploring how A
- I genuinely accelerates research.\n\nEvent page: https://luma.com/4s2r63rg
+DESCRIPTION:Source: Cerebral Valley\n\nML engineers\, AI scientists\, and c
+ omputational biologists will spend two days building cutting-edge tools th
+ at supercharge biomedical discovery\, creating MCP agents and workflows th
+ at extend AI capabilities for biological reasoning and hypothesis generati
+ on. Owkin's infrastructure and their AI Scientist K Pro provide a rare pla
+ yground for exploring how AI genuinely accelerates research.\n\nEvent page
+ : https://luma.com/4s2r63rg
 URL:https://luma.com/4s2r63rg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:600d48bf-8636-4b50-9974-8c468c6dc03c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260711T170000Z
 DTEND:20260712T010000Z
 SUMMARY:World's Largest Hermes Buildathon
 LOCATION:San Francisco\, CA
-DESCRIPTION:Builders across AI engineers\, founders\, and growth operators 
- will race to build\, launch\, and monetize AI agents in 8 hours\, powered 
- by OpenAI's GPT-5.5 credits\, Convex's real-time backend\, ElevenLabs' voi
- ce capabilities\, and hosting from Cloudflare—all hosted by GrowthX's 20
- 0K-member AI community with mentorship from Okta's infrastructure lead and
-  Tandem AI's go-to-market strategist.\n\nEvent page: https://luma.com/herm
- esbuildathonSF
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders across AI engineers\, found
+ ers\, and growth operators will race to build\, launch\, and monetize AI a
+ gents in 8 hours\, powered by OpenAI's GPT-5.5 credits\, Convex's real-tim
+ e backend\, ElevenLabs' voice capabilities\, and hosting from Cloudflare
+ —all hosted by GrowthX's 200K-member AI community with mentorship from O
+ kta's infrastructure lead and Tandem AI's go-to-market strategist.\n\nEven
+ t page: https://luma.com/hermesbuildathonSF
 URL:https://luma.com/hermesbuildathonSF
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:45270337-17fc-4ce9-bdb9-34fb78a8c6c9@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260711T170000Z
 DTEND:20260712T170000Z
 SUMMARY:The Fermi Qualifier (A) - 24hr Hack: $25K Cash + Nvidia Supercomput
  er
 LOCATION:San Francisco\, CA
-DESCRIPTION:A high-stakes 24-hour qualifier hackathon focused on long-horiz
- on agent reliability and judgment will bring together skilled AI developer
- s competing for a $25\,000 prize and an NVIDIA DGX Spark AI Supercomputer\
- , with winners advancing to the prestigious Fermi Challenge Series offerin
- g a grand prize of $125\,000 plus exclusive cohort access.\n\nEvent page: 
- https://luma.com/k0xj2804
+DESCRIPTION:Source: Cerebral Valley\n\nA high-stakes 24-hour qualifier hack
+ athon focused on long-horizon agent reliability and judgment will bring to
+ gether skilled AI developers competing for a $25\,000 prize and an NVIDIA 
+ DGX Spark AI Supercomputer\, with winners advancing to the prestigious Fer
+ mi Challenge Series offering a grand prize of $125\,000 plus exclusive coh
+ ort access.\n\nEvent page: https://luma.com/k0xj2804
 URL:https://luma.com/k0xj2804
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d0f0531b-ef16-4244-b34a-9d0dc38632c2@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260712T150000Z
 DTEND:20260713T010000Z
 SUMMARY:Humanity & AGI Summit 2026：Robotics for Future Civilization
 LOCATION:The Stanford Faculty Club\, Stanford\, CA
-DESCRIPTION:Industry leaders and frontier tech innovators will converge to 
- dissect the cutting-edge developments in embodied AI and robotics\, explor
- ing where the field is headed over the next several years. Whether you're 
- an engineer\, researcher\, or investor\, you'll get an early look at break
- through capabilities and emerging opportunities reshaping the robotics eco
- system.\n\nVenue: The Stanford Faculty Club\n\nEvent page: https://luma.co
- m/wkolq6uc
+DESCRIPTION:Source: Cerebral Valley\n\nIndustry leaders and frontier tech i
+ nnovators will converge to dissect the cutting-edge developments in embodi
+ ed AI and robotics\, exploring where the field is headed over the next sev
+ eral years. Whether you're an engineer\, researcher\, or investor\, you'll
+  get an early look at breakthrough capabilities and emerging opportunities
+  reshaping the robotics ecosystem.\n\nVenue: The Stanford Faculty Club\n\n
+ Event page: https://luma.com/wkolq6uc
 URL:https://luma.com/wkolq6uc
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f4a449e5-a058-4ce6-a208-af67598f1fa9@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260713T163000Z
 DTEND:20260714T030000Z
 SUMMARY:Bay Builders Hackathon
 LOCATION:AWS Builder Loft\, San Francisco\, CA
-DESCRIPTION:Builders will conceptualize and launch AI-powered startups acro
- ss six tracks—from B2B SaaS tools and consumer apps to autonomous agents
-  and industry-specific solutions—with over $100K in sponsor credits and 
- cash prizes up for grabs. Teams will transform raw ideas into polished sta
- rtup demos powered by AI\, competing for recognition and rewards across ca
- tegories like best use of InsForge\, Band\, and You.com's Web Search API.\
- n\nVenue: AWS Builder Loft\n\nEvent page: https://luma.com/9zhqvqc7
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders will conceptualize and laun
+ ch AI-powered startups across six tracks—from B2B SaaS tools and consume
+ r apps to autonomous agents and industry-specific solutions—with over $1
+ 00K in sponsor credits and cash prizes up for grabs. Teams will transform 
+ raw ideas into polished startup demos powered by AI\, competing for recogn
+ ition and rewards across categories like best use of InsForge\, Band\, and
+  You.com's Web Search API.\n\nVenue: AWS Builder Loft\n\nEvent page: https
+ ://luma.com/9zhqvqc7
 URL:https://luma.com/9zhqvqc7
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bf5d5b88-8a1c-437b-bc32-f5dbe78655bb@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260713T170000Z
 DTEND:20260718T040000Z
 SUMMARY:Sports World Cup Hackathon
 LOCATION:San Francisco\, CA
-DESCRIPTION:Developers\, designers\, and sports enthusiasts will build AI-p
- owered sports solutions across five tracks—from athlete performance to f
- an engagement—during this 5-day online hackathon with top teams presenti
- ng live in San Francisco for cash prizes and sponsor awards. Backed by AIH
- ouse and HiDevs\, the event brings together founders and engineers to ship
-  production-grade projects using cutting-edge AI tools and infrastructure.
- \n\nEvent page: https://luma.com/ai-pq8b
+DESCRIPTION:Source: Cerebral Valley\n\nDevelopers\, designers\, and sports 
+ enthusiasts will build AI-powered sports solutions across five tracks—fr
+ om athlete performance to fan engagement—during this 5-day online hackat
+ hon with top teams presenting live in San Francisco for cash prizes and sp
+ onsor awards. Backed by AIHouse and HiDevs\, the event brings together fou
+ nders and engineers to ship production-grade projects using cutting-edge A
+ I tools and infrastructure.\n\nEvent page: https://luma.com/ai-pq8b
 URL:https://luma.com/ai-pq8b
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:168ec191-ca04-4c2c-bf75-9d5a1f2e647c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T010000Z
 DTEND:20260714T040000Z
 SUMMARY:Holo AI Night w/ NVIDIA & Black Forest Labs
 LOCATION:Ayoub & Kubein Building\, San Francisco\, CA
-DESCRIPTION:Engineers and founders building AI will hear from builders at N
- VIDIA\, Black Forest Labs\, and H Company on what's actually shipping\, th
- en spend the evening networking with other builders who just wrapped a hac
- kathon. It's a technical meetup designed to keep conversations real and th
- e crowd small enough to actually connect.\n\nVenue: Ayoub & Kubein Buildin
- g\n\nEvent page: https://luma.com/o5xmousw
+DESCRIPTION:Source: Cerebral Valley\n\nEngineers and founders building AI w
+ ill hear from builders at NVIDIA\, Black Forest Labs\, and H Company on wh
+ at's actually shipping\, then spend the evening networking with other buil
+ ders who just wrapped a hackathon. It's a technical meetup designed to kee
+ p conversations real and the crowd small enough to actually connect.\n\nVe
+ nue: Ayoub & Kubein Building\n\nEvent page: https://luma.com/o5xmousw
 URL:https://luma.com/o5xmousw
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:596214f2-0f6b-4a36-b142-aac9972295a7@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T013000Z
 DTEND:20260714T040000Z
 SUMMARY:Builders Night
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:Builders Night brings people together weekly to work on their p
- rojects side-by-side\, whether that's software\, hardware\, creative work\
- , or anything else—offering the accountability and momentum that's hard 
- to generate alone. You'll spend focused time building in a warm\, quiet sp
- ace with moments to share what you've made\, learn from others\, and get u
- nstuck together.\n\nVenue: 550 Laguna St\n\nEvent page: https://luma.com/1
- yj74hbe
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders Night brings people togethe
+ r weekly to work on their projects side-by-side\, whether that's software\
+ , hardware\, creative work\, or anything else—offering the accountabilit
+ y and momentum that's hard to generate alone. You'll spend focused time bu
+ ilding in a warm\, quiet space with moments to share what you've made\, le
+ arn from others\, and get unstuck together.\n\nVenue: 550 Laguna St\n\nEve
+ nt page: https://luma.com/1yj74hbe
 URL:https://luma.com/1yj74hbe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:316ae2ac-d1e4-4f5a-8613-1f0aab1e2952@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T020000Z
 DTEND:20260714T050000Z
 SUMMARY:BioTech and Pharma Startups\, Investors & Professionals Networking 
  Event
 LOCATION:Noc Noc\, San Francisco\, CA
-DESCRIPTION:Biotech and pharma founders\, investors\, and industry experts 
- will converge to pitch innovations\, explore funding opportunities\, and f
- orge strategic partnerships across drug development\, AI-driven healthcare
- \, and regulatory guidance. Expect rapid-fire elevator pitches\, direct ac
- cess to venture capitalists\, and connections with researchers and commerc
- ialization specialists poised to accelerate breakthrough pharmaceutical so
- lutions.\n\nVenue: Noc Noc\n\nEvent page: https://www.meetup.com/sanfranci
- sco-startup-pitch-and-networking/events/315167343
+DESCRIPTION:Source: Cerebral Valley\n\nBiotech and pharma founders\, invest
+ ors\, and industry experts will converge to pitch innovations\, explore fu
+ nding opportunities\, and forge strategic partnerships across drug develop
+ ment\, AI-driven healthcare\, and regulatory guidance. Expect rapid-fire e
+ levator pitches\, direct access to venture capitalists\, and connections w
+ ith researchers and commercialization specialists poised to accelerate bre
+ akthrough pharmaceutical solutions.\n\nVenue: Noc Noc\n\nEvent page: https
+ ://www.meetup.com/sanfrancisco-startup-pitch-and-networking/events/3151673
+ 43
 URL:https://www.meetup.com/sanfrancisco-startup-pitch-and-networking/events
  /315167343
 STATUS:CONFIRMED
@@ -911,86 +926,88 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d82107db-7f33-4853-bba2-65a11faa724b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T150000Z
 DTEND:20260716T000000Z
 SUMMARY:VB Transform 2026
 LOCATION:Hotel Nia\, Menlo Park\, CA
-DESCRIPTION:Enterprise AI leaders from companies like Walmart\, Visa\, and 
- Waymo will gather for two days of direct access to real deployment strateg
- ies\, multi-agent systems architecture\, and hands-on insights from the pe
- ople actually shipping AI at scale—no vendor pitches\, just peers solvin
- g the hardest problems together.\n\nVenue: Hotel Nia\n\nEvent page: https:
- //luma.com/92nbdnnx
+DESCRIPTION:Source: Cerebral Valley\n\nEnterprise AI leaders from companies
+  like Walmart\, Visa\, and Waymo will gather for two days of direct access
+  to real deployment strategies\, multi-agent systems architecture\, and ha
+ nds-on insights from the people actually shipping AI at scale—no vendor 
+ pitches\, just peers solving the hardest problems together.\n\nVenue: Hote
+ l Nia\n\nEvent page: https://luma.com/92nbdnnx
 URL:https://luma.com/92nbdnnx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2957a2dc-3289-4d87-ad47-52a6412b8730@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T160000Z
 DTEND:20260716T010000Z
 SUMMARY:VB Transform 2026: Orchestrating AI Autonomy
 LOCATION:Hotel Nia\, Menlo Park\, CA
-DESCRIPTION:Tech leaders and decision-makers will dive into orchestrating A
- I autonomy through research insights and hands-on roundtables covering age
- ntic AI\, LLM observability\, and infrastructure strategies.\n\nVenue: Hot
- el Nia\n\nEvent page: https://venturebeat.com/vbtransform2026
+DESCRIPTION:Source: Cerebral Valley\n\nTech leaders and decision-makers wil
+ l dive into orchestrating AI autonomy through research insights and hands-
+ on roundtables covering agentic AI\, LLM observability\, and infrastructur
+ e strategies.\n\nVenue: Hotel Nia\n\nEvent page: https://venturebeat.com/v
+ btransform2026
 URL:https://venturebeat.com/vbtransform2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8db2d438-ab10-4b8b-8dd1-d38bfb0310b3@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260714T190000Z
 DTEND:20260714T213000Z
 SUMMARY:Trust Is the New Moat. The Hidden Buying and Investing Criteria for
   Enterprise AI. (w/ The AI Collective)
 LOCATION:Palo Alto\, CA
-DESCRIPTION:Builders will get insights into enterprise AI investment criter
- ia straight from a managing partner at a seed-stage AI fund and a seasoned
-  corporate risk officer\, followed by hands-on work on real projects durin
- g this biweekly online session. Speakers bringing serious credentials—in
- cluding founders with successful exits\, enterprise infrastructure experti
- se\, and AI planning pioneers—will explore how trust becomes the competi
- tive advantage in enterprise AI before participants showcase their work.\n
- \nEvent page: https://luma.com/aic-gl-7-14
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders will get insights into ente
+ rprise AI investment criteria straight from a managing partner at a seed-s
+ tage AI fund and a seasoned corporate risk officer\, followed by hands-on 
+ work on real projects during this biweekly online session. Speakers bringi
+ ng serious credentials—including founders with successful exits\, enterp
+ rise infrastructure expertise\, and AI planning pioneers—will explore ho
+ w trust becomes the competitive advantage in enterprise AI before particip
+ ants showcase their work.\n\nEvent page: https://luma.com/aic-gl-7-14
 URL:https://luma.com/aic-gl-7-14
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a3f7ecf2-ad55-4a73-95cd-ac663125fa9a@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T000000Z
 DTEND:20260715T040000Z
 SUMMARY:Applied Frontier #1: Loop Engineering | Frontier Labs
 LOCATION:Homebrew Club\, San Francisco\, CA
-DESCRIPTION:Frontier Labs #1 will bring together AI engineers\, founders\, 
- and researchers to dig into Loop Engineering—the technical architecture 
- behind self-directing AI systems that plan\, act\, and improve across repe
- ated cycles. This isn't your typical agent demo\; expect deep dives into t
- he hard problems like reliability\, failure recovery\, observability\, and
-  long-horizon execution that separate proof-of-concepts from systems that 
- actually work in production.\n\nVenue: Homebrew Club\n\nEvent page: https:
- //luma.com/ga59rkpa
+DESCRIPTION:Source: Cerebral Valley\n\nFrontier Labs #1 will bring together
+  AI engineers\, founders\, and researchers to dig into Loop Engineering—
+ the technical architecture behind self-directing AI systems that plan\, ac
+ t\, and improve across repeated cycles. This isn't your typical agent demo
+ \; expect deep dives into the hard problems like reliability\, failure rec
+ overy\, observability\, and long-horizon execution that separate proof-of-
+ concepts from systems that actually work in production.\n\nVenue: Homebrew
+  Club\n\nEvent page: https://luma.com/ga59rkpa
 URL:https://luma.com/ga59rkpa
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:42812238-7ea2-4621-9bcf-a330d38941ea@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T003000Z
 DTEND:20260715T033000Z
 SUMMARY:AI Builders Night
 LOCATION:AWS Builder Loft\, San Francisco\, CA
-DESCRIPTION:AWS experts and builders will dive into cloud innovation and ha
- nds-on solutions at the Builders Loft\, bringing real-world development ex
- perience to the table.\n\nVenue: AWS Builder Loft\n\nEvent page: https://w
- ww.meetup.com/clickhouse-silicon-valley-meetup-group/events/315350274
+DESCRIPTION:Source: Cerebral Valley\n\nAWS experts and builders will dive i
+ nto cloud innovation and hands-on solutions at the Builders Loft\, bringin
+ g real-world development experience to the table.\n\nVenue: AWS Builder Lo
+ ft\n\nEvent page: https://www.meetup.com/clickhouse-silicon-valley-meetup-
+ group/events/315350274
 URL:https://www.meetup.com/clickhouse-silicon-valley-meetup-group/events/31
  5350274
 STATUS:CONFIRMED
@@ -998,383 +1015,394 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a2f4a2bf-e688-4caf-8641-39e0dc5211ea@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T010000Z
 DTEND:20260715T040000Z
 SUMMARY:Nordic Founders Night
 LOCATION:San Francisco\, CA
-DESCRIPTION:Nordic founders will gather to swap stories and make real conne
- ctions while exploring the cutting edge of agentic AI\, voice AI\, robotic
- s\, and hardware—with a potential appearance from Mårten Mickos\, the f
- ormer MySQL and HackerOne CEO who's backed countless Nordic startups. Expe
- ct genuine conversations\, fellow builders\, and some impressive tech demo
- s thrown into the mix.\n\nEvent page: https://luma.com/a88g831c
+DESCRIPTION:Source: Cerebral Valley\n\nNordic founders will gather to swap 
+ stories and make real connections while exploring the cutting edge of agen
+ tic AI\, voice AI\, robotics\, and hardware—with a potential appearance 
+ from Mårten Mickos\, the former MySQL and HackerOne CEO who's backed coun
+ tless Nordic startups. Expect genuine conversations\, fellow builders\, an
+ d some impressive tech demos thrown into the mix.\n\nEvent page: https://l
+ uma.com/a88g831c
 URL:https://luma.com/a88g831c
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0a111342-8db0-4308-a620-415596abff78@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T010000Z
 DTEND:20260715T040000Z
 SUMMARY:Show & Tell: AI for GTM @Notion with Baseten\, Cognition and Samsar
  a
 LOCATION:Notion HQ\, San Francisco\, CA
-DESCRIPTION:Five seasoned GTM operators and engineers from Cognition\, Base
- ten\, Samsara\, Notion\, and Cresta will tear into their real\, daily-use 
- AI workflows—showing exactly how they built them\, what they actually do
- \, and what they'd change—with zero slides\, pitches\, or corporate thea
- ter. This will be pure tactical demonstrations of working AI tools and dat
- a flows that people are already shipping in production.\n\nVenue: Notion H
- Q\n\nEvent page: https://luma.com/b8ie1m1s
+DESCRIPTION:Source: Cerebral Valley\n\nFive seasoned GTM operators and engi
+ neers from Cognition\, Baseten\, Samsara\, Notion\, and Cresta will tear i
+ nto their real\, daily-use AI workflows—showing exactly how they built t
+ hem\, what they actually do\, and what they'd change—with zero slides\, 
+ pitches\, or corporate theater. This will be pure tactical demonstrations 
+ of working AI tools and data flows that people are already shipping in pro
+ duction.\n\nVenue: Notion HQ\n\nEvent page: https://luma.com/b8ie1m1s
 URL:https://luma.com/b8ie1m1s
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:412386ea-fc3d-413e-9d7e-8ddc61be2f21@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T013000Z
 DTEND:20260715T043000Z
 SUMMARY:AI Philosophy Nights: Indifferent Intelligence
 LOCATION:San Francisco\, CA
-DESCRIPTION:Philosophers\, technologists\, and social scientists will gathe
- r for a fireside chat and salon discussions exploring why care might be th
- e missing piece in AI alignment\, with UC Berkeley philosopher B. Scot Rou
- sse and executive coach Banu Kellner unpacking how we can design technolog
- y to preserve our capacity to actually give a damn.\n\nEvent page: https:/
- /luma.com/4esilsg5
+DESCRIPTION:Source: Cerebral Valley\n\nPhilosophers\, technologists\, and s
+ ocial scientists will gather for a fireside chat and salon discussions exp
+ loring why care might be the missing piece in AI alignment\, with UC Berke
+ ley philosopher B. Scot Rousse and executive coach Banu Kellner unpacking 
+ how we can design technology to preserve our capacity to actually give a d
+ amn.\n\nEvent page: https://luma.com/4esilsg5
 URL:https://luma.com/4esilsg5
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d5ce3857-1052-4414-959c-eaf7d74ae081@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T020000Z
 DTEND:20260715T040000Z
 SUMMARY:Off the Record: A GTM Leader Private Dinner
 LOCATION:San Francisco\, CA
-DESCRIPTION:Senior GTM leaders—including CMOs\, VPs of Marketing\, and Re
- vOps heads from enterprise and mid-market B2B companies—will gather for 
- an intimate dinner to discuss AI\, go-to-market strategy\, and revenue gro
- wth trends. This curated group keeps conversations substantive and network
- ing purposeful.\n\nEvent page: https://luma.com/hatvvbf6
+DESCRIPTION:Source: Cerebral Valley\n\nSenior GTM leaders—including CMOs\
+ , VPs of Marketing\, and RevOps heads from enterprise and mid-market B2B c
+ ompanies—will gather for an intimate dinner to discuss AI\, go-to-market
+  strategy\, and revenue growth trends. This curated group keeps conversati
+ ons substantive and networking purposeful.\n\nEvent page: https://luma.com
+ /hatvvbf6
 URL:https://luma.com/hatvvbf6
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1bb5d19d-dc2e-4c5c-9839-1a0173fa5325@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T020000Z
 DTEND:20260715T040000Z
 SUMMARY:Can AI Agents Be Morally Responsible?
 LOCATION:Aquitaine Wine Bar & Bistro\, San Francisco\, CA
-DESCRIPTION:A philosophy discussion will dig into whether AI systems can ac
- tually be morally responsible\, examining cutting-edge arguments about bla
- me and accountability in artificial agents.\n\nVenue: Aquitaine Wine Bar &
-  Bistro\n\nEvent page: https://www.meetup.com/two-hands-philosophy/events/
- 315408657
+DESCRIPTION:Source: Cerebral Valley\n\nA philosophy discussion will dig int
+ o whether AI systems can actually be morally responsible\, examining cutti
+ ng-edge arguments about blame and accountability in artificial agents.\n\n
+ Venue: Aquitaine Wine Bar & Bistro\n\nEvent page: https://www.meetup.com/t
+ wo-hands-philosophy/events/315408657
 URL:https://www.meetup.com/two-hands-philosophy/events/315408657
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9eeffb90-8f78-4ffc-aa05-58ec736d9c96@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T170000Z
 DTEND:20260716T010000Z
 SUMMARY:Women Working Together - AI CoWork Day Edition
 LOCATION:informal spaces - Oakland\, Oakland\, CA
-DESCRIPTION:Spend the day building with seasoned pros—Amirah Raveneau-Bey
-  (25+ years leading revenue and sales strategy at Zillow\, Opendoor\, Nerd
- Wallet\, and Citibank) and Mari Zumbro (Filament Co-Founder and COO with e
- xpertise in AI workflows and platform building) will be holding open offic
- e hours to dive into whatever you're working on. Whether you're hammering 
- out morning work or just stopping by for afternoon sessions\, there's time
-  to network\, grab lunch\, and get direct guidance from people who've scal
- ed major companies.\n\nVenue: informal spaces - Oakland\n\nEvent page: htt
- ps://luma.com/5c7mctsi
+DESCRIPTION:Source: Cerebral Valley\n\nSpend the day building with seasoned
+  pros—Amirah Raveneau-Bey (25+ years leading revenue and sales strategy 
+ at Zillow\, Opendoor\, NerdWallet\, and Citibank) and Mari Zumbro (Filamen
+ t Co-Founder and COO with expertise in AI workflows and platform building)
+  will be holding open office hours to dive into whatever you're working on
+ . Whether you're hammering out morning work or just stopping by for aftern
+ oon sessions\, there's time to network\, grab lunch\, and get direct guida
+ nce from people who've scaled major companies.\n\nVenue: informal spaces -
+  Oakland\n\nEvent page: https://luma.com/5c7mctsi
 URL:https://luma.com/5c7mctsi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:adc23c63-3638-45ef-aae3-aa5d67d47c00@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T170000Z
 DTEND:20260715T200000Z
 SUMMARY:Women in AI Breakfast and Panel
 LOCATION:Menlo Park\, CA
-DESCRIPTION:Women leaders from You.com\, Cisco\, Netflix\, and Stanford wil
- l gather over breakfast to dig into AI trends\, entrepreneurship\, and nav
- igating tech leadership while connecting with founders\, investors\, and o
- perators building the future. You'll get real conversations on growth and 
- balance alongside time to network with people actually doing the work in A
- I and startups.\n\nEvent page: http://luma.com/d0fq1mo8
+DESCRIPTION:Source: Cerebral Valley\n\nWomen leaders from You.com\, Cisco\,
+  Netflix\, and Stanford will gather over breakfast to dig into AI trends\,
+  entrepreneurship\, and navigating tech leadership while connecting with f
+ ounders\, investors\, and operators building the future. You'll get real c
+ onversations on growth and balance alongside time to network with people a
+ ctually doing the work in AI and startups.\n\nEvent page: http://luma.com/
+ d0fq1mo8
 URL:http://luma.com/d0fq1mo8
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:21b8c5a9-e393-4db1-ace2-3ba0611b7287@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T230000Z
 DTEND:20260716T013000Z
 SUMMARY:Reading Group: Senior SWE-Bench
 LOCATION:101 Second Street\, San Francisco\, CA
-DESCRIPTION:Snorkel AI's reading group will feature lead researcher Henry E
- hrenberg diving into Senior SWE-Bench\, an open-source benchmark that eval
- uates coding agents like actual senior engineers tackling real-world probl
- ems rather than simplified specs. You'll discover how this benchmark uses 
- adaptive validation\, sources tasks from genuine PRs with real debugging e
- vidence\, and why even frontier models like Claude Opus struggle to achiev
- e meaningful solve rates on production-grade engineering work.\n\nVenue: 1
- 01 Second Street\n\nEvent page: https://luma.com/3lr5j0oh
+DESCRIPTION:Source: Cerebral Valley\n\nSnorkel AI's reading group will feat
+ ure lead researcher Henry Ehrenberg diving into Senior SWE-Bench\, an open
+ -source benchmark that evaluates coding agents like actual senior engineer
+ s tackling real-world problems rather than simplified specs. You'll discov
+ er how this benchmark uses adaptive validation\, sources tasks from genuin
+ e PRs with real debugging evidence\, and why even frontier models like Cla
+ ude Opus struggle to achieve meaningful solve rates on production-grade en
+ gineering work.\n\nVenue: 101 Second Street\n\nEvent page: https://luma.co
+ m/3lr5j0oh
 URL:https://luma.com/3lr5j0oh
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9ed3eb87-c8d6-4e72-b352-e89d18fc7f3a@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260715T233000Z
 DTEND:20260716T003000Z
 SUMMARY:AWS Agentic AI Summit with MongoDB Mastra
 LOCATION:Amazon AWS 525 market street\, San Francisco\, CA
-DESCRIPTION:AI experts and seasoned professionals will dive into cutting-ed
- ge machine learning applications and emerging AI trends during this hands-
- on session.\n\nVenue: Amazon AWS 525 market street\n\nEvent page: https://
- www.meetup.com/sfbay-ai/events/315494713
+DESCRIPTION:Source: Cerebral Valley\n\nAI experts and seasoned professional
+ s will dive into cutting-edge machine learning applications and emerging A
+ I trends during this hands-on session.\n\nVenue: Amazon AWS 525 market str
+ eet\n\nEvent page: https://www.meetup.com/sfbay-ai/events/315494713
 URL:https://www.meetup.com/sfbay-ai/events/315494713
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1e810d82-8c08-45d2-9fc0-1416449d291c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T000000Z
 DTEND:20260716T003000Z
 SUMMARY:AI Lakehouse Meetup
 LOCATION:Bay Area\, San Francisco\, CA
-DESCRIPTION:Data engineers and architects will explore next-generation infr
- astructure\, open table formats\, and modern architectural frameworks desi
- gned to transform data systems.\n\nVenue: Bay Area\n\nEvent page: https://
- www.meetup.com/futureofdata-sanfrancisco/events/315302499
+DESCRIPTION:Source: Cerebral Valley\n\nData engineers and architects will e
+ xplore next-generation infrastructure\, open table formats\, and modern ar
+ chitectural frameworks designed to transform data systems.\n\nVenue: Bay A
+ rea\n\nEvent page: https://www.meetup.com/futureofdata-sanfrancisco/events
+ /315302499
 URL:https://www.meetup.com/futureofdata-sanfrancisco/events/315302499
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3adfe8a8-a3d4-4ab4-a48d-dde84173c334@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T000000Z
 DTEND:20260717T200000Z
 SUMMARY:AI Supply Chain Hackathon 2026: Food Banks + AI
 LOCATION:1417 15th St\, San Francisco\, CA
-DESCRIPTION:Teams will brainstorm and build AI-powered solutions to tackle 
- real supply chain disruption challenges during this hackathon. Participant
- s will collaborate to create innovative approaches for improving supply ch
- ain resilience across industries.\n\nVenue: 1417 15th St\n\nEvent page: ht
- tps://www.eventbrite.com/e/tickets-1264432213789
+DESCRIPTION:Source: Cerebral Valley\n\nTeams will brainstorm and build AI-p
+ owered solutions to tackle real supply chain disruption challenges during 
+ this hackathon. Participants will collaborate to create innovative approac
+ hes for improving supply chain resilience across industries.\n\nVenue: 141
+ 7 15th St\n\nEvent page: https://www.eventbrite.com/e/tickets-126443221378
+ 9
 URL:https://www.eventbrite.com/e/tickets-1264432213789
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:009dfb08-1e2d-4380-9777-ff7ab185734c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T003000Z
 DTEND:20260716T023000Z
 SUMMARY:Scrappy AI Founders Go Karting (seed to series A)
 LOCATION:South San Francisco\, San Francisco\, CA
-DESCRIPTION:Twelve scrappy founders will tear up the go-kart track for some
-  high-speed racing followed by dinner—a chance to network with seed to S
- eries A+ founders and investors who actually know what they're doing.\n\nV
- enue: South San Francisco\n\nEvent page: https://luma.com/513fkz7g
+DESCRIPTION:Source: Cerebral Valley\n\nTwelve scrappy founders will tear up
+  the go-kart track for some high-speed racing followed by dinner—a chanc
+ e to network with seed to Series A+ founders and investors who actually kn
+ ow what they're doing.\n\nVenue: South San Francisco\n\nEvent page: https:
+ //luma.com/513fkz7g
 URL:https://luma.com/513fkz7g
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:1a0be870-3b10-4236-ae1a-6c0609f5ce07@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260716T010000Z
+DTEND:20260716T030000Z
+SUMMARY:Fonzi's July Tech Talks
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nAI engineers will dive into building
+  reliable systems for regulated industries\, with DeepVerified breaking do
+ wn how they're tackling RAG quality\, agent workflows\, and system observa
+ bility for finance\, healthcare\, and legal applications. Expect technical
+  talks on multi-PDF ingestion\, agentic features\, and evaluation framewor
+ ks alongside a crew of software developers\, data scientists\, and technic
+ al founders in the SF AI engineering scene.\n\nEvent page: https://luma.co
+ m/jrs8v2ms
+URL:https://luma.com/jrs8v2ms
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:1948c9f7-27da-4082-87df-e4d86be30086@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T010000Z
 DTEND:20260716T050000Z
 SUMMARY:PaperBench: Evaluating AI’s Ability to Replicate AI Research
 LOCATION:AGI House SF: 170 St. Germain Ave. San Francisco CA 94114\, San Fr
  ancisco\, CA
-DESCRIPTION:Researchers and AI enthusiasts will dig into how well artificia
- l intelligence can reconstruct academic papers from PDFs alone\, with Pape
- rBench putting AI's abilities to the ultimate test across code\, experimen
- ts\, and results.\n\nVenue: AGI House SF: 170 St. Germain Ave. San Francis
- co CA 94114\n\nEvent page: https://luma.com/PaperBenchEvaluatingAIsAbility
+DESCRIPTION:Source: Cerebral Valley\n\nResearchers and AI enthusiasts will 
+ dig into how well artificial intelligence can reconstruct academic papers 
+ from PDFs alone\, with PaperBench putting AI's abilities to the ultimate t
+ est across code\, experiments\, and results.\n\nVenue: AGI House SF: 170 S
+ t. Germain Ave. San Francisco CA 94114\n\nEvent page: https://luma.com/Pap
+ erBenchEvaluatingAIsAbility
 URL:https://luma.com/PaperBenchEvaluatingAIsAbility
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:297d6ec8-948b-4aef-bddb-a5f45fb83475@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T010000Z
 DTEND:20260716T040000Z
 SUMMARY:Battle of the Paddles: AI Builders Edition
 LOCATION:SPIN San Francisco\, San Francisco\, CA
-DESCRIPTION:AI developers\, architects\, researchers\, and leaders will gat
- her for a casual evening of ping pong\, food\, and drinks—with an option
- al tournament for those looking to compete for prizes like a Ninja Creami 
- and AirPods Pro.\n\nVenue: SPIN San Francisco\n\nEvent page: https://luma.
- com/j7v7qeem
+DESCRIPTION:Source: Cerebral Valley\n\nAI developers\, architects\, researc
+ hers\, and leaders will gather for a casual evening of ping pong\, food\, 
+ and drinks—with an optional tournament for those looking to compete for 
+ prizes like a Ninja Creami and AirPods Pro.\n\nVenue: SPIN San Francisco\n
+ \nEvent page: https://luma.com/j7v7qeem
 URL:https://luma.com/j7v7qeem
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:1a0be870-3b10-4236-ae1a-6c0609f5ce07@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
-DTSTART:20260716T010000Z
-DTEND:20260716T030000Z
-SUMMARY:Fonzi's July Tech Talks
-LOCATION:San Francisco\, CA
-DESCRIPTION:AI engineers will dive into building reliable systems for regul
- ated industries\, with DeepVerified breaking down how they're tackling RAG
-  quality\, agent workflows\, and system observability for finance\, health
- care\, and legal applications. Expect technical talks on multi-PDF ingesti
- on\, agentic features\, and evaluation frameworks alongside a crew of soft
- ware developers\, data scientists\, and technical founders in the SF AI en
- gineering scene.\n\nEvent page: https://luma.com/jrs8v2ms
-URL:https://luma.com/jrs8v2ms
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:b67c9a2c-927c-45b1-b603-ddace8e86e8a@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T010000Z
 DTEND:20260716T030000Z
 SUMMARY:Lightning AI Demo Night
 LOCATION:Sanity Inc\, San Francisco\, CA
-DESCRIPTION:Sanity and Entire will host an AI demo night featuring lightnin
- g talks from Melissa Herrera (Temporal)\, Amanda Martin (Vapi)\, and Knut 
- Melvær (Sanity)\, complete with dumplings\, drinks\, and spirited debates
-  around the latest in AI.\n\nVenue: Sanity Inc\n\nEvent page: https://luma
- .com/aoj7dke6
+DESCRIPTION:Source: Cerebral Valley\n\nSanity and Entire will host an AI de
+ mo night featuring lightning talks from Melissa Herrera (Temporal)\, Amand
+ a Martin (Vapi)\, and Knut Melvær (Sanity)\, complete with dumplings\, dr
+ inks\, and spirited debates around the latest in AI.\n\nVenue: Sanity Inc\
+ n\nEvent page: https://luma.com/aoj7dke6
 URL:https://luma.com/aoj7dke6
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d69e09ed-5726-4a7e-96cd-7c912a4ee622@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T020000Z
 DTEND:20260716T050000Z
 SUMMARY:Startup Pitch & Themed Networking Palo Alto | Unlock Your Idea
 LOCATION:JOE & THE JUICE\, Palo Alto\, CA
-DESCRIPTION:Real founders will tear apart your ChatGPT-polished pitch while
-  you eat at themed tables\, then five brave souls will pitch live in front
-  of a room full of people who actually know what they're doing.\n\nVenue: 
- JOE & THE JUICE\n\nEvent page: https://www.eventbrite.com/e/tickets-199147
- 3945179
+DESCRIPTION:Source: Cerebral Valley\n\nReal founders will tear apart your C
+ hatGPT-polished pitch while you eat at themed tables\, then five brave sou
+ ls will pitch live in front of a room full of people who actually know wha
+ t they're doing.\n\nVenue: JOE & THE JUICE\n\nEvent page: https://www.even
+ tbrite.com/e/tickets-1991473945179
 URL:https://www.eventbrite.com/e/tickets-1991473945179
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:58e29ffa-9ed8-4082-9199-e8327f8d5500@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T150000Z
 DTEND:20260717T020000Z
 SUMMARY:AUTONOMOUS 2026 - The Future of Robotics & Physical AI
 LOCATION:The Midway\, San Francisco\, CA
-DESCRIPTION:AUTONOMOUS will bring together 500 founders\, engineers\, inves
- tors\, and enterprise operators in robotics and physical AI for a dynamic 
- day of insights across two stages and four content tracks.\n\nVenue: The M
- idway\n\nEvent page: https://autonomousfuture.co/
+DESCRIPTION:Source: Cerebral Valley\n\nAUTONOMOUS will bring together 500 f
+ ounders\, engineers\, investors\, and enterprise operators in robotics and
+  physical AI for a dynamic day of insights across two stages and four cont
+ ent tracks.\n\nVenue: The Midway\n\nEvent page: https://autonomousfuture.c
+ o/
 URL:https://autonomousfuture.co/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5b501623-aefc-4d1d-b97b-47739b6c36ad@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260716T150000Z
 DTEND:20260716T163000Z
 SUMMARY:Agent Builders Breakfast - Founders & Builders
 LOCATION:San Francisco\, CA
-DESCRIPTION:Founders and product leaders building AI agents will gather for
-  casual breakfast conversations and impromptu demos with fellow builders n
- avigating this space—hosted by Michael Ducker\, an experienced PM from M
- ercury\, Chime\, and Twitter.\n\nEvent page: https://luma.com/tuxqmxlu
+DESCRIPTION:Source: Cerebral Valley\n\nFounders and product leaders buildin
+ g AI agents will gather for casual breakfast conversations and impromptu d
+ emos with fellow builders navigating this space—hosted by Michael Ducker
+ \, an experienced PM from Mercury\, Chime\, and Twitter.\n\nEvent page: ht
+ tps://luma.com/tuxqmxlu
 URL:https://luma.com/tuxqmxlu
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3efc5f34-94b3-4a40-9f69-187f67a7c1f9@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260717T000000Z
 DTEND:20260717T033000Z
 SUMMARY:The Odyssey — Early Screening (Decagon x Baseten)
 LOCATION:Alamo Drafthouse Cinema New Mission\, San Francisco\, CA
-DESCRIPTION:Experience Christopher Nolan's latest film on the big screen be
- fore its wide release\, surrounded by engineers\, founders\, and fellow ci
- nephiles while enjoying cocktails and appetizers. Baseten and Decagon—le
- aders in AI infrastructure and enterprise customer support—are hosting t
- his intimate screening with zero formality and all the good vibes.\n\nVenu
- e: Alamo Drafthouse Cinema New Mission\n\nEvent page: https://luma.com/j02
- 5zb37
+DESCRIPTION:Source: Cerebral Valley\n\nExperience Christopher Nolan's lates
+ t film on the big screen before its wide release\, surrounded by engineers
+ \, founders\, and fellow cinephiles while enjoying cocktails and appetizer
+ s. Baseten and Decagon—leaders in AI infrastructure and enterprise custo
+ mer support—are hosting this intimate screening with zero formality and 
+ all the good vibes.\n\nVenue: Alamo Drafthouse Cinema New Mission\n\nEvent
+  page: https://luma.com/j025zb37
 URL:https://luma.com/j025zb37
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cd1744ff-ef56-49c3-8611-af31503877d2@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260717T003000Z
 DTEND:20260717T043000Z
 SUMMARY:ElevenLabs x Sauna Hack Night
 LOCATION:1185 Mason St\, San Francisco\, CA
-DESCRIPTION:AI memory meets voice in a 90-minute build sprint where ElevenL
- abs and Sauna's founders will showcase agent tech and AI workflows\, then 
- watch startups hack together on real projects with live demos at the end.\
- n\nVenue: 1185 Mason St\n\nEvent page: https://luma.com/elevenlabs-sauna-j
- ul16
+DESCRIPTION:Source: Cerebral Valley\n\nAI memory meets voice in a 90-minute
+  build sprint where ElevenLabs and Sauna's founders will showcase agent te
+ ch and AI workflows\, then watch startups hack together on real projects w
+ ith live demos at the end.\n\nVenue: 1185 Mason St\n\nEvent page: https://
+ luma.com/elevenlabs-sauna-jul16
 URL:https://luma.com/elevenlabs-sauna-jul16
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:dc4a5149-1ad6-4b26-b83d-e5896e1753b5@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260717T003000Z
 DTEND:20260717T030000Z
 SUMMARY:Design Meetup x Google Sunnyvale\, CA: At Scale
 LOCATION:Mountain View\, CA
-DESCRIPTION:Google designers from YouTube\, Gemini\, and Cloud AI will shar
- e insider workflows and career insights through lightning talks and a Q&A 
- session with some seriously experienced folks (think Staff UX Designers an
- d Senior Directors) diving into their recent project evolution. Early-to-m
- id career designers will get food\, drinks\, and real talk about leveling 
- up in the field while networking with the team.\n\nEvent page: https://lum
- a.com/b6gce78l
+DESCRIPTION:Source: Cerebral Valley\n\nGoogle designers from YouTube\, Gemi
+ ni\, and Cloud AI will share insider workflows and career insights through
+  lightning talks and a Q&A session with some seriously experienced folks (
+ think Staff UX Designers and Senior Directors) diving into their recent pr
+ oject evolution. Early-to-mid career designers will get food\, drinks\, an
+ d real talk about leveling up in the field while networking with the team.
+ \n\nEvent page: https://luma.com/b6gce78l
 URL:https://luma.com/b6gce78l
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:01fd26f5-075d-4213-bd41-96dd7bd89521@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260717T010000Z
 DTEND:20260717T033000Z
 SUMMARY:PM Sandbox: AI Workflows for Competitive Analysis & Product Briefs
 LOCATION:Silicon Valley Product Management Association\, Mountain View\, CA
-DESCRIPTION:People will discover or launch their own communities to connect
-  with others who are passionate about the same interests and hobbies.\n\nV
- enue: Silicon Valley Product Management Association\n\nEvent page: https:/
- /www.meetup.com/silicon-valley-product-management-association/events/31546
- 0717
+DESCRIPTION:Source: Cerebral Valley\n\nPeople will discover or launch their
+  own communities to connect with others who are passionate about the same 
+ interests and hobbies.\n\nVenue: Silicon Valley Product Management Associa
+ tion\n\nEvent page: https://www.meetup.com/silicon-valley-product-manageme
+ nt-association/events/315460717
 URL:https://www.meetup.com/silicon-valley-product-management-association/ev
  ents/315460717
 STATUS:CONFIRMED
@@ -1382,684 +1410,723 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:62a5488a-9928-4a56-a132-746b26f85b0c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260717T163000Z
 DTEND:20260718T020000Z
 SUMMARY:Loop Engineering Hackathon
 LOCATION:San Francisco\, CA
-DESCRIPTION:SF's builders will converge for an intense one-day engineering 
- hackathon backed by AWS\, Zero.xyz\, Nexla\, and Pomerium\, with participa
- nts shipping real projects and pitching to a panel of seasoned engineers a
- nd founders. The lineup features industry pros like Nexla's CTO and Swipel
- ux's co-founder\, ready to judge what gets built.\n\nEvent page: https://l
- uma.com/loophack
+DESCRIPTION:Source: Cerebral Valley\n\nSF's builders will converge for an i
+ ntense one-day engineering hackathon backed by AWS\, Zero.xyz\, Nexla\, an
+ d Pomerium\, with participants shipping real projects and pitching to a pa
+ nel of seasoned engineers and founders. The lineup features industry pros 
+ like Nexla's CTO and Swipelux's co-founder\, ready to judge what gets buil
+ t.\n\nEvent page: https://luma.com/loophack
 URL:https://luma.com/loophack
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:575c632f-8da7-47ea-8416-5861445b6216@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260718T003000Z
 DTEND:20260719T190000Z
 SUMMARY:Embodied Metal Hackathon
 LOCATION:San Francisco\, CA
-DESCRIPTION:This three-day robotics hackathon brings together founders\, de
- velopers\, and AI researchers to build embodied intelligence systems that 
- actually do something physical—whether that's sorting\, folding\, or ent
- irely new robot behaviors you dream up. Backed by robotics experts\, hardw
- are labs\, and world-model researchers\, you'll get a real robot to hack w
- ith\, training support\, and compute resources to ship something that matt
- ers by Sunday.\n\nEvent page: https://luma.com/embodied-metal
+DESCRIPTION:Source: Cerebral Valley\n\nThis three-day robotics hackathon br
+ ings together founders\, developers\, and AI researchers to build embodied
+  intelligence systems that actually do something physical—whether that's
+  sorting\, folding\, or entirely new robot behaviors you dream up. Backed 
+ by robotics experts\, hardware labs\, and world-model researchers\, you'll
+  get a real robot to hack with\, training support\, and compute resources 
+ to ship something that matters by Sunday.\n\nEvent page: https://luma.com/
+ embodied-metal
 URL:https://luma.com/embodied-metal
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:7e0e3eab-6083-4bfe-aa2e-a172e15df753@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
-DTSTART:20260718T150000Z
-DTEND:20260719T013000Z
-SUMMARY:DeepLearning.AI Voice AI Hackathon: The Complete Trip
-LOCATION:Mountain View\, CA
-DESCRIPTION:Build a voice AI agent that orchestrates the chaos of travel bo
- oking—flights\, hotels\, rideshares\, dining\, everything—into one sea
- mless conversation\, with industry heavyweights like Andrew Ng and the CEO
-  of Vocal Bridge judging your work and $5000 in prizes on the line. Teams 
- will spend the day hacking with Sabre APIs and Vocal Bridge tech to create
-  agents that actually speak and act\, not just chat.\n\nEvent page: https:
- //luma.com/fmypremp
-URL:https://luma.com/fmypremp
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:a84daca3-c334-488c-a656-2fae3ea98c96@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260718T150000Z
 DTEND:20260720T000000Z
 SUMMARY:AGI Summit 2026 | Where GenAI Converges · July 18–19 · Palace o
  f Fine Arts
 LOCATION:Palace of Fine Arts\, San Francisco\, CA
-DESCRIPTION:The AGI Summit 2026 will bring together top researchers from Op
- enAI\, Anthropic\, and Google DeepMind alongside operators at Microsoft\, 
- Meta\, and NVIDIA to explore how AI is shifting from assistance to autonom
- ous execution—featuring deep dives into agent orchestration\, autonomous
-  workflows\, and systems already generating real value. Founders building 
- next-gen AI products will get direct access to investors from Sequoia\, a1
- 6z\, and Lightspeed\, with opportunities to pitch on the main stage.\n\nVe
- nue: Palace of Fine Arts\n\nEvent page: https://luma.com/agisummit2026
+DESCRIPTION:Source: Cerebral Valley\n\nThe AGI Summit 2026 will bring toget
+ her top researchers from OpenAI\, Anthropic\, and Google DeepMind alongsid
+ e operators at Microsoft\, Meta\, and NVIDIA to explore how AI is shifting
+  from assistance to autonomous execution—featuring deep dives into agent
+  orchestration\, autonomous workflows\, and systems already generating rea
+ l value. Founders building next-gen AI products will get direct access to 
+ investors from Sequoia\, a16z\, and Lightspeed\, with opportunities to pit
+ ch on the main stage.\n\nVenue: Palace of Fine Arts\n\nEvent page: https:/
+ /luma.com/agisummit2026
 URL:https://luma.com/agisummit2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f4748084-e901-47fa-876d-77d68ba0bebe@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
-DTSTART:20260718T160000Z
-DTEND:20260720T010000Z
-SUMMARY:GenAI Summit SF 2026 — The World's Largest Generative AI Conferen
- ce
-LOCATION:Palace of Fine Arts\, San Francisco\, CA
-DESCRIPTION:The GenAI Summit SF 2026 will gather leading experts in generat
- ive AI for two days of cutting-edge innovation and collaboration.\n\nVenue
- : Palace of Fine Arts\n\nEvent page: https://genaisummit.ai
-URL:https://genaisummit.ai
+UID:7e0e3eab-6083-4bfe-aa2e-a172e15df753@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260718T150000Z
+DTEND:20260719T013000Z
+SUMMARY:DeepLearning.AI Voice AI Hackathon: The Complete Trip
+LOCATION:Mountain View\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nBuild a voice AI agent that orchestr
+ ates the chaos of travel booking—flights\, hotels\, rideshares\, dining\
+ , everything—into one seamless conversation\, with industry heavyweights
+  like Andrew Ng and the CEO of Vocal Bridge judging your work and $5000 in
+  prizes on the line. Teams will spend the day hacking with Sabre APIs and 
+ Vocal Bridge tech to create agents that actually speak and act\, not just 
+ chat.\n\nEvent page: https://luma.com/fmypremp
+URL:https://luma.com/fmypremp
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:319f32f8-92da-4c2a-996a-e1917a787aab@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260718T160000Z
 DTEND:20260719T040000Z
 SUMMARY:AI Valley x Pet Zen Dog-a-thon
 LOCATION:San Francisco\, CA
-DESCRIPTION:200 developers\, designers\, and animal advocates will spend a 
- day building real tools for rescue operations and dog adoption—with actu
- al rescue dogs on-site to meet in the morning and inspire the afternoon's 
- builds. Teams will compete for $10K+ in prizes while working directly with
-  shelter partners on adoption matching systems\, volunteer coordination\, 
- and AI solutions that actually help dogs find homes.\n\nEvent page: https:
- //luma.com/rklrsomo
+DESCRIPTION:Source: Cerebral Valley\n\n200 developers\, designers\, and ani
+ mal advocates will spend a day building real tools for rescue operations a
+ nd dog adoption—with actual rescue dogs on-site to meet in the morning a
+ nd inspire the afternoon's builds. Teams will compete for $10K+ in prizes 
+ while working directly with shelter partners on adoption matching systems\
+ , volunteer coordination\, and AI solutions that actually help dogs find h
+ omes.\n\nEvent page: https://luma.com/rklrsomo
 URL:https://luma.com/rklrsomo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:f4748084-e901-47fa-876d-77d68ba0bebe@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260718T160000Z
+DTEND:20260720T010000Z
+SUMMARY:GenAI Summit SF 2026 — The World's Largest Generative AI Conferen
+ ce
+LOCATION:Palace of Fine Arts\, San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nThe GenAI Summit SF 2026 will gather
+  leading experts in generative AI for two days of cutting-edge innovation 
+ and collaboration.\n\nVenue: Palace of Fine Arts\n\nEvent page: https://ge
+ naisummit.ai
+URL:https://genaisummit.ai
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:869e4a7c-cf22-4739-80ea-1f460510108a@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260718T163000Z
 DTEND:20260718T223000Z
 SUMMARY:Scrappy AI Founders Go Mountain Biking
 LOCATION:San Francisco\, CA
-DESCRIPTION:Eight AI founders and early-stage investors will tear through S
- outh Bay trails on a 3-hour mountain bike ride followed by lunch—a chanc
- e for seed to Series A founders doing $1M+ ARR to connect while getting so
- me serious endurance in.\n\nEvent page: https://luma.com/x0xu33m5
+DESCRIPTION:Source: Cerebral Valley\n\nEight AI founders and early-stage in
+ vestors will tear through South Bay trails on a 3-hour mountain bike ride 
+ followed by lunch—a chance for seed to Series A founders doing $1M+ ARR 
+ to connect while getting some serious endurance in.\n\nEvent page: https:/
+ /luma.com/x0xu33m5
 URL:https://luma.com/x0xu33m5
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:2d4e632e-47f5-467e-86f1-af0fc50cc5fb@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
-DTSTART:20260718T170000Z
-DTEND:20260718T190000Z
-SUMMARY:Bay Area AI War Room - SF Edition - Saturday\, 10:00 AM
-LOCATION:JOE & THE JUICE\, San Francisco\, CA
-DESCRIPTION:A forward-thinking roundtable will explore where AI is headed i
- n 2026\, bringing together experts across models\, ethics\, law\, business
- \, and creative fields to debate everything from Claude's expanding capabi
- lities to real-world impact.\n\nVenue: JOE & THE JUICE\n\nEvent page: http
- s://www.meetup.com/bay-area-artificial-war-room/events/313150505
-URL:https://www.meetup.com/bay-area-artificial-war-room/events/313150505
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:243f95b9-6354-4068-bf47-cd958597b81a@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260718T170000Z
 DTEND:20260720T030000Z
 SUMMARY:AGI Summit 2026 Hackathon
 LOCATION:Palace of Fine Arts\, San Francisco\, CA
-DESCRIPTION:Builders and AI innovators will tackle autonomous intelligence 
- in a 2-day hackathon\, shipping AI agents\, multi-agent systems\, and auto
- nomous workflows while competing for up to $1\,000 in prizes. Engineers\, 
- founders\, and researchers will collaborate to create the next generation 
- of AI-native products across coding\, finance\, healthcare\, and beyond.\n
- \nVenue: Palace of Fine Arts\n\nEvent page: https://luma.com/genaihackatho
- n
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders and AI innovators will tack
+ le autonomous intelligence in a 2-day hackathon\, shipping AI agents\, mul
+ ti-agent systems\, and autonomous workflows while competing for up to $1\,
+ 000 in prizes. Engineers\, founders\, and researchers will collaborate to 
+ create the next generation of AI-native products across coding\, finance\,
+  healthcare\, and beyond.\n\nVenue: Palace of Fine Arts\n\nEvent page: htt
+ ps://luma.com/genaihackathon
 URL:https://luma.com/genaihackathon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:2d4e632e-47f5-467e-86f1-af0fc50cc5fb@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260718T170000Z
+DTEND:20260718T190000Z
+SUMMARY:Bay Area AI War Room - SF Edition - Saturday\, 10:00 AM
+LOCATION:JOE & THE JUICE\, San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nA forward-thinking roundtable will e
+ xplore where AI is headed in 2026\, bringing together experts across model
+ s\, ethics\, law\, business\, and creative fields to debate everything fro
+ m Claude's expanding capabilities to real-world impact.\n\nVenue: JOE & TH
+ E JUICE\n\nEvent page: https://www.meetup.com/bay-area-artificial-war-room
+ /events/313150505
+URL:https://www.meetup.com/bay-area-artificial-war-room/events/313150505
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:fc24437c-acd5-42da-b489-e5443ee1641d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260718T223000Z
 DTEND:20260719T013000Z
 SUMMARY:Build Beautifully: Beginner Claude Code Workshop 1 for Women
 LOCATION:Yes SF Headquarters\, San Francisco\, CA
-DESCRIPTION:Build Beautifully kicks off with "Hello\, Build\," a beginner-f
- riendly workshop guiding participants through setting up a developer envir
- onment and creating a live personal website using Claude Code\, perfect fo
- r women stepping confidently into tech without prior experience.\n\nVenue:
-  Yes SF Headquarters\n\nEvent page: https://luma.com/kbs5hvvi
+DESCRIPTION:Source: Cerebral Valley\n\nBuild Beautifully kicks off with "He
+ llo\, Build\," a beginner-friendly workshop guiding participants through s
+ etting up a developer environment and creating a live personal website usi
+ ng Claude Code\, perfect for women stepping confidently into tech without 
+ prior experience.\n\nVenue: Yes SF Headquarters\n\nEvent page: https://lum
+ a.com/kbs5hvvi
 URL:https://luma.com/kbs5hvvi
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7c044429-d91a-4c35-ae14-f739d7e36a9c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260718T230000Z
 DTEND:20260719T120000Z
 SUMMARY:The Future of Agentic AI in Healthcare - Abridge x Anthropic x Ligh
  tspeed
 LOCATION:San Francisco\, CA
-DESCRIPTION:Top ML scientists and clinical engineers from Abridge\, Anthrop
- ic\, and Lightspeed will guide you through building AI agents that tackle 
- real healthcare automation challenges affecting 300+ health systems\, from
-  clinical trial matching to prior authorization. You'll get direct feedbac
- k from actual clinicians and potentially ship production-ready solutions a
- ddressing some of healthcare's most pressing workflow problems.\n\nEvent p
- age: https://cerebralvalley.ai/e/abridge-hackathon
+DESCRIPTION:Source: Cerebral Valley\n\nTop ML scientists and clinical engin
+ eers from Abridge\, Anthropic\, and Lightspeed will guide you through buil
+ ding AI agents that tackle real healthcare automation challenges affecting
+  300+ health systems\, from clinical trial matching to prior authorization
+ . You'll get direct feedback from actual clinicians and potentially ship p
+ roduction-ready solutions addressing some of healthcare's most pressing wo
+ rkflow problems.\n\nEvent page: https://cerebralvalley.ai/e/abridge-hackat
+ hon
 URL:https://cerebralvalley.ai/e/abridge-hackathon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8951006f-cbef-4aad-8351-5e31cc04f82d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260721T013000Z
 DTEND:20260721T040000Z
 SUMMARY:Builders Night
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:People will show up with whatever they're building—software\,
-  hardware\, businesses\, creative projects\, you name it—and spend the e
- vening doing focused work alongside others who get that building can be is
- olating and momentum matters. It's a warm\, mostly quiet space punctuated 
- by real moments of connection when someone breaks through a blocker or dis
- covers something worth sharing.\n\nVenue: 550 Laguna St\n\nEvent page: htt
- ps://luma.com/uv2878er
+DESCRIPTION:Source: Cerebral Valley\n\nPeople will show up with whatever th
+ ey're building—software\, hardware\, businesses\, creative projects\, yo
+ u name it—and spend the evening doing focused work alongside others who 
+ get that building can be isolating and momentum matters. It's a warm\, mos
+ tly quiet space punctuated by real moments of connection when someone brea
+ ks through a blocker or discovers something worth sharing.\n\nVenue: 550 L
+ aguna St\n\nEvent page: https://luma.com/uv2878er
 URL:https://luma.com/uv2878er
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:de30e588-50bd-4cd7-8f93-60d9ad7ffa9e@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260722T000000Z
 DTEND:20260722T030000Z
 SUMMARY:Foundry Live: Agentic AI Demo Night
 LOCATION:GitHub\, San Francisco\, CA
-DESCRIPTION:Bay Area startups will showcase cutting-edge agentic AI applica
- tions that are reshaping how autonomous systems operate across industries.
-  Attendees will witness firsthand the transformative potential of AI agent
- s through live demos from innovators pushing the boundaries of what's poss
- ible.\n\nVenue: GitHub\n\nEvent page: https://www.meetup.com/sf-conversati
- onal-ai/events/315475669
+DESCRIPTION:Source: Cerebral Valley\n\nBay Area startups will showcase cutt
+ ing-edge agentic AI applications that are reshaping how autonomous systems
+  operate across industries. Attendees will witness firsthand the transform
+ ative potential of AI agents through live demos from innovators pushing th
+ e boundaries of what's possible.\n\nVenue: GitHub\n\nEvent page: https://w
+ ww.meetup.com/sf-conversational-ai/events/315475669
 URL:https://www.meetup.com/sf-conversational-ai/events/315475669
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa74489-d264-476b-8cab-f83babf95d48@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260722T014500Z
 DTEND:20260722T034500Z
 SUMMARY:Claude Code Demos: Building the State of the Art
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:Builders working with agentic AI tools will gather for live dem
- os and open working sessions where they'll share actual workflows\, compar
- e setups\, and learn directly from others actively shipping with Claude Co
- de\, Cursor\, and custom agents. It's a twice-monthly chance to move beyon
- d isolated tinkering and get unfiltered insights on what works and what br
- eaks in real agentic development.\n\nVenue: 550 Laguna St\n\nEvent page: h
- ttps://luma.com/wjelkem8
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders working with agentic AI too
+ ls will gather for live demos and open working sessions where they'll shar
+ e actual workflows\, compare setups\, and learn directly from others activ
+ ely shipping with Claude Code\, Cursor\, and custom agents. It's a twice-m
+ onthly chance to move beyond isolated tinkering and get unfiltered insight
+ s on what works and what breaks in real agentic development.\n\nVenue: 550
+  Laguna St\n\nEvent page: https://luma.com/wjelkem8
 URL:https://luma.com/wjelkem8
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:06f18a9e-f88f-4b58-b5a9-8aac3a53790d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260722T150000Z
 DTEND:20260724T003000Z
 SUMMARY:AMD Advancing AI 2026
 LOCATION:Moscone West\, San Francisco\, CA
-DESCRIPTION:Dive into 50+ hands-on workshops led by industry heavyweights l
- ike the PyTorch Foundation's Global CTO and UCLA professors\, while connec
- ting with AI builders and AMD leadership to level up your skills in scalin
- g AI systems. Walk away with practical tools\, community connections\, and
-  a shot at winning AMD hardware and AI PCs.\n\nVenue: Moscone West\n\nEven
- t page: https://luma.com/lv1u8lcv
+DESCRIPTION:Source: Cerebral Valley\n\nDive into 50+ hands-on workshops led
+  by industry heavyweights like the PyTorch Foundation's Global CTO and UCL
+ A professors\, while connecting with AI builders and AMD leadership to lev
+ el up your skills in scaling AI systems. Walk away with practical tools\, 
+ community connections\, and a shot at winning AMD hardware and AI PCs.\n\n
+ Venue: Moscone West\n\nEvent page: https://luma.com/lv1u8lcv
 URL:https://luma.com/lv1u8lcv
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:94c63338-51bd-427a-b935-ece278be7f58@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260722T160000Z
 DTEND:20260724T010000Z
 SUMMARY:AMD Advancing AI 2026 | San Francisco\, July 22-23
 LOCATION:San Francisco\, CA
-DESCRIPTION:Cutting-edge AI infrastructure and development will take center
-  stage as leading researchers and open-source project leaders gather to sh
- are insights on building with AMD platforms and popular AI frameworks\, co
- mplete with free training\, GPU resources\, and certification opportunitie
- s.\n\nEvent page: https://www.amd.com/en/corporate/events/advancing-ai.htm
- l
+DESCRIPTION:Source: Cerebral Valley\n\nCutting-edge AI infrastructure and d
+ evelopment will take center stage as leading researchers and open-source p
+ roject leaders gather to share insights on building with AMD platforms and
+  popular AI frameworks\, complete with free training\, GPU resources\, and
+  certification opportunities.\n\nEvent page: https://www.amd.com/en/corpor
+ ate/events/advancing-ai.html
 URL:https://www.amd.com/en/corporate/events/advancing-ai.html
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a7cea756-be3f-41ab-97f8-9a687feb45d3@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260722T170000Z
 DTEND:20260722T200000Z
 SUMMARY:Investors Breakfast: GTM in the Age of AI
 LOCATION:San Francisco\, CA
-DESCRIPTION:Founders\, operators\, and investors will gather for candid con
- versations about AI-driven go-to-market strategies\, featuring a panel wit
- h leaders from Zentāra Ventures\, AGI Inc\, and Cisco who'll share insigh
- ts on transforming sales and marketing with AI. This intimate breakfast wi
- ll deliver real networking focused on building relationships and actionabl
- e learnings for anyone launching products\, scaling revenue\, or staying a
- head in the AI ecosystem.\n\nEvent page: https://luma.com/LT4pMGBp
+DESCRIPTION:Source: Cerebral Valley\n\nFounders\, operators\, and investors
+  will gather for candid conversations about AI-driven go-to-market strateg
+ ies\, featuring a panel with leaders from Zentāra Ventures\, AGI Inc\, an
+ d Cisco who'll share insights on transforming sales and marketing with AI.
+  This intimate breakfast will deliver real networking focused on building 
+ relationships and actionable learnings for anyone launching products\, sca
+ ling revenue\, or staying ahead in the AI ecosystem.\n\nEvent page: https:
+ //luma.com/LT4pMGBp
 URL:https://luma.com/LT4pMGBp
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d3a29c34-cfac-4d21-bb30-9ac493cb9828@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260723T000000Z
 DTEND:20260723T023000Z
 SUMMARY:Dwarkesh Unplugged\, presented by WorkOS
 LOCATION:SFJAZZ\, San Francisco\, CA
-DESCRIPTION:Dwarkesh Patel will sit down with Dr. Fei-Fei Li\, co-founder a
- nd CEO of World Labs\, to dig into the tech and AI forces reshaping the fu
- ture\, while WorkOS founder Michael Grinich flips the script to explore ho
- w Dwarkesh built one of tech's most compelling podcasts. Space is limited 
- for this conversation happening July 22.\n\nVenue: SFJAZZ\n\nEvent page: h
- ttps://luma.com/f28a739d
+DESCRIPTION:Source: Cerebral Valley\n\nDwarkesh Patel will sit down with Dr
+ . Fei-Fei Li\, co-founder and CEO of World Labs\, to dig into the tech and
+  AI forces reshaping the future\, while WorkOS founder Michael Grinich fli
+ ps the script to explore how Dwarkesh built one of tech's most compelling 
+ podcasts. Space is limited for this conversation happening July 22.\n\nVen
+ ue: SFJAZZ\n\nEvent page: https://luma.com/f28a739d
 URL:https://luma.com/f28a739d
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:53893c28-d3a3-4e02-a963-6f2677f77e7b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260723T003000Z
 DTEND:20260723T030000Z
 SUMMARY:AI as a Force Multiplier: Scaling Lean Finance Teams Without Adding
   Headcount
 LOCATION:Palo Alto\, CA
-DESCRIPTION:Venture-backed CFOs will dive into how AI is transforming lean 
- finance teams—from automating closes and FP&A to flagging anomalies in r
- eal time—with seasoned operators including heads of finance from Obsidia
- n Security and Centific\, plus an operating partner from Bessemer Venture 
- Partners sharing practical playbooks. Walk away with frameworks to impleme
- nt immediately and understand what investors now expect around AI maturity
-  and finance function efficiency.\n\nEvent page: https://luma.com/kyye2ihx
+DESCRIPTION:Source: Cerebral Valley\n\nVenture-backed CFOs will dive into h
+ ow AI is transforming lean finance teams—from automating closes and FP&A
+  to flagging anomalies in real time—with seasoned operators including he
+ ads of finance from Obsidian Security and Centific\, plus an operating par
+ tner from Bessemer Venture Partners sharing practical playbooks. Walk away
+  with frameworks to implement immediately and understand what investors no
+ w expect around AI maturity and finance function efficiency.\n\nEvent page
+ : https://luma.com/kyye2ihx
 URL:https://luma.com/kyye2ihx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2b6b33a3-dd00-4faa-afb6-60c5bf5bc842@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260723T020000Z
 DTEND:20260723T050000Z
 SUMMARY:Startup Tech & AI Networking
 LOCATION:ZOË\, San Francisco\, CA
-DESCRIPTION:Tech professionals\, investors\, and entrepreneurs will connect
-  to explore innovation and forge meaningful partnerships in the industry.\
- n\nVenue: ZOË\n\nEvent page: https://www.eventbrite.com/e/tickets-1992525
- 243641
+DESCRIPTION:Source: Cerebral Valley\n\nTech professionals\, investors\, and
+  entrepreneurs will connect to explore innovation and forge meaningful par
+ tnerships in the industry.\n\nVenue: ZOË\n\nEvent page: https://www.event
+ brite.com/e/tickets-1992525243641
 URL:https://www.eventbrite.com/e/tickets-1992525243641
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:90934970-9e06-436b-91eb-4c0dd2de2f7e@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
-DTSTART:20260723T230000Z
-DTEND:20260724T020000Z
-SUMMARY:Scrappy AI Founders Play Pickleball (Seed to Series A)
-LOCATION:San Francisco\, CA
-DESCRIPTION:Early-stage founders and investors will compete in curated pick
- leball matchups with professional coaching and private courts\, wrapping u
- p with networking over dinner.\n\nEvent page: https://luma.com/0qxd996q
-URL:https://luma.com/0qxd996q
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:cce54bb4-67d8-4db1-abc0-4c3283934244@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260723T230000Z
 DTEND:20260724T013000Z
 SUMMARY:Geospatial AI Happy Hour GeoMeetup
 LOCATION:Pier 9\, San Francisco\, CA
-DESCRIPTION:Geospatial AI enthusiasts and professionals will gather for a G
- eoMeetup happy hour where Terrabyte.ai will showcase cutting-edge developm
- ents in geospatial technology. The event will bring together industry expe
- rts and practitioners looking to network and discuss the latest innovation
- s in the field.\n\nVenue: Pier 9\n\nEvent page: https://www.meetup.com/geo
- meetup/events/315343803
+DESCRIPTION:Source: Cerebral Valley\n\nGeospatial AI enthusiasts and profes
+ sionals will gather for a GeoMeetup happy hour where Terrabyte.ai will sho
+ wcase cutting-edge developments in geospatial technology. The event will b
+ ring together industry experts and practitioners looking to network and di
+ scuss the latest innovations in the field.\n\nVenue: Pier 9\n\nEvent page:
+  https://www.meetup.com/geomeetup/events/315343803
 URL:https://www.meetup.com/geomeetup/events/315343803
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:90934970-9e06-436b-91eb-4c0dd2de2f7e@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260723T230000Z
+DTEND:20260724T020000Z
+SUMMARY:Scrappy AI Founders Play Pickleball (Seed to Series A)
+LOCATION:San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nEarly-stage founders and investors w
+ ill compete in curated pickleball matchups with professional coaching and 
+ private courts\, wrapping up with networking over dinner.\n\nEvent page: h
+ ttps://luma.com/0qxd996q
+URL:https://luma.com/0qxd996q
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:fa0a2a5b-16d0-4873-b284-8502e1ae364a@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260724T003000Z
 DTEND:20260724T033000Z
 SUMMARY:AI Engineering Leaders Dinner/Networking/Talks
 LOCATION:Pebblebed\, San Francisco\, CA
-DESCRIPTION:Over 40 seasoned CTOs and engineering leaders will gather for r
- aw\, unfiltered conversations about what's actually happening in modern so
- ftware teams—no fluff\, just real talk with folks from Stripe\, GitHub\,
-  Supabase\, and other major players. Expect solid networking\, short talks
- \, food and drinks in a deliberately curated setting where the focus is on
-  honest dialogue about engineering challenges that matter right now.\n\nVe
- nue: Pebblebed\n\nEvent page: https://luma.com/otzbqs4u
+DESCRIPTION:Source: Cerebral Valley\n\nOver 40 seasoned CTOs and engineerin
+ g leaders will gather for raw\, unfiltered conversations about what's actu
+ ally happening in modern software teams—no fluff\, just real talk with f
+ olks from Stripe\, GitHub\, Supabase\, and other major players. Expect sol
+ id networking\, short talks\, food and drinks in a deliberately curated se
+ tting where the focus is on honest dialogue about engineering challenges t
+ hat matter right now.\n\nVenue: Pebblebed\n\nEvent page: https://luma.com/
+ otzbqs4u
 URL:https://luma.com/otzbqs4u
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:43fd2081-f5ac-46bf-bbd4-779e25b2eee3@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260724T163000Z
 DTEND:20260725T023000Z
 SUMMARY:Agent Swarms Hackathon
 LOCATION:San Francisco\, CA
-DESCRIPTION:Builders and AI engineers will spend a day cranking out the nex
- t generation of agentic systems with mentorship from top teams at DeepMind
- \, Guild AI\, and Pioneer\, complete with talks\, prizes\, and live demos.
-  You'll get hands-on experience with cutting-edge inference and control pl
- ane tools while competing for recognition alongside industry experts servi
- ng as judges.\n\nEvent page: https://luma.com/swarmhack
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders and AI engineers will spend
+  a day cranking out the next generation of agentic systems with mentorship
+  from top teams at DeepMind\, Guild AI\, and Pioneer\, complete with talks
+ \, prizes\, and live demos. You'll get hands-on experience with cutting-ed
+ ge inference and control plane tools while competing for recognition along
+ side industry experts serving as judges.\n\nEvent page: https://luma.com/s
+ warmhack
 URL:https://luma.com/swarmhack
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:73177841-08fe-43ec-8222-e525d020e74a@cerebralvalley.ai
+DTSTAMP:20260706T012129Z
+DTSTART:20260724T170000Z
+DTEND:20260724T200000Z
+SUMMARY:You.com Agentic AI Hackathon
+LOCATION:AWS Builder Loft\, San Francisco\, CA
+DESCRIPTION:Source: Cerebral Valley\n\nBuild agentic AI systems powered by 
+ live web data in a single day at this SF hackathon where You.com engineers
+  are hands-on the entire time\, competing across three tracks (Real-Time I
+ ntelligence\, Deep Knowledge\, or Agent Systems) with top teams winning AP
+ I credits\, Amazon vouchers\, and mentorship from You.com leadership. Gear
+ ed toward shipped builders and indie hackers who can prototype and demo wi
+ thin 24 hours.\n\nVenue: AWS Builder Loft\n\nEvent page: https://luma.com/
+ youdotcom-agentic-hackathon-sf
+URL:https://luma.com/youdotcom-agentic-hackathon-sf
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:43cea94f-86ef-4ee5-89b9-44064c344ee0@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260725T160000Z
 DTEND:20260726T043000Z
 SUMMARY:Build Fast. Launch Loud. Prompt Driven Hackathon
 LOCATION:Venture Dock\, Palo Alto\, CA
-DESCRIPTION:The Prompt Driven Development x Deskree Hackathon will propel d
- evelopers\, students\, and founders to rapidly build and launch AI-powered
-  applications using innovative prompt-based workflows and robust backend i
- nfrastructure\, culminating in live demos and pitches to industry leaders 
- and investors.\n\nVenue: Venture Dock\n\nEvent page: https://luma.com/1c8v
- mqyr
+DESCRIPTION:Source: Cerebral Valley\n\nThe Prompt Driven Development x Desk
+ ree Hackathon will propel developers\, students\, and founders to rapidly 
+ build and launch AI-powered applications using innovative prompt-based wor
+ kflows and robust backend infrastructure\, culminating in live demos and p
+ itches to industry leaders and investors.\n\nVenue: Venture Dock\n\nEvent 
+ page: https://luma.com/1c8vmqyr
 URL:https://luma.com/1c8vmqyr
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:161f59fa-29d1-4d09-94c1-77a0f2c787c7@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260725T230000Z
 DTEND:20260726T020000Z
 SUMMARY:Series #2 Founder OS: Automate with Claude\, Lead with Trust
 LOCATION:Frontier Tower\, San Francisco\, CA
-DESCRIPTION:Founders will get hands-on building a Claude-powered Chief of S
- taff system customized to their company\, then dive deep into the psycholo
- gy and culture shifts needed so their team actually adopts it instead of r
- esisting it. Led by Pooja Kalita (12+ years shipping SaaS at Microsoft and
-  Splunk) and Uma Uppin (founder of Tathya.ai\, somatic coach and systems t
- hinker)\, you'll walk away with a working setup ready to use tomorrow plus
-  a practical playbook grounded in your values for rolling this out to your
-  team.\n\nVenue: Frontier Tower\n\nEvent page: https://luma.com/series-2-f
- ounder-os-build-with-claude-ai
+DESCRIPTION:Source: Cerebral Valley\n\nFounders will get hands-on building 
+ a Claude-powered Chief of Staff system customized to their company\, then 
+ dive deep into the psychology and culture shifts needed so their team actu
+ ally adopts it instead of resisting it. Led by Pooja Kalita (12+ years shi
+ pping SaaS at Microsoft and Splunk) and Uma Uppin (founder of Tathya.ai\, 
+ somatic coach and systems thinker)\, you'll walk away with a working setup
+  ready to use tomorrow plus a practical playbook grounded in your values f
+ or rolling this out to your team.\n\nVenue: Frontier Tower\n\nEvent page: 
+ https://luma.com/series-2-founder-os-build-with-claude-ai
 URL:https://luma.com/series-2-founder-os-build-with-claude-ai
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:700c99b7-6ac6-4337-b1c4-bf1307a79b36@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260728T013000Z
 DTEND:20260728T040000Z
 SUMMARY:Builders Night
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:People building software\, hardware\, businesses\, or creative 
- projects will gather weekly to work side-by-side in focused sprints\, brea
- king isolation with moments of genuine connection and mutual support when 
- someone cracks a tough problem. It's the antidote to lonely building—sho
- wing up consistently alongside others who are trying to make something rea
- l.\n\nVenue: 550 Laguna St\n\nEvent page: https://luma.com/okpjbnsh
+DESCRIPTION:Source: Cerebral Valley\n\nPeople building software\, hardware\
+ , businesses\, or creative projects will gather weekly to work side-by-sid
+ e in focused sprints\, breaking isolation with moments of genuine connecti
+ on and mutual support when someone cracks a tough problem. It's the antido
+ te to lonely building—showing up consistently alongside others who are t
+ rying to make something real.\n\nVenue: 550 Laguna St\n\nEvent page: https
+ ://luma.com/okpjbnsh
 URL:https://luma.com/okpjbnsh
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb2ae187-c388-4a63-9fbf-239e078807c2@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260728T223000Z
 DTEND:20260729T033000Z
 SUMMARY:Enterprise AI at Scale: Talks + AI Agent Workshops
 LOCATION:135 Constitution Dr\, Menlo Park\, CA
-DESCRIPTION:TechEquity Ai's upcoming forum will spotlight AI executives\, s
- tartup founders\, and developers navigating rapid growth and scaling AI-na
- tive companies through keynotes and hands-on workshops\, ideal for profess
- ionals seeking practical insights on AI product journeys and resilience.\n
- \nVenue: 135 Constitution Dr\n\nEvent page: https://luma.com/jul-ai-forum
+DESCRIPTION:Source: Cerebral Valley\n\nTechEquity Ai's upcoming forum will 
+ spotlight AI executives\, startup founders\, and developers navigating rap
+ id growth and scaling AI-native companies through keynotes and hands-on wo
+ rkshops\, ideal for professionals seeking practical insights on AI product
+  journeys and resilience.\n\nVenue: 135 Constitution Dr\n\nEvent page: htt
+ ps://luma.com/jul-ai-forum
 URL:https://luma.com/jul-ai-forum
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:488915fc-1f36-4bac-bec6-e91ec25c18da@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260731T003000Z
 DTEND:20260731T023000Z
 SUMMARY:Agents and APIs Developer Meetup
 LOCATION:CANOPY Jackson Square\, San Francisco\, CA
-DESCRIPTION:Developers will explore AI-native software design patterns and 
- practical agent implementations with industry experts including the co-fou
- nder of Pipecat\, a Postman staff engineer\, and founders from YC-backed s
- tartups\, diving into how the next generation of software will leverage LL
- Ms and their capabilities.\n\nVenue: CANOPY Jackson Square\n\nEvent page: 
- https://luma.com/july-SF-Agents-APIs-meetup
+DESCRIPTION:Source: Cerebral Valley\n\nDevelopers will explore AI-native so
+ ftware design patterns and practical agent implementations with industry e
+ xperts including the co-founder of Pipecat\, a Postman staff engineer\, an
+ d founders from YC-backed startups\, diving into how the next generation o
+ f software will leverage LLMs and their capabilities.\n\nVenue: CANOPY Jac
+ kson Square\n\nEvent page: https://luma.com/july-SF-Agents-APIs-meetup
 URL:https://luma.com/july-SF-Agents-APIs-meetup
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d5b7410e-963c-4478-b6fc-07f7aa6e9e5c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260731T010000Z
 DTEND:20260731T030000Z
 SUMMARY:Scaling revenue at Stripe and Vercel with Jeanne DeWitt Grosser (CO
  O\, Vercel)
 LOCATION:San Francisco\, CA
-DESCRIPTION:Jeanne DeWitt Grosser\, who scaled Stripe's revenue engine and 
- now leads go-to-market as COO at Vercel\, will sit down with Baseten's pre
- sident for an unfiltered conversation on scaling revenue in AI-native comp
- anies. You'll hear directly from someone who's turned developer tools into
-  internet infrastructure twice over.\n\nEvent page: https://luma.com/7h2hj
- ufc
+DESCRIPTION:Source: Cerebral Valley\n\nJeanne DeWitt Grosser\, who scaled S
+ tripe's revenue engine and now leads go-to-market as COO at Vercel\, will 
+ sit down with Baseten's president for an unfiltered conversation on scalin
+ g revenue in AI-native companies. You'll hear directly from someone who's 
+ turned developer tools into internet infrastructure twice over.\n\nEvent p
+ age: https://luma.com/7h2hjufc
 URL:https://luma.com/7h2hjufc
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ebbd009d-4806-4dab-b34d-857e008aae47@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260801T160000Z
 DTEND:20260803T010000Z
 SUMMARY:Agentic AI Summit 2026
 LOCATION:UC Berkeley Campus\, Berkeley\, CA
-DESCRIPTION:Over 5\,000 attendees and global livestream viewers will conver
- ge for a two-day deep dive into Agentic AI\, where academics\, industry le
- aders\, and policymakers will tackle the latest breakthroughs in AI infras
- tructure and real-world deployment strategies.\n\nVenue: UC Berkeley Campu
- s\n\nEvent page: https://rdi.berkeley.edu/events/agentic-ai-summit-2026
+DESCRIPTION:Source: Cerebral Valley\n\nOver 5\,000 attendees and global liv
+ estream viewers will converge for a two-day deep dive into Agentic AI\, wh
+ ere academics\, industry leaders\, and policymakers will tackle the latest
+  breakthroughs in AI infrastructure and real-world deployment strategies.\
+ n\nVenue: UC Berkeley Campus\n\nEvent page: https://rdi.berkeley.edu/event
+ s/agentic-ai-summit-2026
 URL:https://rdi.berkeley.edu/events/agentic-ai-summit-2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:24a8e0af-106f-41de-81e8-0d1fe8945581@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260801T170000Z
 DTEND:20260801T190000Z
 SUMMARY:Bay Area AI War Room - Edition - Saturday\, 10:00 AM
 LOCATION:Victory Point Cafe\, Berkeley\, CA
-DESCRIPTION:The event will dive into the future of reasoning models\, explo
- ring their intersections with ethics\, law\, business\, and art\, led by e
- xperts in AI\, systems\, and legal frameworks.\n\nVenue: Victory Point Caf
- e\n\nEvent page: https://www.meetup.com/bay-area-artificial-war-room/event
- s/313150510
+DESCRIPTION:Source: Cerebral Valley\n\nThe event will dive into the future 
+ of reasoning models\, exploring their intersections with ethics\, law\, bu
+ siness\, and art\, led by experts in AI\, systems\, and legal frameworks.\
+ n\nVenue: Victory Point Cafe\n\nEvent page: https://www.meetup.com/bay-are
+ a-artificial-war-room/events/313150510
 URL:https://www.meetup.com/bay-area-artificial-war-room/events/313150510
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4d96fa4c-3c2d-4ff5-b614-f2bb1a731c84@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260804T013000Z
 DTEND:20260804T040000Z
 SUMMARY:Builders Night
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:You'll spend your evening building side-by-side with other make
- rs—software engineers\, designers\, artists\, and entrepreneurs—in foc
- used sprints where the work itself is what matters\, followed by a share-b
- ack where you'll trade learnings and get unstuck together. It's the antido
- te to solo building: show up with a project\, leave with real momentum and
-  the energy of working alongside people who actually get it.\n\nVenue: 550
-  Laguna St\n\nEvent page: https://luma.com/x2mztk8i
+DESCRIPTION:Source: Cerebral Valley\n\nYou'll spend your evening building s
+ ide-by-side with other makers—software engineers\, designers\, artists\,
+  and entrepreneurs—in focused sprints where the work itself is what matt
+ ers\, followed by a share-back where you'll trade learnings and get unstuc
+ k together. It's the antidote to solo building: show up with a project\, l
+ eave with real momentum and the energy of working alongside people who act
+ ually get it.\n\nVenue: 550 Laguna St\n\nEvent page: https://luma.com/x2mz
+ tk8i
 URL:https://luma.com/x2mztk8i
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8893f454-7ebc-4a98-8798-54e858642cdc@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260805T014500Z
 DTEND:20260805T034500Z
 SUMMARY:Claude Code Demos: Building the State of the Art
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:Builders actively using agentic tools will swap real workflows 
- and setups during live demos\, then spend the evening collaborating on act
- ual projects to solve shared problems. It's a hands-on session where exper
- ienced developers using Claude\, Cursor\, and custom agents learn directly
-  from each other's working setups and tackle the messy problems they're al
- l facing.\n\nVenue: 550 Laguna St\n\nEvent page: https://luma.com/y4v3i51h
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders actively using agentic tool
+ s will swap real workflows and setups during live demos\, then spend the e
+ vening collaborating on actual projects to solve shared problems. It's a h
+ ands-on session where experienced developers using Claude\, Cursor\, and c
+ ustom agents learn directly from each other's working setups and tackle th
+ e messy problems they're all facing.\n\nVenue: 550 Laguna St\n\nEvent page
+ : https://luma.com/y4v3i51h
 URL:https://luma.com/y4v3i51h
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d4c3c89c-b22d-4b57-8cdc-0862dd50e0e8@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260805T170000Z
 DTEND:20260805T180000Z
 SUMMARY:Coffee Club | Experienced Founders
 LOCATION:San Francisco\, CA
-DESCRIPTION:Dave Coen\, Sruthi Sivanandan\, and Deirdre Clute from Forum Ve
- ntures—an early-stage fund and AI venture studio investing in 65+ SaaS c
- ompanies—will host a casual coffee meetup bringing together pre-Series A
-  founders and VCs\, with special focus on underrepresented founders in tec
- h. Spaces are limited to keep conversations high-quality and meaningful\, 
- so applications will be reviewed for fit.\n\nEvent page: https://luma.com/
- 7gda67x7
+DESCRIPTION:Source: Cerebral Valley\n\nDave Coen\, Sruthi Sivanandan\, and 
+ Deirdre Clute from Forum Ventures—an early-stage fund and AI venture stu
+ dio investing in 65+ SaaS companies—will host a casual coffee meetup bri
+ nging together pre-Series A founders and VCs\, with special focus on under
+ represented founders in tech. Spaces are limited to keep conversations hig
+ h-quality and meaningful\, so applications will be reviewed for fit.\n\nEv
+ ent page: https://luma.com/7gda67x7
 URL:https://luma.com/7gda67x7
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c3294d67-10ae-47ee-a094-c1b11b65ec7b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260805T220000Z
 DTEND:20260806T000000Z
 SUMMARY:AI Engineers: Aug
 LOCATION:House of AI\, San Francisco\, CA
-DESCRIPTION:The upcoming August edition of the San Francisco AI Engineers T
- ech Talk will dive into cutting-edge AI developments\, featuring discussio
- ns led by experienced AI professionals and engineers.\n\nVenue: House of A
- I\n\nEvent page: https://www.meetup.com/san-francisco-ai-engineers/events/
- 313912559
+DESCRIPTION:Source: Cerebral Valley\n\nThe upcoming August edition of the S
+ an Francisco AI Engineers Tech Talk will dive into cutting-edge AI develop
+ ments\, featuring discussions led by experienced AI professionals and engi
+ neers.\n\nVenue: House of AI\n\nEvent page: https://www.meetup.com/san-fra
+ ncisco-ai-engineers/events/313912559
 URL:https://www.meetup.com/san-francisco-ai-engineers/events/313912559
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ede86d69-8c1d-4aec-ac92-c906fc07f13f@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260807T003000Z
 DTEND:20260807T033000Z
 SUMMARY:DEMO NIGHT with The AI Collective
 LOCATION:AWS Builder Loft\, San Francisco\, CA
-DESCRIPTION:Eight visionary pre-Series A founders will showcase their groun
- dbreaking AI innovations with live demos\, community voting\, and interact
- ive networking powered by The AI Collective\, a global non-profit with ove
- r 200\,000 leaders democratizing AI across the industry.\n\nVenue: AWS Bui
- lder Loft\n\nEvent page: https://luma.com/august-demo-2026
+DESCRIPTION:Source: Cerebral Valley\n\nEight visionary pre-Series A founder
+ s will showcase their groundbreaking AI innovations with live demos\, comm
+ unity voting\, and interactive networking powered by The AI Collective\, a
+  global non-profit with over 200\,000 leaders democratizing AI across the 
+ industry.\n\nVenue: AWS Builder Loft\n\nEvent page: https://luma.com/augus
+ t-demo-2026
 URL:https://luma.com/august-demo-2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:be2225ce-dd60-4ebb-b02c-085af678d706@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260807T230000Z
 DTEND:20260809T180000Z
 SUMMARY:Scrappy (AI) Founders Go Camping (+hiking)
 LOCATION:San Francisco\, CA
-DESCRIPTION:A select group of 12 vetted founders and investors from top tec
- h hubs will spend two days camping and bonding outdoors\, complete with gr
- oup dinners\, drinks\, and all the gear provided for a relaxed\, nature-fi
- lled retreat.\n\nEvent page: https://luma.com/my2f8usg
+DESCRIPTION:Source: Cerebral Valley\n\nA select group of 12 vetted founders
+  and investors from top tech hubs will spend two days camping and bonding 
+ outdoors\, complete with group dinners\, drinks\, and all the gear provide
+ d for a relaxed\, nature-filled retreat.\n\nEvent page: https://luma.com/m
+ y2f8usg
 URL:https://luma.com/my2f8usg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:492b5f6a-af72-47e2-9b6a-70bb813d6f15@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260811T013000Z
 DTEND:20260811T040000Z
 SUMMARY:Builders Night
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:People building anything—software\, hardware\, creative proje
- cts\, you name it—will gather weekly to work side-by-side in focused spr
- ints\, breaking the isolation of solo building with accountability\, momen
- tum\, and spontaneous breakthroughs when someone gets unstuck. It's a warm
- \, quiet space where the work itself is the main event\, punctuated by a s
- hare-back where builders swap what they learned and offer support to each 
- other.\n\nVenue: 550 Laguna St\n\nEvent page: https://luma.com/biho114m
+DESCRIPTION:Source: Cerebral Valley\n\nPeople building anything—software\
+ , hardware\, creative projects\, you name it—will gather weekly to work 
+ side-by-side in focused sprints\, breaking the isolation of solo building 
+ with accountability\, momentum\, and spontaneous breakthroughs when someon
+ e gets unstuck. It's a warm\, quiet space where the work itself is the mai
+ n event\, punctuated by a share-back where builders swap what they learned
+  and offer support to each other.\n\nVenue: 550 Laguna St\n\nEvent page: h
+ ttps://luma.com/biho114m
 URL:https://luma.com/biho114m
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:51dcca83-b5f3-4883-9aa8-3ae6954a5f30@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260812T213000Z
 DTEND:20260812T233000Z
 SUMMARY:AI Tinkerers Raleigh Meetup — August 12\, 2026 [AI Tinkerers - Ra
  leigh]
 LOCATION:Raleigh\, San Francisco\, CA
-DESCRIPTION:The meetup will showcase sharp demos and practical workflows fr
- om experienced AI developers actively shipping production code\, offering 
- a rare chance to see raw\, working experiments and get authentic peer feed
- back.\n\nVenue: Raleigh\n\nEvent page: https://raleigh.aitinkerers.org/p/a
- i-tinkerers-raleigh-meetup-august-12-2026
+DESCRIPTION:Source: Cerebral Valley\n\nThe meetup will showcase sharp demos
+  and practical workflows from experienced AI developers actively shipping 
+ production code\, offering a rare chance to see raw\, working experiments 
+ and get authentic peer feedback.\n\nVenue: Raleigh\n\nEvent page: https://
+ raleigh.aitinkerers.org/p/ai-tinkerers-raleigh-meetup-august-12-2026
 URL:https://raleigh.aitinkerers.org/p/ai-tinkerers-raleigh-meetup-august-12
  -2026
 STATUS:CONFIRMED
@@ -2067,239 +2134,243 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4c8dc40f-66b2-4024-9b31-db30555d4910@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260815T180000Z
 DTEND:20260815T230000Z
 SUMMARY:YC Startup Internship Expo
 LOCATION:Y Combinator\, San Francisco\, CA
-DESCRIPTION:YC will host an AI and startup internship expo featuring over 5
- 0 top YC startups\, offering students rare access to founders and engineer
- s\, hands-on AI challenges\, expert talks\, and onsite interviews for cove
- ted internships and new grad roles. The event will spotlight cutting-edge 
- AI fields like robotics\, biotech\, and developer tools\, attracting highl
- y technical and creative students eager to dive deep into the future of AI
-  innovation.\n\nVenue: Y Combinator\n\nEvent page: https://events.ycombina
- tor.com/2027-summer-internship-expo
+DESCRIPTION:Source: Cerebral Valley\n\nYC will host an AI and startup inter
+ nship expo featuring over 50 top YC startups\, offering students rare acce
+ ss to founders and engineers\, hands-on AI challenges\, expert talks\, and
+  onsite interviews for coveted internships and new grad roles. The event w
+ ill spotlight cutting-edge AI fields like robotics\, biotech\, and develop
+ er tools\, attracting highly technical and creative students eager to dive
+  deep into the future of AI innovation.\n\nVenue: Y Combinator\n\nEvent pa
+ ge: https://events.ycombinator.com/2027-summer-internship-expo
 URL:https://events.ycombinator.com/2027-summer-internship-expo
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eb5b8a28-ee11-4a0e-ba33-b2fff6d2f1e5@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260818T013000Z
 DTEND:20260818T040000Z
 SUMMARY:Builders Night
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:You'll spend your evening in focused deep work alongside other 
- builders—software developers\, artists\, designers\, entrepreneurs—get
- ting real momentum on whatever you're making while having the option to sh
- are breakthroughs and get unstuck together during the wrap-up circle.\n\nV
- enue: 550 Laguna St\n\nEvent page: https://luma.com/ulb7g4tq
+DESCRIPTION:Source: Cerebral Valley\n\nYou'll spend your evening in focused
+  deep work alongside other builders—software developers\, artists\, desi
+ gners\, entrepreneurs—getting real momentum on whatever you're making wh
+ ile having the option to share breakthroughs and get unstuck together duri
+ ng the wrap-up circle.\n\nVenue: 550 Laguna St\n\nEvent page: https://luma
+ .com/ulb7g4tq
 URL:https://luma.com/ulb7g4tq
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cd678747-2471-48bf-b4c5-982976e0aad8@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260818T143000Z
 DTEND:20260819T030000Z
 SUMMARY:ModCon 2026: Compute Unlocked
 LOCATION:Grand Hyatt San Francisco\, San Francisco\, CA
-DESCRIPTION:ModCon 2026 will bring together developers and AI innovators fo
- r keynotes\, live demos\, and hands-on workshops exploring the cutting edg
- e of AI development. Attendees will network directly with industry leaders
-  pushing the boundaries of what's possible with AI.\n\nVenue: Grand Hyatt 
- San Francisco\n\nEvent page: https://www.modular.com/modcon
+DESCRIPTION:Source: Cerebral Valley\n\nModCon 2026 will bring together deve
+ lopers and AI innovators for keynotes\, live demos\, and hands-on workshop
+ s exploring the cutting edge of AI development. Attendees will network dir
+ ectly with industry leaders pushing the boundaries of what's possible with
+  AI.\n\nVenue: Grand Hyatt San Francisco\n\nEvent page: https://www.modula
+ r.com/modcon
 URL:https://www.modular.com/modcon
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:033bcb71-1314-4b61-9afb-a4d9407a4f13@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260819T014500Z
 DTEND:20260819T034500Z
 SUMMARY:Claude Code Demos: Building the State of the Art
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:You'll catch live demos from builders actively shipping with Cl
- aude Code\, Cursor\, and custom agents\, then spend the rest of the night 
- working alongside other people figuring out what actually works with agent
- ic tools—comparing setups\, workflows\, and solutions to the problems ev
- eryone's quietly solving alone.\n\nVenue: 550 Laguna St\n\nEvent page: htt
- ps://luma.com/t4mtkhg4
+DESCRIPTION:Source: Cerebral Valley\n\nYou'll catch live demos from builder
+ s actively shipping with Claude Code\, Cursor\, and custom agents\, then s
+ pend the rest of the night working alongside other people figuring out wha
+ t actually works with agentic tools—comparing setups\, workflows\, and s
+ olutions to the problems everyone's quietly solving alone.\n\nVenue: 550 L
+ aguna St\n\nEvent page: https://luma.com/t4mtkhg4
 URL:https://luma.com/t4mtkhg4
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1c44c784-e881-4613-bddf-5c02ad4c0616@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260820T223000Z
 DTEND:20260821T033000Z
 SUMMARY:AI Infrastructure: Talks + AI Agent Workshops
 LOCATION:135 Constitution Dr\, Menlo Park\, CA
-DESCRIPTION:TechEquity Ai's upcoming forum will gather AI leaders\, develop
- ers\, and founders to explore sustainable AI infrastructure\, featuring ke
- ynotes and hands-on workshops focused on scaling compute\, tooling\, and d
- eployment platforms for cutting-edge applications. This event will attract
-  professionals and students eager to deepen their practical AI skills and 
- engage with responsible development practices.\n\nVenue: 135 Constitution 
- Dr\n\nEvent page: https://luma.com/aug-ai-forum
+DESCRIPTION:Source: Cerebral Valley\n\nTechEquity Ai's upcoming forum will 
+ gather AI leaders\, developers\, and founders to explore sustainable AI in
+ frastructure\, featuring keynotes and hands-on workshops focused on scalin
+ g compute\, tooling\, and deployment platforms for cutting-edge applicatio
+ ns. This event will attract professionals and students eager to deepen the
+ ir practical AI skills and engage with responsible development practices.\
+ n\nVenue: 135 Constitution Dr\n\nEvent page: https://luma.com/aug-ai-forum
 URL:https://luma.com/aug-ai-forum
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:987b6828-7026-4d02-8be5-0aa2268ad8a3@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260825T013000Z
 DTEND:20260825T040000Z
 SUMMARY:Builders Night
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:People building anything—from code to art to companies—will
-  spend their evening working side-by-side in focused sprints\, breaking is
- olation with spontaneous collaboration and a share-back where everyone lea
- rns from what stuck or got built. It's less networking mixer and more acco
- untability partner\, designed for makers who need the momentum that only s
- hows up when you're in a room with others doing real work.\n\nVenue: 550 L
- aguna St\n\nEvent page: https://luma.com/rkmdgvqy
+DESCRIPTION:Source: Cerebral Valley\n\nPeople building anything—from code
+  to art to companies—will spend their evening working side-by-side in fo
+ cused sprints\, breaking isolation with spontaneous collaboration and a sh
+ are-back where everyone learns from what stuck or got built. It's less net
+ working mixer and more accountability partner\, designed for makers who ne
+ ed the momentum that only shows up when you're in a room with others doing
+  real work.\n\nVenue: 550 Laguna St\n\nEvent page: https://luma.com/rkmdgv
+ qy
 URL:https://luma.com/rkmdgvqy
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2378f599-c985-44bf-92da-2d6c74622c6f@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260826T003000Z
 DTEND:20260826T033000Z
 SUMMARY:The Future of Work Pitch Night + Open Demos: Worktech\, Robotics & 
  Agentic AI
 LOCATION:San Francisco\, CA
-DESCRIPTION:The upcoming Future of Work Pitch Night will bring together fou
- nders\, operators\, investors\, and builders focused on AI\, robotics\, an
- d work tech innovations\, featuring blitz pitches\, open demos\, and intim
- ate networking to explore authentic collaboration between humans and AI in
-  tomorrow’s workforce. This event is organized by Ontology of Value® le
- d by Natalia Bielczyk\, PhD\, a career incubator shaping the AI-first econ
- omy.\n\nEvent page: https://luma.com/yktcpve0
+DESCRIPTION:Source: Cerebral Valley\n\nThe upcoming Future of Work Pitch Ni
+ ght will bring together founders\, operators\, investors\, and builders fo
+ cused on AI\, robotics\, and work tech innovations\, featuring blitz pitch
+ es\, open demos\, and intimate networking to explore authentic collaborati
+ on between humans and AI in tomorrow’s workforce. This event is organize
+ d by Ontology of Value® led by Natalia Bielczyk\, PhD\, a career incubato
+ r shaping the AI-first economy.\n\nEvent page: https://luma.com/yktcpve0
 URL:https://luma.com/yktcpve0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ed799a6d-4b71-4cb9-864f-7e8bb070884d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260901T013000Z
 DTEND:20260901T040000Z
 SUMMARY:Builders Night
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:Builders Night will gather people working on anything from soft
- ware to art for focused\, side-by-side work sprints where you'll show up w
- ith a project and leave with real momentum from the collective energy arou
- nd you. It's a warm\, intentional space built for makers who need accounta
- bility and connection—not networking—with time for deep work and real 
- feedback from fellow builders.\n\nVenue: 550 Laguna St\n\nEvent page: http
- s://luma.com/kwtn1hx9
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders Night will gather people wo
+ rking on anything from software to art for focused\, side-by-side work spr
+ ints where you'll show up with a project and leave with real momentum from
+  the collective energy around you. It's a warm\, intentional space built f
+ or makers who need accountability and connection—not networking—with t
+ ime for deep work and real feedback from fellow builders.\n\nVenue: 550 La
+ guna St\n\nEvent page: https://luma.com/kwtn1hx9
 URL:https://luma.com/kwtn1hx9
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a65a5817-2161-43c1-bf1b-54e642f32702@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260902T014500Z
 DTEND:20260902T034500Z
 SUMMARY:Claude Code Demos: Building the State of the Art
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:Builders actively using agentic tools will gather for live demo
- s and open working sessions where they'll share real setups\, workflows\, 
- and practical lessons learned—then spend the night collaborating on actu
- al projects with other serious practitioners figuring out the same problem
- s.\n\nVenue: 550 Laguna St\n\nEvent page: https://luma.com/75ybvbjy
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders actively using agentic tool
+ s will gather for live demos and open working sessions where they'll share
+  real setups\, workflows\, and practical lessons learned—then spend the 
+ night collaborating on actual projects with other serious practitioners fi
+ guring out the same problems.\n\nVenue: 550 Laguna St\n\nEvent page: https
+ ://luma.com/75ybvbjy
 URL:https://luma.com/75ybvbjy
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6d41bb27-b6c7-434f-861d-e5154bf7c649@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260902T160000Z
 DTEND:20260903T020000Z
 SUMMARY:abstract by convex
 LOCATION:San Francisco\, CA
-DESCRIPTION:Software engineers and architects will dive into why design pri
- nciples matter more than ever as coding becomes commoditized\, exploring h
- ow simplicity and elegant abstractions separate great projects from the re
- st.\n\nEvent page: https://abstract.convex.dev/
+DESCRIPTION:Source: Cerebral Valley\n\nSoftware engineers and architects wi
+ ll dive into why design principles matter more than ever as coding becomes
+  commoditized\, exploring how simplicity and elegant abstractions separate
+  great projects from the rest.\n\nEvent page: https://abstract.convex.dev/
 URL:https://abstract.convex.dev/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ba154c71-aead-435f-a4fb-9a407ab0c0f5@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260908T013000Z
 DTEND:20260908T040000Z
 SUMMARY:Builders Night
 LOCATION:550 Laguna St\, San Francisco\, CA
-DESCRIPTION:Builders Night will bring together people working on everything
-  from software to art for focused side-by-side work sessions\, with time b
- uilt in to share progress and get unstuck together—no networking vibes\,
-  just genuine momentum from showing up consistently with others doing the 
- same thing.\n\nVenue: 550 Laguna St\n\nEvent page: https://luma.com/d6mldy
- 2x
+DESCRIPTION:Source: Cerebral Valley\n\nBuilders Night will bring together p
+ eople working on everything from software to art for focused side-by-side 
+ work sessions\, with time built in to share progress and get unstuck toget
+ her—no networking vibes\, just genuine momentum from showing up consiste
+ ntly with others doing the same thing.\n\nVenue: 550 Laguna St\n\nEvent pa
+ ge: https://luma.com/d6mldy2x
 URL:https://luma.com/d6mldy2x
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:adc7ab32-a884-49cc-bf5a-20d4499dcda5@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260909T160000Z
 DTEND:20260911T010000Z
 SUMMARY:AI for Marketers Summit San Francisco | AI for Marketers Summit
 LOCATION:Hyatt Regency San Francisco Airport\, San Francisco\, CA
-DESCRIPTION:Marketing leaders and CMOs ready to accelerate AI adoption will
-  dive into hands-on workshops and real-world case studies showcasing pract
- ical AI strategies that boost ROI\, featuring insights from experts connec
- ted to Google\, Mozilla\, and SiriusXM.\n\nVenue: Hyatt Regency San Franci
- sco Airport\n\nEvent page: https://events.cmoalliance.com/location/aisanfr
- ancisco
+DESCRIPTION:Source: Cerebral Valley\n\nMarketing leaders and CMOs ready to 
+ accelerate AI adoption will dive into hands-on workshops and real-world ca
+ se studies showcasing practical AI strategies that boost ROI\, featuring i
+ nsights from experts connected to Google\, Mozilla\, and SiriusXM.\n\nVenu
+ e: Hyatt Regency San Francisco Airport\n\nEvent page: https://events.cmoal
+ liance.com/location/aisanfrancisco
 URL:https://events.cmoalliance.com/location/aisanfrancisco
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:797f9a8c-1174-47a7-af9b-253c69c1b6e7@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260921T220000Z
 DTEND:20260923T220000Z
 SUMMARY:HumanX 2026 Amsterdam
 LOCATION:RAI Amsterdam\, San Francisco\, CA
-DESCRIPTION:Over 9\,500 enterprise AI leaders will gather to shape the indu
- stry's direction through specialized tracks and strategic matchmaking oppo
- rtunities.\n\nVenue: RAI Amsterdam\n\nEvent page: https://www.humanx.co/eu
- rope
+DESCRIPTION:Source: Cerebral Valley\n\nOver 9\,500 enterprise AI leaders wi
+ ll gather to shape the industry's direction through specialized tracks and
+  strategic matchmaking opportunities.\n\nVenue: RAI Amsterdam\n\nEvent pag
+ e: https://www.humanx.co/europe
 URL:https://www.humanx.co/europe
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8f9fddd2-636b-42d4-b518-609335bf8d22@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260923T160000Z
 DTEND:20260923T190000Z
 SUMMARY:WeAreDevelopers World Congress 2026 North America
 LOCATION:San Jose Convention Center\, San Jose\, CA
-DESCRIPTION:WeAreDevelopers World Congress North America 2026 will bring to
- gether developers\, AI innovators\, and tech leaders to explore cutting-ed
- ge advancements in AI\, software engineering\, and digital innovation. Exp
- ect deep dives into emerging technologies and networking with industry pio
- neers shaping the future of tech.\n\nVenue: San Jose Convention Center\n\n
- Event page: https://stayhappening.com/e/wearedevelopers-world-congress-202
- 6-north-america-E2ISYDLC0SC
+DESCRIPTION:Source: Cerebral Valley\n\nWeAreDevelopers World Congress North
+  America 2026 will bring together developers\, AI innovators\, and tech le
+ aders to explore cutting-edge advancements in AI\, software engineering\, 
+ and digital innovation. Expect deep dives into emerging technologies and n
+ etworking with industry pioneers shaping the future of tech.\n\nVenue: San
+  Jose Convention Center\n\nEvent page: https://stayhappening.com/e/wearede
+ velopers-world-congress-2026-north-america-E2ISYDLC0SC
 URL:https://stayhappening.com/e/wearedevelopers-world-congress-2026-north-a
  merica-E2ISYDLC0SC
 STATUS:CONFIRMED
@@ -2307,134 +2378,136 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ae2b7637-8178-44cf-8d0b-eab75e451976@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260923T180000Z
 DTEND:20260926T010000Z
 SUMMARY:WeAreDevelopers World Congress North America
 LOCATION:San Jose McEnery Convention Center\, San Jose\, CA
-DESCRIPTION:The WeAreDevelopers World Congress will gather 10\,000+ develop
- ers\, AI innovators\, and tech execs like CEOs and VPs from GitHub\, Merce
- des-Benz\, Microsoft\, and LinkedIn for three days of deep-dive workshops\
- , masterclasses\, and groundbreaking AI and software talks. Expect cutting
- -edge insights on AI-powered coding\, scalable systems\, secure DevOps\, a
- nd leadership in the evolving tech landscape\, alongside a massive tech ex
- po and networking with industry giants.\n\nVenue: San Jose McEnery Convent
- ion Center\n\nEvent page: https://luma.com/5g07qyg5
+DESCRIPTION:Source: Cerebral Valley\n\nThe WeAreDevelopers World Congress w
+ ill gather 10\,000+ developers\, AI innovators\, and tech execs like CEOs 
+ and VPs from GitHub\, Mercedes-Benz\, Microsoft\, and LinkedIn for three d
+ ays of deep-dive workshops\, masterclasses\, and groundbreaking AI and sof
+ tware talks. Expect cutting-edge insights on AI-powered coding\, scalable 
+ systems\, secure DevOps\, and leadership in the evolving tech landscape\, 
+ alongside a massive tech expo and networking with industry giants.\n\nVenu
+ e: San Jose McEnery Convention Center\n\nEvent page: https://luma.com/5g07
+ qyg5
 URL:https://luma.com/5g07qyg5
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:aa9b2ba6-eb42-4af6-acc8-fcfb16f18179@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260929T160000Z
 DTEND:20261002T010000Z
 SUMMARY:The AI Conference 2026 | San Francisco AI Conference
 LOCATION:Pier 48\, Stanford\, CA
-DESCRIPTION:The AI Conference™ is a groundbreaking multi-day event explor
- ing Agentic AI\, AGI\, frontier models\, infrastructure\, security\, gover
- nance\, evaluation\, AI startups\, emerging architectures\, and real-world
-  enterprise applications.\n\nVenue: Pier 48\n\nEvent page: https://aiconfe
- rence.com
+DESCRIPTION:Source: Cerebral Valley\n\nThe AI Conference™ is a groundbrea
+ king multi-day event exploring Agentic AI\, AGI\, frontier models\, infras
+ tructure\, security\, governance\, evaluation\, AI startups\, emerging arc
+ hitectures\, and real-world enterprise applications.\n\nVenue: Pier 48\n\n
+ Event page: https://aiconference.com
 URL:https://aiconference.com
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:15193bb1-5e84-439d-a974-ab852389d54b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260929T160000Z
 DTEND:20260930T010000Z
 SUMMARY:OpenAI DevDay 2026
 LOCATION:San Francisco\, CA
-DESCRIPTION:OpenAI DevDay 2026 is set for September 29th\, gathering AI dev
- elopers and tech enthusiasts for cutting-edge discussions and demos.\n\nEv
- ent page: https://openai.com/index/devday-2026
+DESCRIPTION:Source: Cerebral Valley\n\nOpenAI DevDay 2026 is set for Septem
+ ber 29th\, gathering AI developers and tech enthusiasts for cutting-edge d
+ iscussions and demos.\n\nEvent page: https://openai.com/index/devday-2026
 URL:https://openai.com/index/devday-2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0e986338-cb1d-4d64-a3fd-57444b3f1fef@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20260929T223000Z
 DTEND:20260930T033000Z
 SUMMARY:Disruptors & Enterprise: Vibe Coding Meets Agentic AI: Talks + AI A
  gent Workshops
 LOCATION:135 Constitution Dr\, Menlo Park\, CA
-DESCRIPTION:TechEquity Ai's upcoming forum will bring together AI leaders\,
-  developers\, startup founders\, and senior executives to dive into hands-
- on AI workshops and strategic talks on software engineering transformation
-  and agentic workflows\, fostering collaboration and practical AI adoption
-  across industries.\n\nVenue: 135 Constitution Dr\n\nEvent page: https://l
- uma.com/sep-ai-forum
+DESCRIPTION:Source: Cerebral Valley\n\nTechEquity Ai's upcoming forum will 
+ bring together AI leaders\, developers\, startup founders\, and senior exe
+ cutives to dive into hands-on AI workshops and strategic talks on software
+  engineering transformation and agentic workflows\, fostering collaboratio
+ n and practical AI adoption across industries.\n\nVenue: 135 Constitution 
+ Dr\n\nEvent page: https://luma.com/sep-ai-forum
 URL:https://luma.com/sep-ai-forum
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2c594a70-c4fa-49d0-af7f-6bf218fe8b18@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261003T170000Z
 DTEND:20261004T050000Z
 SUMMARY:Showerhacks — winner gets to take a shower
 LOCATION:Stanford\, CA
-DESCRIPTION:Showerhacks will showcase engineers pushing boundaries with pro
- vocative AI projects\, from unconventional chatbots to bold applications i
- n health\, law\, and dating\, judged solely on their edge and originality.
- \n\nEvent page: https://showerhacks.org
+DESCRIPTION:Source: Cerebral Valley\n\nShowerhacks will showcase engineers 
+ pushing boundaries with provocative AI projects\, from unconventional chat
+ bots to bold applications in health\, law\, and dating\, judged solely on 
+ their edge and originality.\n\nEvent page: https://showerhacks.org
 URL:https://showerhacks.org
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fd674f7a-abab-4668-9e5d-c1f46772577d@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261009T170000Z
 DTEND:20261011T000000Z
 SUMMARY:AI Native Summit - TechWeek 2026
 LOCATION:847 Howard St\, San Francisco\, CA
-DESCRIPTION:AI Native Summit 2026 will bring together AI engineers\, founde
- rs\, and infrastructure experts for two intense days of deep technical tal
- ks\, hands-on build labs\, and a community-driven hackathon finals with a 
- growing $50\,000+ prize pool\, spotlighting serious builders shaping the f
- uture of AI-native systems.\n\nVenue: 847 Howard St\n\nEvent page: https:/
- /luma.com/3t95uj7s
+DESCRIPTION:Source: Cerebral Valley\n\nAI Native Summit 2026 will bring tog
+ ether AI engineers\, founders\, and infrastructure experts for two intense
+  days of deep technical talks\, hands-on build labs\, and a community-driv
+ en hackathon finals with a growing $50\,000+ prize pool\, spotlighting ser
+ ious builders shaping the future of AI-native systems.\n\nVenue: 847 Howar
+ d St\n\nEvent page: https://luma.com/3t95uj7s
 URL:https://luma.com/3t95uj7s
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b712ab71-64a3-46fd-a6a9-19657df03d6e@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261013T003000Z
 DTEND:20261013T033000Z
 SUMMARY:The Future of Work Pitch Night + Open Demos: Worktech\, Robotics & 
  Agentic AI
 LOCATION:San Francisco\, CA
-DESCRIPTION:On October 11th\, founders\, operators\, investors\, and builde
- rs passionate about work tech\, agentic AI\, and robotics will pitch their
-  origin stories and demo innovations that aim to shape the future of human
- -AI collaboration in the workplace\, all under the guidance of career expe
- rt Natalia Bielczyk\, PhD. This event will mix powerful networking\, one-o
- n-one investor chats\, and a festival vibe with music and urban tech displ
- ays.\n\nEvent page: https://luma.com/qo2dliwb
+DESCRIPTION:Source: Cerebral Valley\n\nOn October 11th\, founders\, operato
+ rs\, investors\, and builders passionate about work tech\, agentic AI\, an
+ d robotics will pitch their origin stories and demo innovations that aim t
+ o shape the future of human-AI collaboration in the workplace\, all under 
+ the guidance of career expert Natalia Bielczyk\, PhD. This event will mix 
+ powerful networking\, one-on-one investor chats\, and a festival vibe with
+  music and urban tech displays.\n\nEvent page: https://luma.com/qo2dliwb
 URL:https://luma.com/qo2dliwb
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:40333e4e-4437-4a7e-bad6-b8e622042da8@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261020T160000Z
 DTEND:20261022T010000Z
 SUMMARY:No-Code Automation & AI Expo
 LOCATION:San Francisco\, CA
-DESCRIPTION:Attendees will dive into practical AI applications across start
- ups with real technical case studies while getting hands-on with Bubble's 
- no-code platform\, perfect for anyone looking to leverage automation and A
- I without breaking into code.\n\nEvent page: https://www.createwith.com/ev
- ent/san-francisco-no-code-automation-ai-expo-san-francisco-oct-2026
+DESCRIPTION:Source: Cerebral Valley\n\nAttendees will dive into practical A
+ I applications across startups with real technical case studies while gett
+ ing hands-on with Bubble's no-code platform\, perfect for anyone looking t
+ o leverage automation and AI without breaking into code.\n\nEvent page: ht
+ tps://www.createwith.com/event/san-francisco-no-code-automation-ai-expo-sa
+ n-francisco-oct-2026
 URL:https://www.createwith.com/event/san-francisco-no-code-automation-ai-ex
  po-san-francisco-oct-2026
 STATUS:CONFIRMED
@@ -2442,124 +2515,125 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc1895f-c14f-4e1a-a8e3-751191cdde76@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261022T160000Z
 DTEND:20261024T010000Z
 SUMMARY:AGNTCon + MCPCon
 LOCATION:San Jose\, CA
-DESCRIPTION:AGNTCon + MCPCon will bring together the brightest minds in age
- ntic AI—from researchers and open source developers to enterprise engine
- ers and platform teams—for keynotes\, technical deep dives\, and hands-o
- n expo experiences that'll shape the future of the AI ecosystem.\n\nEvent 
- page: https://events.linuxfoundation.org/agntcon-mcpcon-north-america
+DESCRIPTION:Source: Cerebral Valley\n\nAGNTCon + MCPCon will bring together
+  the brightest minds in agentic AI—from researchers and open source deve
+ lopers to enterprise engineers and platform teams—for keynotes\, technic
+ al deep dives\, and hands-on expo experiences that'll shape the future of 
+ the AI ecosystem.\n\nEvent page: https://events.linuxfoundation.org/agntco
+ n-mcpcon-north-america
 URL:https://events.linuxfoundation.org/agntcon-mcpcon-north-america
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a273af34-21b1-422d-962c-c69ef95dc2ba@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261028T040000Z
 DTEND:20261028T040000Z
 SUMMARY:Crescendo Live | San Francisco 2026
 LOCATION:Terra Gallery & Event Venue\, San Francisco\, CA
-DESCRIPTION:Crescendo Live San Francisco 2026 will gather seasoned CX leade
- rs and AI experts like James Green and Hemant Taneja to reveal practical A
- I strategies that redefine customer experience standards\, blending automa
- tion with human insight for faster\, more empathetic service. This full-da
- y event will feature hands-on workshops\, breakout sessions\, and real-wor
- ld stories from top professionals driving AI-powered CX transformations.\n
- \nVenue: Terra Gallery & Event Venue\n\nEvent page: https://www.crescendo.
- ai/live/san-francisco-2026
+DESCRIPTION:Source: Cerebral Valley\n\nCrescendo Live San Francisco 2026 wi
+ ll gather seasoned CX leaders and AI experts like James Green and Hemant T
+ aneja to reveal practical AI strategies that redefine customer experience 
+ standards\, blending automation with human insight for faster\, more empat
+ hetic service. This full-day event will feature hands-on workshops\, break
+ out sessions\, and real-world stories from top professionals driving AI-po
+ wered CX transformations.\n\nVenue: Terra Gallery & Event Venue\n\nEvent p
+ age: https://www.crescendo.ai/live/san-francisco-2026
 URL:https://www.crescendo.ai/live/san-francisco-2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c73fc765-4d7e-4ce8-bc56-b334142b0d8b@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261103T170000Z
 DTEND:20261107T000000Z
 SUMMARY:TechEquity Ai Summit 2026: Talks + AI Agent Workshops
 LOCATION:135 Constitution Dr\, Menlo Park\, CA
-DESCRIPTION:The TechEquity Summit will gather over 2\,000 AI leaders\, foun
- ders\, investors\, and educators from diverse sectors for four days of key
- notes\, workshops\, and networking focused on responsible AI development a
- nd real-world applications. Attendees will include seasoned developers\, s
- tartup founders\, and career-transition professionals eager to deepen thei
- r hands-on AI expertise.\n\nVenue: 135 Constitution Dr\n\nEvent page: http
- s://luma.com/ai-summit-2026
+DESCRIPTION:Source: Cerebral Valley\n\nThe TechEquity Summit will gather ov
+ er 2\,000 AI leaders\, founders\, investors\, and educators from diverse s
+ ectors for four days of keynotes\, workshops\, and networking focused on r
+ esponsible AI development and real-world applications. Attendees will incl
+ ude seasoned developers\, startup founders\, and career-transition profess
+ ionals eager to deepen their hands-on AI expertise.\n\nVenue: 135 Constitu
+ tion Dr\n\nEvent page: https://luma.com/ai-summit-2026
 URL:https://luma.com/ai-summit-2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:42e76db2-f579-4138-8c23-70634c3ec818@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261107T160000Z
 DTEND:20261109T040000Z
 SUMMARY:Festiverse 2026: The World’s Biggest Festival Hackathon
 LOCATION:San Francisco\, CA
-DESCRIPTION:Festiverse 2026 will gather a vibrant mix of builders\, designe
- rs\, founders\, artists\, and engineers to innovate the future of festival
- s through AI\, AR\, and immersive tech\, reimagining how we celebrate cult
- ural moments worldwide. This global hackathon promises groundbreaking crea
- tions from AI planners to virtual celebration platforms that will transfor
- m holiday experiences.\n\nEvent page: https://cerebralvalley.ai/e/festiver
- se-sf-2026
+DESCRIPTION:Source: Cerebral Valley\n\nFestiverse 2026 will gather a vibran
+ t mix of builders\, designers\, founders\, artists\, and engineers to inno
+ vate the future of festivals through AI\, AR\, and immersive tech\, reimag
+ ining how we celebrate cultural moments worldwide. This global hackathon p
+ romises groundbreaking creations from AI planners to virtual celebration p
+ latforms that will transform holiday experiences.\n\nEvent page: https://c
+ erebralvalley.ai/e/festiverse-sf-2026
 URL:https://cerebralvalley.ai/e/festiverse-sf-2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2cefb36c-b3eb-4602-a84b-4b380f9baaa4@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261111T160000Z
 DTEND:20261112T010000Z
 SUMMARY:AI Loves Data - GenAI and Intelligent Agents in the Enterprise
 LOCATION:AWS Builder Loft\, San Francisco\, CA
-DESCRIPTION:Data science leaders and AI researchers will converge for curat
- ed sessions exploring how machine learning drives enterprise innovation\, 
- with senior executives and top local talent diving into predictive analyti
- cs and real-world AI implementations.\n\nVenue: AWS Builder Loft\n\nEvent 
- page: https://ailovesdata.com/san-francisco/
+DESCRIPTION:Source: Cerebral Valley\n\nData science leaders and AI research
+ ers will converge for curated sessions exploring how machine learning driv
+ es enterprise innovation\, with senior executives and top local talent div
+ ing into predictive analytics and real-world AI implementations.\n\nVenue:
+  AWS Builder Loft\n\nEvent page: https://ailovesdata.com/san-francisco/
 URL:https://ailovesdata.com/san-francisco/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:643a6dda-e1e0-4a01-8dd7-37bbc8c31df0@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261116T170000Z
 DTEND:20261120T080000Z
 SUMMARY:QCon 2026: Senior Software Engineering Conference
 LOCATION:Hyatt Regency\, San Francisco\, CA
-DESCRIPTION:QCon 2026 will bring senior engineers from top tech companies t
- ogether for five days of deep dives into AI in production\, software archi
- tecture\, leadership\, and modern development practices\, sharing real-wor
- ld insights from successful large-scale implementations. This event will f
- eature candid sessions by experienced practitioners and hands-on training 
- designed to elevate strategic and practical skills in engineering leadersh
- ip and system design.\n\nVenue: Hyatt Regency\n\nEvent page: https://qcons
- f.com
+DESCRIPTION:Source: Cerebral Valley\n\nQCon 2026 will bring senior engineer
+ s from top tech companies together for five days of deep dives into AI in 
+ production\, software architecture\, leadership\, and modern development p
+ ractices\, sharing real-world insights from successful large-scale impleme
+ ntations. This event will feature candid sessions by experienced practitio
+ ners and hands-on training designed to elevate strategic and practical ski
+ lls in engineering leadership and system design.\n\nVenue: Hyatt Regency\n
+ \nEvent page: https://qconsf.com
 URL:https://qconsf.com
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:40060e67-df26-493c-b525-1bc1d8c28c8c@cerebralvalley.ai
-DTSTAMP:20260706T003259Z
+DTSTAMP:20260706T012129Z
 DTSTART:20261209T080000Z
 DTEND:20261213T170000Z
 SUMMARY:Conference on Neural Information Processing Systems
 LOCATION:NeurIPS Conference Venue\, Berkeley\, CA
-DESCRIPTION:The Fortieth Annual Conference on Neural Information Processing
-  Systems will bring together leading researchers and practitioners to disc
- uss cutting-edge advances in deep learning\, machine learning\, and AI. To
- p-tier academics and industry experts will showcase groundbreaking work sp
- anning neural architectures\, optimization\, and real-world applications.\
- n\nVenue: NeurIPS Conference Venue\n\nEvent page: https://neurips.cc/Confe
- rences/2026
+DESCRIPTION:Source: Cerebral Valley\n\nThe Fortieth Annual Conference on Ne
+ ural Information Processing Systems will bring together leading researcher
+ s and practitioners to discuss cutting-edge advances in deep learning\, ma
+ chine learning\, and AI. Top-tier academics and industry experts will show
+ case groundbreaking work spanning neural architectures\, optimization\, an
+ d real-world applications.\n\nVenue: NeurIPS Conference Venue\n\nEvent pag
+ e: https://neurips.cc/Conferences/2026
 URL:https://neurips.cc/Conferences/2026
 STATUS:CONFIRMED
 TRANSP:OPAQUE

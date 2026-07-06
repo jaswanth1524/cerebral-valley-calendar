@@ -1,3 +1,5 @@
+import { isCurrentOrFutureEvent, sortEvents } from "./event-utils.mjs";
+
 const API_URL = "https://api.cerebralvalley.ai/v1/public/event/pull";
 
 const DEFAULT_LIMIT = 100;
@@ -28,16 +30,22 @@ function normalizeUrl(value) {
 function normalizeEvent(event) {
   const start = forceUtc(event.startDateTime);
   const end = forceUtc(event.endDateTime);
+  const url = normalizeUrl(event.url);
 
   return {
     id: event.id,
+    uid: `${event.id}@cerebralvalley.ai`,
+    source: "cerebral-valley",
+    sourceName: "Cerebral Valley",
+    sourceId: event.id,
     title: event.name || "Cerebral Valley Event",
     description: event.descriptionSummary || event.description || "",
     start,
     end,
     location: event.location || "",
     venue: event.venue || "",
-    url: normalizeUrl(event.url),
+    url,
+    canonicalUrl: url,
     type: event.type || "",
     isCerebralValleyEvent: Boolean(event.CVEvent)
   };
@@ -46,11 +54,6 @@ function normalizeEvent(event) {
 export function filterEventsByLocations(events, locations) {
   const locationSet = new Set(locations);
   return events.filter((event) => locationSet.has(event.location));
-}
-
-export function isCurrentOrFutureEvent(event, now = new Date()) {
-  if (!event.start || !event.end) return false;
-  return new Date(event.end).getTime() >= now.getTime();
 }
 
 export async function fetchCerebralValleyEvents({
@@ -98,13 +101,14 @@ export async function fetchCerebralValleyEvents({
   }
 
   const seen = new Set();
-  return events
+  const uniqueEvents = events
     .map(normalizeEvent)
     .filter((event) => isCurrentOrFutureEvent(event, now))
     .filter((event) => {
       if (seen.has(event.id)) return false;
       seen.add(event.id);
       return true;
-    })
-    .sort((left, right) => new Date(left.start) - new Date(right.start));
+    });
+
+  return sortEvents(uniqueEvents);
 }

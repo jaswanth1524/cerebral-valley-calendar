@@ -1,8 +1,8 @@
 # Cerebral Valley Calendar
 
-Generates subscribed calendar feeds for Cerebral Valley events in selected US metro areas.
+Generates subscribed calendar feeds for Cerebral Valley and Luma events in selected US metro areas.
 
-The feed is built from Cerebral Valley's public event API and published as a static ICS file through GitHub Pages.
+The feeds are built from Cerebral Valley's public event API and Luma's public discovery endpoints, then published as static ICS files through GitHub Pages.
 
 ## Calendar URLs
 
@@ -11,24 +11,39 @@ After this repo is pushed to GitHub as `jaswanth1524/cerebral-valley-calendar` a
 ```txt
 SF & Bay Area:
   https://jaswanth1524.github.io/cerebral-valley-calendar/calendar.ics
+  https://jaswanth1524.github.io/cerebral-valley-calendar/luma-calendar.ics
+  https://jaswanth1524.github.io/cerebral-valley-calendar/all-calendar.ics
 
 New York metro:
   https://jaswanth1524.github.io/cerebral-valley-calendar/new-york.ics
+  https://jaswanth1524.github.io/cerebral-valley-calendar/luma-new-york.ics
+  https://jaswanth1524.github.io/cerebral-valley-calendar/all-new-york.ics
 
 Seattle metro:
   https://jaswanth1524.github.io/cerebral-valley-calendar/seattle.ics
+  https://jaswanth1524.github.io/cerebral-valley-calendar/luma-seattle.ics
+  https://jaswanth1524.github.io/cerebral-valley-calendar/all-seattle.ics
 
 Dallas metro:
   https://jaswanth1524.github.io/cerebral-valley-calendar/dallas.ics
+  https://jaswanth1524.github.io/cerebral-valley-calendar/luma-dallas.ics
+  https://jaswanth1524.github.io/cerebral-valley-calendar/all-dallas.ics
 
 Austin metro:
   https://jaswanth1524.github.io/cerebral-valley-calendar/austin.ics
+  https://jaswanth1524.github.io/cerebral-valley-calendar/luma-austin.ics
+  https://jaswanth1524.github.io/cerebral-valley-calendar/all-austin.ics
 ```
+
+For each metro, the original URL is Cerebral Valley-only, the `luma-` URL is Luma-only, and the `all-` URL combines both sources with duplicate Luma events collapsed.
+
+Luma feeds depend on public Luma discovery responses. If Luma changes those responses or temporarily blocks requests, the build still publishes the Cerebral Valley-only feeds and writes the Luma error into the matching debug JSON.
 
 ## What It Includes
 
 - SF and Bay Area locations
 - New York, Seattle, Dallas, and Austin metro locations
+- Luma discovery events for the matching public metro pages
 - All event types
 - No reminders or alarms
 - Original event page in the calendar event URL field
@@ -47,6 +62,7 @@ This writes:
 - `public/seattle.ics` and `public/events-seattle.json`
 - `public/dallas.ics` and `public/events-dallas.json`
 - `public/austin.ics` and `public/events-austin.json`
+- Matching `public/luma-*.ics`, `public/all-*.ics`, and debug JSON files
 
 ## Apple Calendar
 

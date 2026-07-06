@@ -39,7 +39,10 @@ function foldLine(line) {
 
 function eventDescription(event) {
   const parts = [
+    event.sourceName ? `Source: ${event.sourceName}` : "",
     event.description,
+    event.calendarName ? `Calendar: ${event.calendarName}` : "",
+    event.hosts?.length ? `Hosts: ${event.hosts.join(", ")}` : "",
     event.venue ? `Venue: ${event.venue}` : "",
     `Event page: ${event.url}`
   ].filter(Boolean);
@@ -53,7 +56,7 @@ function eventToIcs(event, generatedAt) {
 
   return [
     "BEGIN:VEVENT",
-    `UID:${event.id}@cerebralvalley.ai`,
+    `UID:${event.uid || `${event.id}@cerebralvalley.ai`}`,
     `DTSTAMP:${formatUtcDate(generatedAt)}`,
     `DTSTART:${formatUtcDate(event.start)}`,
     `DTEND:${formatUtcDate(event.end)}`,
