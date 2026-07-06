@@ -1,4 +1,5 @@
 import { isCurrentOrFutureEvent, sortEvents } from "./event-utils.mjs";
+import { fetchJson as requestJson } from "./http.mjs";
 
 const API_BASE_URL = "https://api.lu.ma";
 const DEFAULT_LIMIT = 25;
@@ -58,25 +59,13 @@ function descriptionMirrorText(descriptionMirror) {
 }
 
 async function fetchJson(url) {
-  const response = await fetch(url, {
+  return requestJson(url, {
     headers: {
       accept: "application/json",
       "user-agent": USER_AGENT
-    }
+    },
+    errorPrefix: "Luma API"
   });
-
-  if (!response.ok) {
-    let message = `Luma API returned ${response.status}`;
-    try {
-      const payload = await response.json();
-      message = payload.message || payload.detail || message;
-    } catch {
-      // Keep the status-based message when the response body is not JSON.
-    }
-    throw new Error(message);
-  }
-
-  return response.json();
 }
 
 async function fetchLumaEventDetail(entry) {

@@ -1,4 +1,5 @@
 import { isCurrentOrFutureEvent, sortEvents } from "./event-utils.mjs";
+import { fetchJson } from "./http.mjs";
 
 const API_URL = "https://api.cerebralvalley.ai/v1/public/event/pull";
 
@@ -72,25 +73,14 @@ export async function fetchCerebralValleyEvents({
       offset: String(offset)
     });
 
-    const response = await fetch(`${API_URL}?${params}`, {
+    const payload = await fetchJson(`${API_URL}?${params}`, {
       headers: {
         accept: "application/json",
         "user-agent": "jaswanth1524/cerebral-valley-calendar"
-      }
+      },
+      errorPrefix: "Cerebral Valley API"
     });
 
-    if (!response.ok) {
-      let message = `Cerebral Valley API returned ${response.status}`;
-      try {
-        const payload = await response.json();
-        message = payload.detail || message;
-      } catch {
-        // Keep the status-based message when the response body is not JSON.
-      }
-      throw new Error(message);
-    }
-
-    const payload = await response.json();
     const pageEvents = Array.isArray(payload.events) ? payload.events : [];
     events.push(...pageEvents);
 

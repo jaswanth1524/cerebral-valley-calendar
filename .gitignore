@@ -1,2 +1,8 @@
 node_modules/
 .DS_Store
+.cache/
+coverage/
+*.log
+.env
+.env.*
+!.env.example

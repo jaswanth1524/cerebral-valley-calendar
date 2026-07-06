@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import {
   canonicalEventUrl,
   dedupeEvents,
+  eventIdentityKeys,
   isCurrentOrFutureEvent,
   isWithinRetentionWindow,
   mergeEventState
@@ -140,4 +141,31 @@ test("mergeEventState keeps recent ended events and prunes old ended events", ()
   assert.equal(isWithinRetentionWindow(previous[0], now, 30), true);
   assert.equal(isWithinRetentionWindow(previous[1], now, 30), false);
   assert.deepEqual(mergeEventState(previous, [], { now, retentionDays: 30 }).map((event) => event.uid), ["recent@example.com"]);
+});
+
+test("mergeEventState skips malformed saved events", () => {
+  const previous = [
+    {
+      uid: "bad@example.com",
+      title: "Bad",
+      start: "not-a-date",
+      end: "2026-07-07T02:00:00.000Z",
+      url: "https://example.com/bad"
+    }
+  ];
+  const latest = [
+    {
+      uid: "good@example.com",
+      title: "Good",
+      start: "2026-07-08T01:00:00.000Z",
+      end: "2026-07-08T02:00:00.000Z",
+      url: "https://example.com/good"
+    }
+  ];
+
+  assert.deepEqual(
+    mergeEventState(previous, latest, { now: new Date("2026-07-06T00:00:00.000Z") }).map((event) => event.uid),
+    ["good@example.com"]
+  );
+  assert.deepEqual(eventIdentityKeys(previous[0]), ["uid:bad@example.com", "url:https://example.com/bad", "metadata:bad||"]);
 });

@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "node src/build-calendar.mjs",
-    "check": "node --check src/build-calendar.mjs && node --check src/event-utils.mjs && node --check src/feed-state.mjs && node --check src/feeds.mjs && node --check src/fetch-events.mjs && node --check src/fetch-luma-events.mjs && node --check src/ics.mjs && node --test"
+    "check": "node --check src/build-calendar.mjs && node --check src/event-utils.mjs && node --check src/feed-state.mjs && node --check src/feeds.mjs && node --check src/fetch-events.mjs && node --check src/fetch-luma-events.mjs && node --check src/http.mjs && node --check src/ics.mjs && node --check src/status.mjs && node --test"
   },
   "engines": {
     "node": ">=20"

@@ -68,6 +68,8 @@ This writes:
 
 The build reads previous debug JSON from the deployed GitHub Pages site before writing new files, with local `public/` JSON as a fallback. Set `CALENDAR_STATE_BASE_URL=""` to skip remote state and use only local files during development.
 
+The build also writes `public/status.json` and `public/index.html` so the deployed site shows feed freshness, event counts, source errors, and subscription links without opening every debug JSON file.
+
 ## Apple Calendar
 
 1. Open Calendar on macOS.

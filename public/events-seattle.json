@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T02:08:44.620Z",
+  "generatedAt": "2026-07-06T02:36:41.736Z",
   "source": "cerebral-valley",
   "sourceUrl": "https://cerebralvalley.ai/events",
   "error": null,
@@ -7,7 +7,7 @@
   "stateUrl": "https://jaswanth1524.github.io/cerebral-valley-calendar/events-seattle.json",
   "stateWarning": null,
   "retentionDays": 30,
-  "count": 62,
+  "count": 68,
   "events": [
     {
       "id": "905d90f7-d760-42cb-9886-9f69b02ad989",
@@ -108,6 +108,23 @@
       "venue": "Tapster",
       "url": "https://www.eventbrite.com/e/tickets-1991289540620",
       "canonicalUrl": "https://www.eventbrite.com/e/tickets-1991289540620",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
+      "id": "4e290c77-6951-475b-a834-7d5d4e667c69",
+      "uid": "4e290c77-6951-475b-a834-7d5d4e667c69@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "4e290c77-6951-475b-a834-7d5d4e667c69",
+      "title": "AI Tech Startup & Investor Networking",
+      "description": "AI and tech founders, investors, and industry professionals will converge to connect and exchange insights in a dedicated space built for meaningful conversation.",
+      "start": "2026-07-09T01:00:00.000Z",
+      "end": "2026-07-09T04:00:00.000Z",
+      "location": "Seattle, WA",
+      "venue": "Tapster",
+      "url": "https://www.eventbrite.com/e/tickets-1993258168840",
+      "canonicalUrl": "https://www.eventbrite.com/e/tickets-1993258168840",
       "type": "",
       "isCerebralValleyEvent": false
     },
@@ -622,6 +639,23 @@
       "isCerebralValleyEvent": false
     },
     {
+      "id": "b9a55e3a-d7cb-4307-9c52-b4ff1c7b429c",
+      "uid": "b9a55e3a-d7cb-4307-9c52-b4ff1c7b429c@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "b9a55e3a-d7cb-4307-9c52-b4ff1c7b429c",
+      "title": "Scaling Startups and GTM Strategies with Subhadeep Chatterjee, Global Investor Partnerships @ Google Cloud | Thinkspace",
+      "description": "Subhadeep, a 2x founder and ex-PwC consultant who advises 300+ accelerators, will break down how startups can build scalable sales machines, tap into ecosystem partnerships for growth, and translate technical complexity into enterprise revenue.",
+      "start": "2026-07-27T17:00:00.000Z",
+      "end": "2026-07-27T18:30:00.000Z",
+      "location": "Seattle, WA",
+      "venue": "thinkspace SEATTLE",
+      "url": "https://luma.com/vm4u6nm8",
+      "canonicalUrl": "https://luma.com/vm4u6nm8",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
       "id": "45c8c573-0101-4afb-9982-3c8da4b7fd0c",
       "uid": "45c8c573-0101-4afb-9982-3c8da4b7fd0c@cerebralvalley.ai",
       "source": "cerebral-valley",
@@ -656,6 +690,23 @@
       "isCerebralValleyEvent": false
     },
     {
+      "id": "e40672a9-4376-4850-a370-d35f5cf9401c",
+      "uid": "e40672a9-4376-4850-a370-d35f5cf9401c@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "e40672a9-4376-4850-a370-d35f5cf9401c",
+      "title": "Biotech Pregame | Bits in Bio",
+      "description": "Seattle's biotech innovators, VCs, and scientists will gather for drinks and sunshine to kick off Tech Week, with Bits in Bio's 12,000-strong community bringing together the sharpest minds working at the intersection of AI, software, and biology.",
+      "start": "2026-07-27T22:00:00.000Z",
+      "end": "2026-07-28T01:00:00.000Z",
+      "location": "Seattle, WA",
+      "venue": "Reuben's Brews - Downtown Seattle Taproom",
+      "url": "https://luma.com/223uuagz",
+      "canonicalUrl": "https://luma.com/223uuagz",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
       "id": "b0052cd9-7ca8-40e8-906a-236cb0aaf5a6",
       "uid": "b0052cd9-7ca8-40e8-906a-236cb0aaf5a6@cerebralvalley.ai",
       "source": "cerebral-valley",
@@ -686,6 +737,23 @@
       "venue": "Bellevue City Hall",
       "url": "https://www.meetup.com/product-management-seattle/events/315430018",
       "canonicalUrl": "https://www.meetup.com/product-management-seattle/events/315430018",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
+      "id": "4e2d283d-6a40-4410-b156-516beeb9a537",
+      "uid": "4e2d283d-6a40-4410-b156-516beeb9a537@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "4e2d283d-6a40-4410-b156-516beeb9a537",
+      "title": "Creativity, Intent, and the Future of AI // A TEDxSeattle Salon at Tech Week",
+      "description": "A powerhouse panel of Grammy-winning musicians, contemporary artists, neuroscientists, and digital authenticity experts will dig into what creativity actually means when AI can generate art in seconds—exploring how creators can harness these tools while keeping their unique voice intact. You'll hear from heavy hitters like Medearis Dixon and Eric Scouten (Adobe's Identity Architect) as they unpack the real questions reshaping culture and innovation.",
+      "start": "2026-07-28T01:00:00.000Z",
+      "end": "2026-07-28T03:00:00.000Z",
+      "location": "Seattle, WA",
+      "venue": "Art Love Salon",
+      "url": "https://luma.com/khxpsau5",
+      "canonicalUrl": "https://luma.com/khxpsau5",
       "type": "",
       "isCerebralValleyEvent": false
     },
@@ -792,6 +860,23 @@
       "isCerebralValleyEvent": false
     },
     {
+      "id": "cf74c763-d3af-4f15-9656-14283fbee593",
+      "uid": "cf74c763-d3af-4f15-9656-14283fbee593@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "cf74c763-d3af-4f15-9656-14283fbee593",
+      "title": "Orbital Data Centers, Infrastructure and Connectivity with Ashurst Perkins Coie and Space Happy Hour",
+      "description": "Space-based AI infrastructure is about to get real as industry leaders from Eclipse Space, Starcloud, and Sophia Space break down how satellites are becoming the backbone of next-gen computing—expect sharp insights from experienced founders and CEOs followed by networking over drinks.",
+      "start": "2026-07-31T00:30:00.000Z",
+      "end": "2026-07-31T03:30:00.000Z",
+      "location": "Seattle, WA",
+      "venue": "",
+      "url": "https://luma.com/0t8sk6py",
+      "canonicalUrl": "https://luma.com/0t8sk6py",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
       "id": "f14a0b5f-2e27-4c63-bb6b-a69fc63672ba",
       "uid": "f14a0b5f-2e27-4c63-bb6b-a69fc63672ba@cerebralvalley.ai",
       "source": "cerebral-valley",
@@ -805,6 +890,23 @@
       "venue": "The Ruins",
       "url": "https://luma.com/kz2lcdiy",
       "canonicalUrl": "https://luma.com/kz2lcdiy",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
+      "id": "f4b3d027-1ef2-450a-8e41-a2fc5b0b10ba",
+      "uid": "f4b3d027-1ef2-450a-8e41-a2fc5b0b10ba@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "f4b3d027-1ef2-450a-8e41-a2fc5b0b10ba",
+      "title": "System Override: Tech Week Rave - mpathic, Fuel Talent, SVB & Fenwick - 7:15 to 1 AM!!",
+      "description": "Seattle's tech community will trade laptops for lasers at this year's Y2K-themed rave, complete with a custom light show from local visual AI artists, a lineup of DJs who are engineers and tech builders themselves, and the kind of networking-on-the-dance-floor energy that actually sticks. Expect high-energy EDM, throwback vibes, free drinks, and all the good chaos that happens when you get the people building the future in one glitchy, nonstop-music-powered room.",
+      "start": "2026-07-31T02:15:00.000Z",
+      "end": "2026-07-31T08:00:00.000Z",
+      "location": "Seattle, WA",
+      "venue": "Q Nightclub",
+      "url": "https://luma.com/jxbrvcvo",
+      "canonicalUrl": "https://luma.com/jxbrvcvo",
       "type": "",
       "isCerebralValleyEvent": false
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T02:08:44.620Z",
+  "generatedAt": "2026-07-06T02:36:41.736Z",
   "source": "combined",
   "sourceUrl": "https://luma.com/seattle + https://cerebralvalley.ai/events",
   "error": null,
@@ -7,7 +7,7 @@
   "stateUrl": null,
   "stateWarning": "derived from merged Cerebral Valley and Luma source feeds",
   "retentionDays": 30,
-  "count": 88,
+  "count": 89,
   "events": [
     {
       "id": "905d90f7-d760-42cb-9886-9f69b02ad989",
@@ -116,6 +116,23 @@
       "venue": "Tapster",
       "url": "https://www.eventbrite.com/e/tickets-1991289540620",
       "canonicalUrl": "https://www.eventbrite.com/e/tickets-1991289540620",
+      "type": "",
+      "isCerebralValleyEvent": false
+    },
+    {
+      "id": "4e290c77-6951-475b-a834-7d5d4e667c69",
+      "uid": "4e290c77-6951-475b-a834-7d5d4e667c69@cerebralvalley.ai",
+      "source": "cerebral-valley",
+      "sourceName": "Cerebral Valley",
+      "sourceId": "4e290c77-6951-475b-a834-7d5d4e667c69",
+      "title": "AI Tech Startup & Investor Networking",
+      "description": "AI and tech founders, investors, and industry professionals will converge to connect and exchange insights in a dedicated space built for meaningful conversation.",
+      "start": "2026-07-09T01:00:00.000Z",
+      "end": "2026-07-09T04:00:00.000Z",
+      "location": "Seattle, WA",
+      "venue": "Tapster",
+      "url": "https://www.eventbrite.com/e/tickets-1993258168840",
+      "canonicalUrl": "https://www.eventbrite.com/e/tickets-1993258168840",
       "type": "",
       "isCerebralValleyEvent": false
     },

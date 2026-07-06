@@ -1,12 +1,12 @@
 import { readFile } from "node:fs/promises";
 import { resolve } from "node:path";
+import { fetchJson } from "./http.mjs";
 
 export const DEFAULT_STATE_BASE_URL = "https://jaswanth1524.github.io/cerebral-valley-calendar";
 
 const USER_AGENT = "jaswanth1524/cerebral-valley-calendar";
 
-function parseStateJson(text, label) {
-  const payload = JSON.parse(text);
+function parseStatePayload(payload, label) {
   if (!Array.isArray(payload.events)) {
     throw new Error(`${label} does not contain an events array`);
   }
@@ -15,19 +15,16 @@ function parseStateJson(text, label) {
 
 async function loadRemoteEvents(debugFile, baseUrl) {
   const stateUrl = `${baseUrl.replace(/\/$/, "")}/${debugFile}`;
-  const response = await fetch(stateUrl, {
+  const payload = await fetchJson(stateUrl, {
     headers: {
       accept: "application/json",
       "user-agent": USER_AGENT
-    }
+    },
+    errorPrefix: "remote state"
   });
 
-  if (!response.ok) {
-    throw new Error(`remote state returned ${response.status}`);
-  }
-
   return {
-    events: parseStateJson(await response.text(), stateUrl),
+    events: parseStatePayload(payload, stateUrl),
     stateSource: "remote",
     stateUrl,
     stateWarning: null
@@ -36,8 +33,9 @@ async function loadRemoteEvents(debugFile, baseUrl) {
 
 async function loadLocalEvents(debugFile, publicDir) {
   const path = resolve(publicDir, debugFile);
+  const payload = JSON.parse(await readFile(path, "utf8"));
   return {
-    events: parseStateJson(await readFile(path, "utf8"), path),
+    events: parseStatePayload(payload, path),
     stateSource: "local",
     stateUrl: path,
     stateWarning: null

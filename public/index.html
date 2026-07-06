@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cerebral Valley Calendar Feeds</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      body {
+        margin: 0;
+        background: Canvas;
+        color: CanvasText;
+      }
+
+      main {
+        max-width: 1120px;
+        margin: 0 auto;
+        padding: 32px 20px;
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: 30px;
+        line-height: 1.2;
+      }
+
+      p {
+        margin: 0 0 24px;
+        color: color-mix(in srgb, CanvasText 72%, Canvas);
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 14px;
+      }
+
+      th,
+      td {
+        padding: 10px 12px;
+        border-bottom: 1px solid color-mix(in srgb, CanvasText 18%, Canvas);
+        text-align: left;
+        vertical-align: top;
+      }
+
+      th {
+        font-size: 12px;
+        text-transform: uppercase;
+        color: color-mix(in srgb, CanvasText 64%, Canvas);
+      }
+
+      a {
+        color: LinkText;
+      }
+
+      .status {
+        display: inline-block;
+        min-width: 42px;
+        padding: 2px 8px;
+        border-radius: 999px;
+        font-size: 12px;
+        text-align: center;
+      }
+
+      .status-ok {
+        background: color-mix(in srgb, green 18%, Canvas);
+      }
+
+      .status-error {
+        background: color-mix(in srgb, red 18%, Canvas);
+      }
+
+      @media (max-width: 760px) {
+        main {
+          padding: 20px 12px;
+        }
+
+        table {
+          display: block;
+          overflow-x: auto;
+          white-space: nowrap;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Cerebral Valley Calendar Feeds</h1>
+      <p>Last generated 2026-07-06T02:36:41.736Z. Machine-readable status is available at <a href="status.json">status.json</a>.</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Calendar</th>
+            <th>Source</th>
+            <th>Events</th>
+            <th>Status</th>
+            <th>State</th>
+            <th>Message</th>
+            <th>Subscribe</th>
+            <th>Debug</th>
+          </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td>Cerebral Valley SF &amp; Bay Area</td>
+          <td>cerebral-valley</td>
+          <td>159</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>remote</td>
+          <td></td>
+          <td><a href="calendar.ics">ICS</a></td>
+          <td><a href="events.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Luma SF &amp; Bay Area</td>
+          <td>luma</td>
+          <td>44</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>remote</td>
+          <td></td>
+          <td><a href="luma-calendar.ics">ICS</a></td>
+          <td><a href="events-luma.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Cerebral Valley + Luma SF &amp; Bay Area</td>
+          <td>combined</td>
+          <td>180</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>derived</td>
+          <td>derived from merged Cerebral Valley and Luma source feeds</td>
+          <td><a href="all-calendar.ics">ICS</a></td>
+          <td><a href="events-all.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Cerebral Valley New York Metro</td>
+          <td>cerebral-valley</td>
+          <td>106</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>remote</td>
+          <td></td>
+          <td><a href="new-york.ics">ICS</a></td>
+          <td><a href="events-new-york.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Luma New York Metro</td>
+          <td>luma</td>
+          <td>70</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>remote</td>
+          <td></td>
+          <td><a href="luma-new-york.ics">ICS</a></td>
+          <td><a href="events-luma-new-york.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Cerebral Valley + Luma New York Metro</td>
+          <td>combined</td>
+          <td>165</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>derived</td>
+          <td>derived from merged Cerebral Valley and Luma source feeds</td>
+          <td><a href="all-new-york.ics">ICS</a></td>
+          <td><a href="events-all-new-york.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Cerebral Valley Seattle Metro</td>
+          <td>cerebral-valley</td>
+          <td>68</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>remote</td>
+          <td></td>
+          <td><a href="seattle.ics">ICS</a></td>
+          <td><a href="events-seattle.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Luma Seattle Metro</td>
+          <td>luma</td>
+          <td>37</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>remote</td>
+          <td></td>
+          <td><a href="luma-seattle.ics">ICS</a></td>
+          <td><a href="events-luma-seattle.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Cerebral Valley + Luma Seattle Metro</td>
+          <td>combined</td>
+          <td>89</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>derived</td>
+          <td>derived from merged Cerebral Valley and Luma source feeds</td>
+          <td><a href="all-seattle.ics">ICS</a></td>
+          <td><a href="events-all-seattle.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Cerebral Valley Dallas Metro</td>
+          <td>cerebral-valley</td>
+          <td>0</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>remote</td>
+          <td></td>
+          <td><a href="dallas.ics">ICS</a></td>
+          <td><a href="events-dallas.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Luma Dallas Metro</td>
+          <td>luma</td>
+          <td>12</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>remote</td>
+          <td></td>
+          <td><a href="luma-dallas.ics">ICS</a></td>
+          <td><a href="events-luma-dallas.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Cerebral Valley + Luma Dallas Metro</td>
+          <td>combined</td>
+          <td>12</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>derived</td>
+          <td>derived from merged Cerebral Valley and Luma source feeds</td>
+          <td><a href="all-dallas.ics">ICS</a></td>
+          <td><a href="events-all-dallas.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Cerebral Valley Austin Metro</td>
+          <td>cerebral-valley</td>
+          <td>0</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>remote</td>
+          <td></td>
+          <td><a href="austin.ics">ICS</a></td>
+          <td><a href="events-austin.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Luma Austin Metro</td>
+          <td>luma</td>
+          <td>22</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>remote</td>
+          <td></td>
+          <td><a href="luma-austin.ics">ICS</a></td>
+          <td><a href="events-luma-austin.json">JSON</a></td>
+        </tr>
+        <tr>
+          <td>Cerebral Valley + Luma Austin Metro</td>
+          <td>combined</td>
+          <td>22</td>
+          <td><span class="status status-ok">ok</span></td>
+          <td>derived</td>
+          <td>derived from merged Cerebral Valley and Luma source feeds</td>
+          <td><a href="all-austin.ics">ICS</a></td>
+          <td><a href="events-all-austin.json">JSON</a></td>
+        </tr>
+        </tbody>
+      </table>
+    </main>
+  </body>
+</html>
